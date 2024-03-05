@@ -1,0 +1,1620 @@
+CIK:  927628
+Company Name: CAPITAL ONE FINANCIAL CORP
+Form Type : 10-Q
+Filing Date: 2022-05-10
+Accession Number: 0000927628-22-000195
+
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) 
+ 
+This discussion contains forward-looking statements that are based upon management’s current expectations and are subject to significant uncertainties and changes in circumstances. Please review “MD&A—Forward-Looking Statements” for more information on the forward-looking statements in this Quarterly Report on Form 10-Q (“this Report”). All statements that address operating performance, events or developments that we expect or anticipate will occur in the future, including those relating to operating results and the Cybersecurity Incident described in “Note 13—Commitments, Contingencies, Guarantees and Others” as well as the potential impacts of the Coronavirus Disease of 2019 (“COVID-19”) pandemic described in “MD&A—Introduction—Coronavirus Disease 2019 (COVID-19) Pandemic” are forward-looking statements. Our actual results may differ materially from those included in these forward-looking statements due to a variety of factors including, but not limited to, those described in Part I—Item 1A. Risk Factors” in our 2021 Annual Report on Form 10-K (“2021 Form 10-K”) and “Part II—Item 1A. Risk Factors” in this Report. Unless otherwise specified, references to notes to our consolidated financial statements refer to the notes to our consolidated financial statements as of March 31, 2022 included in this Report.
+ 
+Management monitors a variety of key indicators to evaluate our business results and financial condition. The following MD&A is provided as a supplement to, and should be read in conjunction with, our consolidated financial statements and related notes in this Report and the more detailed information contained in our 2021 Form 10-K.
+INTRODUCTION
+ 
+Capital One Financial Corporation, a Delaware corporation established in 1994 and headquartered in McLean, Virginia, is a diversified financial services holding company with banking and non-banking subsidiaries. Capital One Financial Corporation and its subsidiaries (the “Company” or “Capital One”) offer a broad array of financial products and services to consumers, small businesses and commercial clients through digital channels, branch locations, Cafés and other distribution channels.
+As of March 31, 2022, our principal subsidiaries included:
+•Capital One Bank (USA), National Association (“COBNA”), which offers credit card products along with other lending products and consumer services; and
+•Capital One, National Association (“CONA”), which offers a broad spectrum of banking products and financial services to consumers, small businesses and commercial clients.
+The Company is hereafter collectively referred to as “we,” “us” or “our.” COBNA and CONA are collectively referred to as the “Banks.” Certain business terms used in this document are defined in the “MD&A—Glossary and Acronyms” and should be read in conjunction with the consolidated financial statements included in this Report.
+Our consolidated total net revenues are derived primarily from lending to consumer, small business and commercial customers net of funding costs associated with interest on deposits, long-term debt and other borrowings. We also earn non-interest income which primarily consists of interchange income, net of reward expenses, service charges and other customer-related fees. Our expenses primarily consist of the provision for credit losses, operating expenses, marketing expenses and income taxes.
+Our principal operations are organized for management reporting purposes into three major business segments, which are defined primarily based on the products and services provided or the types of customer served: Credit Card, Consumer Banking and Commercial Banking. The operations of acquired businesses have been integrated into or managed as a part of our existing business segments. Certain activities that are not part of a segment, such as management of our corporate investment portfolio, asset/liability management by our centralized Corporate Treasury group and residual tax expense or benefit to arrive at the consolidated effective tax rate that is not assessed to our primary business segments, are included in the Other category. 
+•Credit Card: Consists of our domestic consumer and small business card lending, and international card businesses in the United Kingdom (“U.K.”) and Canada.
+4
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+•Consumer Banking: Consists of our deposit gathering and lending activities for consumers and small businesses, and national auto lending.
+•Commercial Banking: Consists of our lending, deposit gathering, capital markets and treasury management services to commercial real estate and commercial and industrial customers. Our commercial and industrial customers typically include companies with annual revenues between $20 million and $2 billion.
+Business Developments
+We regularly explore and evaluate opportunities to acquire financial services and products as well as financial assets, including credit card and other loan portfolios, and enter into strategic partnerships as part of our growth strategy. We also explore opportunities to acquire technology companies and related assets to improve our information technology infrastructure and to deliver on our digital strategy. We may issue equity or debt to fund our acquisitions. In addition, we regularly consider the potential disposition or exit of certain assets, branches, partnership agreements or lines of business.
+Coronavirus Disease 2019 (COVID-19) Pandemic 
+The COVID-19 pandemic resulted in a global public-health crisis, disrupting economies and introducing significant volatility into financial markets. We transformed how we work in order to protect the well-being of our associates and our customers, and were able to continue to serve our customers, successfully manage critical functions, and keep our lines of business operating.
+Since the start of the COVID-19 pandemic, a significant majority of our associates across our workforce have transitioned to working remotely, relying on our technology infrastructure and systems that have been designed for resilience and security. The majority of our associates continue to work remotely. In the future, we plan to adopt a hybrid work methodology that allows for in-office collaboration while still enabling associates to work remotely. We continue to monitor local conditions to ensure the safety of our associates.
+For the extent to which the COVID-19 pandemic impacted our financial results, refer to “Part I—Item 2. MD&A.” The extent to which the COVID-19 pandemic ultimately impacts our business, results of operations, and financial condition will depend on future developments that are still uncertain and cannot be predicted, including the scope and duration of the COVID-19 pandemic and actions taken by governmental authorities and other third parties in response to the COVID-19 pandemic. For more information see “Part I—Item 1A. Risk Factors” in our 2021 Form 10-K.
+5
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+SELECTED FINANCIAL DATA						
+ 
+The following table presents selected consolidated financial data and performance from our results of operations for the first quarters of 2022 and 2021 and selected comparative balance sheet data as of March 31, 2022 and December 31, 2021. We also provide selected key metrics we use in evaluating our performance, including certain metrics that are computed using non-GAAP measures. We consider these metrics to be key financial measures that management uses in assessing our operating performance, capital adequacy and the level of returns generated. We believe these non-GAAP metrics provide useful insight to investors and users of our financial information as they provide an alternate measurement of our performance and assist in assessing our capital adequacy and the level of return generated.
+Table 1: Consolidated Financial Highlights
+Three Months Ended March 31,
+(Dollars in millions, except per share data and as noted)		2022		2021		Change
+Income statement						
+Net interest income		$	6,397		$	5,822 			10 	%
+Non-interest income		1,776		1,291 			38 	
+Total net revenue		8,173		7,113 			15 	
+Provision (benefit) for credit losses		677		(823)			**
+Non-interest expense:						
+Marketing		918		501 			83 	
+Operating expense		3,633		3,239 			12 	
+Total non-interest expense		4,551		3,740 			22 	
+Income from continuing operations before income taxes		2,945		4,196 			(30)	
+Income tax provision		542		869 			(38)	
+Income from continuing operations, net of tax		2,403		3,327 			(28)	
+Loss from discontinued operations, net of tax		—		(2)			**
+Net income		2,403		3,325 			(28)	
+Dividends and undistributed earnings allocated to participating securities		(28)		(28)			— 	
+Preferred stock dividends		(57)		(61)			(7)	
+Net income available to common stockholders		$	2,318		$	3,236 			(28)	
+Common share statistics						 
+Basic earnings per common share:						
+Net income from continuing operations		$	5.65		$	7.06 			(20)	%
+Net income per basic common share		$	5.65		$	7.06 			(20)	
+Diluted earnings per common share:						
+Net income from continuing operations		$	5.62		$	7.03 			(20)	%
+Net income per basic common share		$	5.62		$	7.03 			(20)	
+Weighted-average common shares outstanding (in millions):						
+Basic		410.4		458.6 			(11)	%
+Diluted		412.2		460.1 			(10)	
+Common shares outstanding (period-end, in millions)		399.0		456.8 			(13)	
+Dividends declared and paid per common share		$	0.60		$	0.40 			50 	
+Tangible book value per common share (period-end)(1)
+91.77		90.96 			1 	
+ 
+6
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Three Months Ended March 31,
+(Dollars in millions, except per share data and as noted)		2022		2021		Change
+Balance sheet (average balances)						
+Loans held for investment		$	275,342		$	243,937 			13 	%
+Interest-earning assets		394,082		388,572 			1 	
+Total assets		430,372		421,808 			2 	
+Interest-bearing deposits		271,823		273,358 			(1)	
+Total deposits		309,597		305,056 			1 	
+Borrowings		42,277		39,911 			6 	
+Common equity		54,591		55,775 			(2)	
+Total stockholders’ equity		59,437		60,623 			(2)	
+Selected performance metrics						 
+Purchase volume		$	133,662		$	108,333 			23 	%
+Total net revenue margin(2)
+8.30 	%		7.32 	%		98 	bps
+Net interest margin		6.49		5.99 			50 	
+Return on average assets(3)
+2.23		3.16 			(93)	
+Return on average tangible assets(4)
+2.31		3.27 			(96)	
+Return on average common equity(5)
+16.98		23.22 			(6)	%
+Return on average tangible common equity(6)
+23.36		31.61 			(8)	
+Equity-to-assets ratio(7)
+13.81		14.37 			(56)	bps
+Non-interest expense as a percentage of average loans held for investment		6.61		6.13 			48 	
+Efficiency ratio(8)
+55.68		52.58 			310 	
+Operating efficiency ratio(9)
+44.45		45.54 			(109)	
+Effective income tax rate from continuing operations		18.4		20.7 			(230)	
+Net charge-offs		$	767		$	740 			4%
+Net charge-off rate		1.11 	%		1.21 	%		(10)	bps
+ 
+(Dollars in millions, except as noted)		March 31, 2022		December 31, 2021		Change
+Balance sheet (period-end)		 		 		
+Loans held for investment		$	280,466		$	277,340		1 	%
+Interest-earning assets		398,241		397,341		— 	
+Total assets		434,195		432,381		— 	
+Interest-bearing deposits		275,648		272,937		1 	
+Total deposits		313,429		310,980		1 	
+Borrowings		45,358		43,086		5 	
+Common equity		51,499		56,184		(8)	
+Total stockholders’ equity		56,345		61,029		(8)	
+Credit quality metrics						
+Allowance for credit losses		$	11,308		$	11,430		(1)	%
+Allowance as a percentage of loans held for investment (“allowance coverage ratio”)		4.03 	%		4.12 	%		(9)	bps
+30+ day performing delinquency rate		2.08 			2.25 			(17)	
+30+ day delinquency rate		2.21 			2.41 			(20)	
+Capital ratios		 				
+Common equity Tier 1 capital(10)
+12.7 	%		13.1 	%		(40)	bps
+Tier 1 capital(10)
+14.1 			14.5 			(40)	
+Total capital(10)
+16.4 			16.9 			(50)	
+Tier 1 leverage(10)
+11.3 			11.6 			(30)	
+Tangible common equity(11)
+8.7 			9.9 			(120)	
+Supplementary leverage(10)
+9.7 			9.9 			(20)	
+Other						
+Employees (period end, in thousands)		51.5 			50.8 			1 	%
+ 
+7
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+__________
+(1)Tangible book value per common share is a non-GAAP measure calculated based on tangible common equity (“TCE”) divided by common shares outstanding. See “MD&A—Table A —Reconciliation of Non-GAAP Measures” for additional information on non-GAAP measures.
+(2)Total net revenue margin is calculated based on annualized total net revenue for the period divided by average interest-earning assets for the period.
+(3)Return on average assets is calculated based on annualized income from continuing operations, net of tax, for the period divided by average total assets for the period.
+(4)Return on average tangible assets is a non-GAAP measure calculated based on annualized income from continuing operations, net of tax, for the period divided by average tangible assets for the period. See “MD&A—Table A —Reconciliation of Non-GAAP Measures” for additional information on non-GAAP measures.
+(5)Return on average common equity is calculated based on annualized net income (loss) available to common stockholders less annualized income (loss) from discontinued operations, net of tax, for the period, divided by average common equity. Our calculation of return on average common equity may not be comparable to similarly-titled measures reported by other companies.
+(6)Return on average tangible common equity is a non-GAAP measure calculated based on annualized net income (loss) available to common stockholders less annualized income (loss) from discontinued operations, net of tax, for the period, divided by average TCE. Our calculation of return on average TCE may not be comparable to similarly-titled measures reported by other companies. See “MD&A—Table A—Reconciliation of Non-GAAP Measures” for additional information on non-GAAP measures.
+(7)Equity-to-assets ratio is calculated based on average stockholders’ equity for the period divided by average total assets for the period.
+(8)Efficiency ratio is calculated based on total non-interest expense for the period divided by total net revenue for the period.
+(9)Operating efficiency ratio is calculated based on operating expense for the period divided by total net revenue for the period.
+(10)Capital ratios are calculated based on the Basel III Standardized Approach framework, see “MD&A—Capital Management” for additional information.
+(11)Tangible common equity ratio is a non-GAAP measure calculated based on TCE divided by tangible assets. See “MD&A—Table A—Reconciliation of Non-GAAP Measures” for the calculation of this measure and reconciliation to the comparative U.S. GAAP measure.
+**    Not meaningful.
+8
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+EXECUTIVE SUMMARY
+ 
+Financial Highlights
+We reported net income of $2.4 billion ($5.62 per diluted common share) on total net revenue of $8.2 billion for the first quarter of 2022. In comparison, we reported net income of $3.3 billion ($7.03 per diluted common share) on total net revenue of $7.1 billion for the first quarter of 2021.
+Our common equity Tier 1 capital ratio as calculated under the Basel III Standardized Approach was 12.7% and 13.1% as of March 31, 2022 and December 31, 2021, respectively. See “MD&A—Capital Management” for additional information.
+In January 2022, our Board of Directors authorized the repurchase of up to $5 billion of shares of our common stock. We repurchased approximately $2.4 billion of shares of our common stock during the first quarter of 2022. In April 2022, our Board of Directors authorized the repurchase of up to an additional $5 billion of shares of our common stock beginning in the third quarter of 2022. See “MD&A—Capital Management—Dividend Policy and Stock Purchases” for additional information.
+Below are additional highlights of our performance in the first quarter of 2022. These highlights are based on a comparison between the results of the first quarters of 2022 and 2021, except as otherwise noted. The changes in our financial condition and credit performance are generally based on our financial condition and credit performance as of March 31, 2022 compared to December 31, 2021. We provide a more detailed discussion of our financial performance in the sections following this “Executive Summary.”
+Total Company Performance
+•Earnings: 
+Our net income decreased by $922 million to $2.4 billion in the first quarter of 2022 compared to the first quarter of 2021 primarily driven by:
+◦Higher provision for credit losses due to a $1.4 billion larger allowance for credit loss release in the first quarter of 2021.  
+◦Higher non-interest expense primarily driven by increased marketing spend primarily in our Credit Card business as we continue to invest in marketing to generate growth in spending and new accounts.
+◦Higher non-interest expense due to increased compensation and continued investment in technology. 
+These drivers were partially offset by: 
+◦Higher net interest income primarily driven by higher average loan balances and margins in our credit card loan portfolio.
+◦Higher non-interest income primarily driven by higher net interchange fees due to an increase in purchase volume in Credit Card and a gain on the sale of partnership card loan portfolios.
+•Loans Held for Investment:
+◦Period-end loans held for investment increased by $3.1 billion to $280.5 billion as of March 31, 2022 from December 31, 2021 primarily driven by growth in our auto and commercial loan portfolios. 
+◦Average loans held for investment increased by $31.4 billion to $275.3 billion in the first quarter of 2022 compared to the first quarter of 2021 primarily driven by growth in our commercial, credit card and auto loan portfolios. 
+•Net Charge-Off and Delinquency Metrics: Our net charge-off rate decreased by 10 basis points (“bps”) to 1.11% in the first quarter of 2022 compared to the first quarter of 2021 primarily driven by higher average loans in our credit card loan portfolio.
+9
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Our 30+ day delinquency rate decreased by 20 basis points to 2.21% as of March 31, 2022 from December 31, 2021 primarily driven by seasonally lower auto delinquency inventories.
+•Allowance for Credit Losses: Our allowance for credit losses was substantially flat at $11.3 billion as of March 31, 2022 compared to $11.4 billion as of December 31, 2021. Our allowance coverage ratio decreased by 9 basis points to 4.03% as of March 31, 2022 from December 31, 2021 primarily driven by growth in our auto and commercial loan portfolios.
+CONSOLIDATED RESULTS OF OPERATIONS
+ 
+The section below provides a comparative discussion of our consolidated financial performance for the first quarters of 2022 and 2021. We provide a discussion of our business segment results in the following section, “MD&A—Business Segment Financial Performance.” This section should be read together with our “MD&A—Executive Summary,” where we discuss trends and other factors that we expect will affect our future results of operations.
+Net Interest Income
+Net interest income represents the difference between interest income, including certain fees, earned on our interest-earning assets and the interest expense incurred on our interest-bearing liabilities. Our interest-earning assets include loans, investment securities and other interest-earning assets, while our interest-bearing liabilities include interest-bearing deposits, securitized debt obligations, senior and subordinated notes, other borrowings and other interest-bearing liabilities. Generally, we include in interest income any past due fees on loans that we deem collectible. Our net interest margin, based on our consolidated results, represents the difference between the yield on our interest-earning assets and the cost of our interest-bearing liabilities, including the notional impact of non-interest-bearing funding. We expect net interest income and our net interest margin to fluctuate based on changes in interest rates and changes in the amount and composition of our interest-earning assets and interest-bearing liabilities.
+10
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Table 2 below presents the average outstanding balance, interest income earned, interest expense incurred and average yield for the first quarters of 2022 and 2021 for each major category of our interest-earning assets and interest-bearing liabilities. Nonperforming loans are included in the average loan balances below.
+Table 2: Average Balances, Net Interest Income and Net Interest Margin
+ 		Three Months Ended March 31,
+ 		2022		2021
+(Dollars in millions)		Average
+Balance		Interest Income/
+Expense		Average Yield/
+Rate		Average
+Balance		Interest Income/
+Expense		Average Yield/
+Rate
+Assets:												
+Interest-earning assets:												
+Loans:(1)
+Credit card		$	114,171 			$	4,274 			14.97 	%		$	102,520 			$	3,713 			14.49 	%
+Consumer banking		78,805 			1,411 			7.16 			69,234 			1,413 			8.16 	
+Commercial banking(2)
+86,046 			571 			2.65 			74,921 			516 			2.76 	
+Other(3)
+— 			111 			**		— 			212 			**
+Total loans, including loans held for sale		279,022 			6,367 			9.13 			246,675 			5,854 			9.49 	
+Investment securities		94,700 			402 			1.70 			98,296 			391 			1.59 	
+Cash equivalents and other interest-earning assets		20,360 			15 			0.29 			43,601 			16 			0.15 	
+Total interest-earning assets		394,082 			6,784 			6.89 			388,572 			6,261 			6.45 	
+Cash and due from banks		5,358 							5,085 					
+Allowance for credit losses		(11,427)							(15,548)					
+Premises and equipment, net		4,234 							4,283 					
+Other assets		38,125 							39,416 					
+Total assets		$	430,372 							$	421,808 					
+Liabilities and stockholders’ equity:												
+Interest-bearing liabilities:												
+Interest-bearing deposits		$	271,823 			$	218 			0.32 	%		$	273,358 			$	269 			0.39 	%
+Securitized debt obligations		13,740 			29 			0.84 			12,240 			32 			1.05 	
+Senior and subordinated notes		26,481 			131 			1.98 			26,968 			129 			1.91 	
+Other borrowings and liabilities		3,633 			9 			1.00 			2,210 			9 			1.62 	
+Total interest-bearing liabilities		315,677 			387 			0.49 			314,776 			439 			0.56 	
+Non-interest-bearing deposits		37,774 							31,698 					
+Other liabilities		17,484 							14,711 					
+Total liabilities		370,935 							361,185 					
+Stockholders’ equity		59,437 							60,623 					
+Total liabilities and stockholders’ equity		$	430,372 							$	421,808 					
+Net interest income/spread		$	6,397 			6.40 					$	5,822 			5.89 	
+Impact of non-interest-bearing funding		0.09 							0.10 	
+Net interest margin		6.49 	%						5.99 	%
+ __________
+(1)Past due fees included in interest income totaled approximately $438 million and $310 million in the first quarters of 2022 and 2021, respectively.
+(2)Some of our commercial loans generate tax-exempt income. Accordingly, we present our Commercial Banking interest income and yields on a taxable-equivalent basis, calculated using the federal statutory rate of 21% and state taxes where applicable, with offsetting reductions to the Other category. Taxable-equivalent adjustments included in the interest income and yield computations for our commercial loans totaled approximately $18 million and $19 million in the first quarters of 2022 and 2021, respectively, with corresponding reductions to the Other category.
+(3)Interest income/expense in the Other category represents the impact of hedge accounting on our loan portfolios and the offsetting reduction of the taxable-equivalent adjustments of our commercial loans as described above. 
+11
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+**    Not meaningful.
+Net interest income increased by $575 million to $6.4 billion in the first quarter of 2022 compared to the first quarter of 2021 primarily driven by higher average loan balances and margins in our credit card loan portfolio.
+Net interest margin increased by 50 basis points to 6.49% in the first quarter of 2022 compared to the first quarter of 2021, primarily driven by lower cash balances and higher average loan balances.
+Table 3 displays the change in our net interest income between periods and the extent to which the variance is attributable to:
+•changes in the volume of our interest-earning assets and interest-bearing liabilities; or
+•changes in the interest rates related to these assets and liabilities.
+Table 3: Rate/Volume Analysis of Net Interest Income(1) 
+Three Months Ended March 31,
+ 		2022 vs. 2021
+(Dollars in millions)		Total Variance		Volume		Rate
+Interest income:						
+Loans:						
+Credit card		$	561 			$	433 			$	128 	
+Consumer banking		(2)			171 			(173)	
+Commercial banking(2)
+55 			74 			(19)	
+Other(3)
+(101)			— 			(101)	
+Total loans, including loans held for sale		513 			678 			(165)	
+Investment securities		11 			(14)			25 	
+Cash equivalents and other interest-earning assets		(1)			(9)			8 	
+Total interest income		523 			655 			(132)	
+Interest expense:						
+Interest-bearing deposits		(51)			(2)			(49)	
+Securitized debt obligations		(3)			3 			(6)	
+Senior and subordinated notes		2 			(2)			4 	
+Other borrowings and liabilities		— 			4 			(4)	
+Total interest expense		(52)			3 			(55)	
+Net interest income		$	575 			$	652 			$	(77)	
+ 
+__________
+(1)We calculate the change in interest income and interest expense separately for each item. The portion of interest income or interest expense attributable to both volume and rate is allocated proportionately when the calculation results in a positive value. When the portion of interest income or interest expense attributable to both volume and rate results in a negative value, the total amount is allocated to volume or rate, depending on which amount is positive.
+(2)Some of our commercial loans generate tax-exempt income. Accordingly, we present our Commercial Banking interest income and yields on a taxable-equivalent basis, calculated using the federal statutory rate of 21% and state taxes where applicable, with offsetting reductions to the Other category.
+(3)Interest income/expense in the Other category represents the impact of hedge accounting on our loan portfolios and the offsetting reduction of the taxable-equivalent adjustments of our commercial loans as described above.
+12
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Non-Interest Income
+Table 4 displays the components of non-interest income for the first quarters of 2022 and 2021.
+Table 4: Non-Interest Income
+ 		Three Months Ended March 31,
+(Dollars in millions)		2022		2021
+Interchange fees, net		$	1,033 			$	817 	
+Service charges and other customer-related fees		400 			352 	
+Other non-interest income:(1)
+Mortgage banking revenue		68 			60 	
+Treasury and other investment income		(18)			(16)	
+Other		293 			78 	
+Total other non-interest income		343 			122 	
+Total non-interest income		$	1,776 			$	1,291 	
+ ________
+(1)Includes losses of $25 million and gains of $19 million on deferred compensation plan investments in the first quarters of 2022 and 2021, respectively.
+Non-interest income increased by $485 million to $1.8 billion in the first quarter of 2022 compared to the first quarter of 2021 primarily driven by higher net interchange fees due to an increase in purchase volume in Credit Card and a gain on the sale of partnership card loan portfolios.
+Provision for Credit Losses
+Our provision for credit losses in each period is driven by net charge-offs, changes to the allowance for credit losses and changes to the reserve for unfunded lending commitments. Our provision for credit losses increased by $1.5 billion to $677 million in the first quarter of 2022 as our allowance for credit losses was substantially flat in the first quarter of 2022 compared to an allowance release in the first quarter of 2021.
+We provide additional information on the provision for credit losses and changes in the allowance for credit losses within “MD&A—Credit Risk Profile” and “Note 4—Allowance for Credit Losses and Reserve for Unfunded Lending Commitments.” For information on the allowance methodology for each of our loan categories, see “Note 1—Summary of Significant Accounting Policies” in our 2021 Form 10-K.
+13
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Non-Interest Expense
+Table 5 displays the components of non-interest expense for the first quarters of 2022 and 2021. 
+Table 5: Non-Interest Expense
+Three Months Ended March 31,
+(Dollars in millions)		2022		2021
+Salaries and associate benefits(1)
+$	2,026 			$	1,847 	
+Occupancy and equipment		513 			472 	
+Marketing		918 			501 	
+Professional services		397 			292 	
+Communications and data processing		339 			302 	
+Amortization of intangibles		14 			6 	
+Other non-interest expense:				
+Bankcard, regulatory and other fee assessments		60 			52 	
+Collections		84 			84 	
+Other		200 			184 	
+Total other non-interest expense		344 			320 	
+Total non-interest expense		$	4,551 			$	3,740 	
+ 
+_________
+(1)Includes a benefit of $25 million and expense of $19 million related to our deferred compensation plan obligations in the first quarters of 2022 and 2021, respectively. These amounts have corresponding offsets from investments in other non-interest income.
+Non-interest expense increased by $811 million to $4.6 billion in the first three months of 2022, primarily driven by increased marketing spend, increased compensation and continued investment in technology. 
+Income Taxes
+We recorded an income tax provision of $542 million (18.4% effective income tax rate) and $869 million (20.7% effective income tax rate) in the first quarters of 2022 and 2021, respectively. Our effective tax rate on income from continuing operations varies between periods due, in part, to the impact of changes in pre-tax income and changes in tax credits, tax-exempt income and non-deductible expenses relative to our pre-tax earnings.
+The decrease in our effective income tax rate in the first quarter of 2022 compared to the first quarter of 2021 was primarily due to higher tax credits relative to our income.
+We provide additional information on items affecting our income taxes and effective tax rate in “Note 15—Income Taxes” in our 2021 Form 10-K.
+CONSOLIDATED BALANCE SHEETS ANALYSIS
+ 
+Total assets remained substantially flat at $434.2 billion as of March 31, 2022 as increases in cash balances were offset by a decline in the fair value of our investment securities portfolio due to the increase in interest rates and net paydowns.
+Total liabilities increased by $6.5 billion to $377.9 billion as of March 31, 2022 from December 31, 2021 primarily driven by net issuances of our short-term Federal Home Loan Banks (“FHLB”) advances and deposit growth.
+Stockholders’ equity decreased by $4.7 billion to $56.3 billion as of March 31, 2022 from December 31, 2021 primarily due to common stock repurchase activity and a decrease in accumulated other comprehensive income primarily driven by a decline in the fair value of our investment securities portfolio due to the increase in interest rates, partially offset by our net income of $2.4 billion. 
+The following is a discussion of material changes in the major components of our assets and liabilities during the first quarter of 2022. Period-end balance sheet amounts may vary from average balance sheet amounts due to liquidity and balance sheet 
+14
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+management activities that are intended to support the adequacy of capital while managing our liquidity requirements, our customers and our market risk exposure in accordance with our risk appetite.
+Investment Securities 
+Our investment securities portfolio consists of the following: U.S. government-sponsored enterprise or agency (“Agency”) and non-agency residential mortgage-backed securities (“RMBS”), Agency commercial mortgage-backed securities (“CMBS”), U.S. Treasury securities and other securities. Agency securities include Government National Mortgage Association (“Ginnie Mae”) guaranteed securities, Federal National Mortgage Association (“Fannie Mae”) and Federal Home Loan Mortgage Corporation (“Freddie Mac”) issued securities. The carrying value of our investments in Agency and U.S. Treasury securities represented 96% of our total investment securities portfolio as of both March 31, 2022 and December 31, 2021.
+The fair value of our available for sale securities portfolio decreased by $6.2 billion to $89.1 billion as of March 31, 2022 from December 31, 2021, primarily driven by the increase in interest rates and net paydowns. See “Note 2—Investment Securities” for more information. 
+Loans Held for Investment
+Total loans held for investment consists of both unsecuritized loans and loans held in our consolidated trusts. Table 6 summarizes, by portfolio segment, the carrying value of our loans held for investment, the allowance for credit losses and net loan balance as of March 31, 2022 and December 31, 2021.
+Table 6: Loans Held for Investment 
+ 		March 31, 2022		December 31, 2021
+(Dollars in millions)		Loans		Allowance		Net Loans		Loans		Allowance		Net Loans
+Credit Card		$	113,962 			$	8,280 			$	105,682 			$	114,772 			$	8,345 			$	106,427 	
+Consumer Banking		80,330 			1,902 			78,428 			77,646 			1,918 			75,728 	
+Commercial Banking		86,174 			1,126 			85,048 			84,922 			1,167 			83,755 	
+Total		$	280,466 			$	11,308 			$	269,158 			$	277,340 			$	11,430 			$	265,910 	
+ 
+Loans held for investment increased by $3.1 billion to $280.5 billion as of March 31, 2022 from December 31, 2021 primarily driven by growth in our auto and commercial loan portfolios.
+We provide additional information on the composition of our loan portfolio and credit quality in “MD&A—Credit Risk Profile,” “MD&A—Consolidated Results of Operations” and “Note 3—Loans.”
+Funding Sources
+Our primary source of funding comes from deposits, as they are a stable and relatively low cost source of funding. In addition to deposits, we raise funding through the issuance of senior and subordinated notes, securitized debt obligations, federal funds purchased, securities loaned or sold under agreements to repurchase, and FHLB advances secured by certain portions of our loan and securities portfolios. 
+15
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Table 7 provides the composition of our primary sources of funding as of March 31, 2022 and December 31, 2021.
+Table 7: Funding Sources Composition 
+March 31, 2022		December 31, 2021
+(Dollars in millions)		Amount		% of Total		Amount		% of Total
+Deposits:								
+Consumer Banking		$	258,359 			72 	%		$	256,407 			72 	%
+Commercial Banking		45,232 			12 			44,809 			13 	
+Other(1)
+9,838 			3 			9,764 			3 	
+Total deposits		313,429 			87 			310,980 			88 	
+Securitized debt obligations		13,740 			4 			14,994 			4 	
+Other debt		31,618 			9 			28,092 			8 	
+Total funding sources		$	358,787 			100 	%		$	354,066 			100 	%
+ __________
+(1)Includes brokered deposits of $8.8 billion and $8.6 billion as of March 31, 2022 and December 31, 2021, respectively.
+Total deposits increased by $2.4 billion to $313.4 billion as of March 31, 2022 from December 31, 2021 primarily driven by our national banking strategy.
+Securitized debt obligations decreased by $1.3 billion to $13.7 billion as of March 31, 2022 from December 31, 2021 primarily driven by net maturities in our credit card securitization program.
+Other debt increased by $3.5 billion to $31.6 billion as of March 31, 2022 from December 31, 2021 primarily driven by net issuances of our short-term FHLB advances. 
+We provide additional information on our funding sources in “MD&A—Liquidity Risk Profile” and “Note 7—Deposits and Borrowings.”
+OFF-BALANCE SHEET ARRANGEMENTS
+ 
+In the ordinary course of business, we engage in certain activities that are not reflected on our consolidated balance sheets, generally referred to as off-balance sheet arrangements. These activities typically involve transactions with unconsolidated variable interest entities (“VIEs”) as well as other arrangements, such as letters of credit, loan commitments and guarantees, to meet the financing needs of our customers and support their ongoing operations. We provide additional information regarding these types of activities in “Note 5—Variable Interest Entities and Securitizations” and “Note 13—Commitments, Contingencies, Guarantees and Others.”
+BUSINESS SEGMENT FINANCIAL PERFORMANCE
+ 
+Our principal operations are organized for management reporting purposes into three major business segments, which are defined primarily based on the products and services provided or the types of customer served: Credit Card, Consumer Banking and Commercial Banking. The operations of acquired businesses have been integrated into or managed as a part of our existing business segments. Certain activities that are not part of a segment, such as management of our corporate investment portfolio, asset/liability management by our centralized Corporate Treasury group and calculation of our residual tax expense or benefit to arrive at the consolidated effective tax rate that is not assessed to our primary business segments, are included in the Other category.
+The results of our individual businesses, which we report on a continuing operations basis, reflect the manner in which management evaluates performance and makes decisions about funding our operations and allocating resources. We may periodically change our business segments or reclassify business segment results based on modifications to our management reporting methodologies and changes in organizational alignment. Our business segment results are intended to reflect each segment as if it were a stand-alone business. We use an internal management and reporting process to derive our business segment results. Our internal management and reporting process employs various allocation methodologies, including funds transfer pricing, to assign certain balance sheet assets, deposits and other liabilities and their related revenue and expenses 
+16
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+directly or indirectly attributable to each business segment. Total interest income and non-interest income are directly attributable to the segment in which they are reported. The net interest income of each segment reflects the results of our funds transfer pricing process, which is primarily based on a matched funding concept that takes into consideration market interest rates. Our funds transfer pricing process provides a funds credit for sources of funds, such as deposits generated by our Consumer Banking and Commercial Banking businesses, and a charge for the use of funds by each segment. The allocation process is unique to each business segment and acquired business. We regularly assess the assumptions, methodologies and reporting classifications used for segment reporting, which may result in the implementation of refinements or changes in future periods. We provide additional information on the allocation methodologies used to derive our business segment results in “Note 17—Business Segments and Revenue from Contracts with Customers” in our 2021 Form 10-K.
+We refer to the business segment results derived from our internal management accounting and reporting process as our “managed” presentation, which differs in some cases from our reported results prepared based on U.S. GAAP. There is no comprehensive authoritative body of guidance for management accounting equivalent to U.S. GAAP; therefore, the managed presentation of our business segment results may not be comparable to similar information provided by other financial services companies. In addition, our individual business segment results should not be used as a substitute for comparable results determined in accordance with U.S. GAAP.
+We summarize our business segment results for the first quarters of 2022 and 2021 and provide a comparative discussion of these results, as well as changes in our financial condition and credit performance metrics as of March 31, 2022 compared to December 31, 2021. We provide a reconciliation of our total business segment results to our reported consolidated results in “Note 12—Business Segments and Revenue from Contracts with Customers.”
+Business Segment Financial Performance
+Table 8 summarizes our business segment results, which we report based on revenue (loss) and income (loss) from continuing operations, for the first quarters of 2022 and 2021.
+Table 8: Business Segment Results 
+ 
+Three Months Ended March 31,
+ 
+2022		2021
+ 
+Total Net
+Revenue (Loss)(1)
+Net Income (Loss)(2)
+Total Net
+Revenue (Loss)(1)
+Net Income (Loss)(2)
+(Dollars in millions)		Amount		% of
+Total		Amount		% of
+Total		Amount		% of
+Total		Amount		% of
+Total
+Credit Card		$	5,297 			65 	%		$	1,500 			63 	%		$	4,401 			62 	%		$	2,105 			63 	%
+Consumer Banking		2,218 			27 			650 			27 			2,171 			30 			902 			27 	
+Commercial Banking(3)
+884 			11 			296 			12 			760 			11 			416 			13 	
+Other(3)
+(226)			(3)			(43)			(2)			(219)			(3)			(96)			(3)	
+Total		$	8,173 			100 	%		$	2,403 			100 	%		$	7,113 			100 	%		$	3,327 			100 	%
+ 
+__________
+(1)Total net revenue (loss) consists of net interest income and non-interest income.
+(2)Net income (loss) for our business segments and the Other category is based on income (loss) from continuing operations, net of tax.
+(3)Some of our commercial investments generate tax-exempt income, tax credits or other tax benefits. Accordingly, we present our Commercial Banking revenue and yields on a taxable-equivalent basis, calculated using the federal statutory tax rate of 21% and state taxes where applicable, with offsetting reductions to the Other category. 
+17
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Credit Card Business
+The primary sources of revenue for our Credit Card business are net interest income, net interchange income and fees collected from customers. Expenses primarily consist of the provision for credit losses, operating costs and marketing expenses.
+Our Credit Card business generated net income from continuing operations of $1.5 billion and $2.1 billion in the first quarters of 2022 and 2021, respectively.
+Table 9 summarizes the financial results of our Credit Card business and displays selected key metrics for the periods indicated.
+Table 9: Credit Card Business Results
+ 		Three Months Ended March 31,
+(Dollars in millions, except as noted)		2022		2021		Change
+Selected income statement data:						
+Net interest income		$	3,839 			$	3,372 			14 	%
+Non-interest income		1,458 			1,029 			42 	
+Total net revenue(1)
+5,297 			4,401 			20 	
+Provision (benefit) for credit losses		545 			(492)			**
+Non-interest expense		2,783 			2,135 			30 	
+Income from continuing operations before income taxes		1,969 			2,758 			(29)	
+Income tax provision		469 			653 			(28)	
+Income from continuing operations, net of tax		$	1,500 			$	2,105 			(29)	
+Selected performance metrics:						
+Average loans held for investment		$	111,480 			$	100,534 			11 	
+Average yield on loans(2)
+14.97 	%		14.49 	%		48 	bps
+Total net revenue margin(3)
+18.56 			17.17 			139 	
+Net charge-offs		$	607 			$	633 			(4)	%
+Net charge-off rate		2.18 	%		2.52 	%		(34)	bps
+Purchase volume		$	133,662 			$	108,333 			23 	%
+(Dollars in millions, except as noted)		March 31, 2022		December 31, 2021		Change
+Selected period-end data:						
+Loans held for investment		$	113,962 			$	114,772 			(1)	%
+30+ day performing delinquency rate		2.38 	%		2.28 	%		10 	bps
+30+ day delinquency rate		2.39 			2.29 			10 	
+Nonperforming loan rate(4)
+0.01 			0.01 			— 	
+Allowance for credit losses		$	8,280 			$	8,345 			(1)	%
+Allowance coverage ratio		7.27 	%		7.27 	%		— 	
+ 
+__________
+(1)We recognize finance charges and fee income on open-ended loans in accordance with the contractual provisions of the credit arrangements and charge off uncollectible amounts. Total net revenue was reduced by $192 million and $180 million in the first quarters of 2022 and 2021, respectively, for finance charges and fees charged-off as uncollectible.
+(2)Average yield is calculated based on annualized interest income for the period divided by average loans during the period and does not include any allocations, such as funds transfer pricing.
+(3)Total net revenue margin is calculated based on annualized total net revenue for the period divided by average loans during the period.
+(4)Within our credit card loan portfolio, only certain loans in our international card businesses are classified as nonperforming. See “MD&A—Nonperforming Loans and Other Nonperforming Assets” for additional information.
+**    Not meaningful.
+18
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Key factors affecting the results of our Credit Card business for the first quarter of 2022 compared to the first quarter of 2021, and changes in financial condition and credit performance between March 31, 2022 and December 31, 2021 include the following:
+•Net Interest Income: Net interest income increased by $467 million to $3.8 billion in the first quarter of 2022 primarily driven by higher average loan balances and higher margins.
+•Non-Interest Income: Non-interest income increased by $429 million to $1.5 billion in the first quarter of 2022 primarily driven by higher net interchange fees due to an increase in purchase volume and the gain on sale of partnership card loan portfolios.
+•Provision for Credit Losses: Provision for credit losses increased $1.0 billion to $545 million in the first quarter of 2022 as our allowance for credit losses was held substantially flat in the first quarter of 2022 compared to an allowance release in the first quarter of 2021.
+•Non-Interest Expense: Non-interest expense increased by $648 million to $2.8 billion in the first quarter of 2022 primarily driven by increased marketing spend, as well as continued investment in infrastructure and technology.
+Loans Held for Investment: 
+•Period-end loans held for investment decreased by $810 million to $114.0 billion as of March 31, 2022 from December 31, 2021 primarily due to expected seasonal paydowns, partly offset by continued strength in purchase volume.
+
+•Average loans held for investment increased by $10.9 billion to $111.5 billion in the first quarter of 2022 compared to the first quarter of 2021 primarily driven by higher purchase volume, partially offset by higher customer payments and the transfer of a $2.6 billion international card partnership portfolio to held for sale in the second quarter of 2021.
+Net Charge-Off and Delinquency Metrics: 
+•The net charge-off rate decreased by 34 basis points to 2.18% in the first quarter of 2022 compared to the first quarter of 2021 primarily driven by higher average loan balances.
+
+•The 30+ day delinquency rate increased to 2.39% as of March 31, 2022  primarily driven by continued gradual credit normalization.
+19
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Domestic Card Business
+The Domestic Card business generated net income from continuing operations of $1.3 billion and $2.0 billion in the first quarters of 2022 and 2021, respectively. In the first quarters of 2022 and 2021, the Domestic Card business accounted for greater than 90% of total net revenue of our Credit Card business.
+Table 9.1 summarizes the financial results for Domestic Card business and displays selected key metrics for the periods indicated.
+Table 9.1: Domestic Card Business Results
+Three Months Ended March 31,
+(Dollars in millions, except as noted)		2022		2021		Change
+Selected income statement data:						
+Net interest income		$	3,620 			$	3,095 			17 	%
+Non-interest income		1,248 			959 			30 	
+Total net revenue(1)
+4,868 			4,054 			20 	
+Provision (benefit) for credit losses		559 			(491)			**
+Non-interest expense		2,564 			1,923 			33 	
+Income from continuing operations before income taxes		1,745 			2,622 			(33)	
+Income tax provision		414 			619 			(33)	
+Income from continuing operations, net of tax		$	1,331 			$	2,003 			(34)	
+Selected performance metrics:						
+Average loans held for investment		$	105,536 			$	92,594 			14 	
+Average yield on loans(2)
+14.82 	%		14.34 	%		48 	bps
+Total net revenue margin(3)
+18.28 			17.15 			113 	
+Net charge-offs		$	559 			$	587 			(5)	%
+Net charge-off rate		2.12 	%		2.54 	%		(42)	bps
+Purchase volume		$	126,284 			$	99,960 			26 	%
+(Dollars in millions, except as noted)		March 31, 2022		December 31, 2021		Change
+Selected period-end data:						
+Loans held for investment		$	107,987 			$	108,723 			(1)	%
+30+ day performing delinquency rate		2.32 	%		2.22 	%		10 	bps
+Allowance for credit losses		$	7,968 			$	7,968 			— 	
+Allowance coverage ratio		7.38 	%		7.33 	%		5 	bps
+ 
+__________
+(1)We recognize finance charges and fee income on open-ended loans in accordance with the contractual provisions of the credit arrangements and charge off uncollectible amounts. Finance charges and fees charged off as uncollectible are reflected as a reduction in total net revenue.
+(2)Average yield is calculated based on annualized interest income for the period divided by average loans during the period and does not include any allocations, such as funds transfer pricing.
+(3)Total net revenue margin is calculated based on annualized total net revenue for the period divided by average loans during the period.
+**    Not meaningful.
+20
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Because our Domestic Card business accounts for the substantial majority of our Credit Card business, the key factors driving the results are similar to the key factors affecting our total Credit Card business. Net income for our Domestic Card business decreased in the first quarter of 2022 compared to the first quarter of 2021 primarily driven by: 
+•Higher provision for credit losses as our allowance for credit losses was held flat in the first quarter of 2022 compared to an allowance release in the first quarter of 2021.
+•Higher non-interest expense in the first quarter of 2022 primarily driven by increased marketing spend as well as continued investment in infrastructure and technology.
+These drivers were partially offset by:
+•Higher net interest income in the first quarter of 2022 primarily driven by higher average loan balances and higher margins.
+•Higher non-interest income in the first quarter of 2022 primarily driven by higher net interchange fees due to an increase in purchase volume.
+Consumer Banking Business
+The primary sources of revenue for our Consumer Banking business are net interest income from loans and deposits as well as service charges and customer-related fees. Expenses primarily consist of the provision for credit losses, operating costs and marketing expenses.
+Our Consumer Banking business generated net income from continuing operations of $650 million and $902 million in the first quarters of 2022 and 2021, respectively.
+21
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Table 10 summarizes the financial results of our Consumer Banking business and displays selected key metrics for the periods indicated.
+Table 10: Consumer Banking Business Results
+ 		Three Months Ended March 31,
+(Dollars in millions, except as noted)		2022		2021		Change
+Selected income statement data:						
+Net interest income		$	2,113 			$	2,030 			4 	%
+Non-interest income		105 			141 			(26)	
+Total net revenue		2,218 			2,171 			2 	
+Provision (benefit) for credit losses		130 			(126)			**
+Non-interest expense		1,236 			1,117 			11 	
+Income from continuing operations before income taxes		852 			1,180 			(28)	
+Income tax provision		202 			278 			(27)	
+Income from continuing operations, net of tax		$	650 			$	902 			(28)	
+Selected performance metrics:						
+Average loans held for investment:						
+Auto		$	76,892 			$	66,185 			16 	
+Retail banking		1,797 			3,049 			(41)	
+Total consumer banking		$	78,689 			$	69,234 			14 	
+Average yield on loans held for investment(1)
+7.17 	%		8.16 	%		(99)	bps
+Average deposits		$	255,265 			$	249,499 			2 	%
+Average deposits interest rate		0.29 	%		0.36 	%		(7)	bps
+Net charge-offs		$	146 			$	91 			60 	%
+Net charge-off rate		0.75 	%		0.52 	%		23 	bps
+Auto loan originations		$	11,713 			$	8,833 			33 	%
+(Dollars in millions, except as noted)		March 31, 2022		December 31, 2021		Change
+Selected period-end data:						
+Loans held for investment:						
+Auto		$	78,604 			$	75,779 			4 	%
+Retail banking		1,726 			1,867 			(8)	
+Total consumer banking		$	80,330 			$	77,646 			3 	
+30+ day performing delinquency rate		3.78 	%		4.26 	%		(48)	bps
+30+ day delinquency rate		4.13 			4.66 			(53)	
+Nonperforming loan rate		0.46 			0.50 			(4)	
+Nonperforming asset rate(2)
+0.52 			0.56 			(4)	
+Allowance for credit losses		$	1,902 			$	1,918 			(1)	%
+Allowance coverage ratio		2.37 	%		2.47 	%		(10)	bps
+Deposits		$	258,359		$	256,407		1 	%
+ 
+__________
+(1)Average yield is calculated based on annualized interest income for the period divided by average loans during the period and does not include any allocations, such as funds transfer pricing.
+(2)Nonperforming assets primarily consist of nonperforming loans and repossessed assets. The total nonperforming asset rate is calculated based on total nonperforming assets divided by the combined period-end total loans held for investment and repossessed assets. 
+**    Not meaningful.
+22
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Key factors affecting the results of our Consumer Banking business for the first quarter of 2022 compared to the first quarter of 2021, and changes in financial condition and credit performance between March 31, 2022 and December 31, 2021 include the following:
+•Net Interest Income: Net interest income increased by $83 million to $2.1 billion in the first quarter of 2022 primarily driven by growth in our auto loan portfolio as well as higher deposits in our Retail Banking business.
+•Non-Interest Income: Non-interest income remained substantially flat at $105 million in the first quarter of 2022. 
+•Provision for Credit Losses: Provision for credit losses increased by $256 million to $130 million as our allowance for credit losses was held substantially flat in the first quarter of 2022 compared to an allowance release in the first quarter of 2021.
+•Non-Interest Expense: Non-interest expense increased by $119 million to $1.2 billion in the first quarter of 2022 primarily driven by continued investment in technology and infrastructure, as well as growth in our auto loan portfolio.
+Loans Held for Investment: 
+•Period-end loans held for investment increased by $2.7 billion to $80.3 billion as of March 31, 2022 from December 31, 2021 primarily driven by growth in our auto loan portfolio due to higher originations.
+•Average loans held for investment increased by $9.5 billion to $78.7 billion in the first quarter of 2022 compared to the first quarter of 2021 primarily driven by growth in our auto loan portfolio due to higher originations.
+Deposits: 
+•Period-end deposits increased by $2.0 billion to $258.4 billion as of March 31, 2022 from December 31, 2021 primarily driven by our national banking strategy.
+Net Charge-Off and Delinquency Metrics: 
+•The net charge-off rate increased by 23 basis points to 0.75% in the first quarter of 2022 compared to the first quarter of 2021 primarily driven by lower auto recoveries as favorable credit performance in recent quarters led to a decrease in recoverable balances. 
+•The 30+ day delinquency rate decreased by 53 basis points to 4.13% as of March 31, 2022 from December 31, 2021 primarily driven by seasonally lower auto delinquency inventories.
+Commercial Banking Business
+The primary sources of revenue for our Commercial Banking business are net interest income from loans and deposits and non-interest income earned from products and services provided to our clients such as capital markets and treasury management. Because our Commercial Banking business has loans and investments that generate tax-exempt income, tax credits or other tax benefits, we present the revenues on a taxable-equivalent basis. Expenses primarily consist of the provision for credit losses and operating costs.
+Our Commercial Banking business generated net income from continuing operations of $296 million and $416 million in the first quarters of 2022 and 2021, respectively.
+Table 11 summarizes the financial results of our Commercial Banking business and displays selected key metrics for the periods indicated.
+23
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Table 11: Commercial Banking Business Results
+ 		Three Months Ended March 31,
+(Dollars in millions, except as noted)		2022		2021		Change
+Selected income statement data:						
+Net interest income		$	607 			$	520 			17 	%
+Non-interest income		277 			240 			15 	
+Total net revenue(1)
+884 			760 			16 	
+Provision (benefit) for credit losses(2)
+8 			(203)			**
+Non-interest expense		488 			419 			16 	
+Income from continuing operations before income taxes		388 			544 			(29)	
+Income tax provision		92 			128 			(28)	
+Income from continuing operations, net of tax		$	296 			$	416 			(29)	
+Selected performance metrics:						
+Average loans held for investment:						
+Commercial and multifamily real estate		$	34,671 			$	29,856 			16 	
+Commercial and industrial		50,502 			44,313 			14 	
+Total commercial banking		$	85,173 			$	74,169 			15 	
+Average yield on loans held for investment(1)(3)
+2.66 	%		2.76 	%		(10)	bps
+Average deposits		$	45,008 			$	40,107 			12 	%
+Average deposits interest rate		0.12 	%		0.18 	%		(6)	bps
+Net charge-offs		$	14 			$	16 			(13)	%
+Net charge-off rate		0.06 	%		0.09 	%		(3)	bps
+(Dollars in millions, except as noted)		March 31, 2022		December 31, 2021		Change
+Selected period-end data:						
+Loans held for investment:						
+Commercial and multifamily real estate		$	34,354 			$	35,262 			(3)	%
+Commercial and industrial		51,820 			49,660 			4 	
+Total commercial banking		$	86,174 			$	84,922 			1 	
+Nonperforming loan rate		0.81 	%		0.82 	%		(1)	bps
+Nonperforming asset rate(4)
+0.81 			0.82 			(1)	
+Allowance for credit losses(2)
+$	1,126 			$	1,167 			(4)	%
+Allowance coverage ratio		1.31 	%		1.37 	%		(6)	bps
+Deposits		$	45,232		$	44,809 			1 	%
+Loans serviced for others		49,576		48,562 			2 	
+ 
+__________
+(1)Some of our commercial investments generate tax-exempt income, tax credits or other tax benefits. Accordingly, we present our Commercial Banking revenue and yields on a taxable-equivalent basis, calculated using the federal statutory tax rate of 21% and state taxes where applicable, with offsetting reductions to the Other category.
+(2)The provision for losses on unfunded lending commitments is included in the provision for credit losses in our consolidated statements of income and the related reserve is included in other liabilities on our consolidated balance sheets. Our reserve for unfunded lending commitments totaled $200 million and $165 million as of March 31, 2022 and December 31, 2021, respectively.
+(3)Average yield is calculated based on annualized interest income for the period divided by average loans during the period and does not include any allocations, such as funds transfer pricing.
+(4)Nonperforming assets consist of nonperforming loans and other foreclosed assets. The total nonperforming asset rate is calculated based on total nonperforming assets divided by the combined period-end total loans held for investment and other foreclosed assets.
+**    Not meaningful.
+Key factors affecting the results of our Commercial Banking business for the first quarter of 2022 compared to the first quarter of 2021, and changes in financial condition and credit performance between March 31, 2022 and December 31, 2021 include the following:
+•Net Interest Income: Net interest income increased by $87 million to $607 million in the first quarter of 2022 primarily 
+24
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+driven by higher average loan and deposit balances.
+•Non-Interest Income: Non-interest income increased by $37 million to $277 million in the first quarter of 2022 driven by higher activity in our capital markets business.
+•Provision for Credit Losses: Provision for credit losses increased by $211 million to $8 million in the first quarter of 2022 driven by a more modest allowance release in the first quarter of 2022 compared to the allowance release in the first quarter of 2021.
+•Non-Interest Expense: Non-interest expense increased by $69 million to $488 million in the first quarter of 2022 primarily driven by continued investment in our growth strategies, infrastructure and technology.
+Loans Held for Investment: 
+•Period-end loans held for investment increased by $1.3 billion to $86.2 billion as of March 31, 2022 from December 31, 2021 primarily driven by growth in our commercial and industrial loan portfolio.
+•Average loans held for investment increased by $11.0 billion to $85.2 billion in the first quarter of 2022 compared to the first quarter of 2021 primarily driven by growth across our loan portfolios.
+Deposits: 
+•Period-end deposits increased by $423 million to $45.2 billion as of March 31, 2022 from December 31, 2021 primarily driven by elevated client liquidity.
+Net Charge-Off and Nonperforming Metrics: 
+•The net charge-off rate remained substantially flat at 0.06% in the first quarter of 2022.
+•The nonperforming loan rate remained substantially flat at 0.81% as of March 31, 2022 compared to December 31, 2021.
+Other Category
+Other includes unallocated amounts related to our centralized Corporate Treasury group activities, such as management of our corporate investment securities portfolio, asset/liability management and certain capital management activities. Other also includes:
+•unallocated corporate revenue and expenses that do not directly support the operations of the business segments or for which the business segments are not considered financially accountable in evaluating their performance, such as certain restructuring charges;
+•offsets related to certain line-item reclassifications;
+•residual tax expense or benefit to arrive at the consolidated effective tax rate that is not assessed to our primary business segments; and
+•foreign exchange-rate fluctuations on foreign currency-denominated balances.
+25
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Table 12 summarizes the financial results of our Other category for the periods indicated.
+Table 12: Other Category Results
+ 		Three Months Ended March 31,
+(Dollars in millions)		2022		2021		Change
+Selected income statement data:						
+Net interest loss		$	(162)			$	(100)			62 	%
+Non-interest loss		(64)			(119)			(46)	
+Total net loss(1)
+(226)			(219)			3 	
+Benefit for credit losses		(6)			(2)			**
+Non-interest expense		44 			69 			(36)	
+Loss from continuing operations before income taxes		(264)			(286)			(8)	
+Income tax benefit		(221)			(190)			16 	
+Loss from continuing operations, net of tax		$	(43)			$	(96)			(55)	
+ 
+__________
+(1)Some of our commercial investments generate tax-exempt income, tax credits or other tax benefits. Accordingly, we present our Commercial Banking revenue and yields on a taxable-equivalent basis, calculated using the federal statutory tax rate of 21% and state taxes where applicable, with offsetting reductions to the Other category.
+**    Not meaningful.
+Loss from continuing operations decreased by $53 million to a loss of $43 million in the first quarter of 2022, primarily driven by the absence of a loss on our equity investment in Snowflake Inc. in the first quarter of 2021.
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+ 
+The preparation of financial statements in accordance with U.S. GAAP requires management to make a number of judgments, estimates and assumptions that affect the amount of assets, liabilities, income and expenses on the consolidated financial statements. Understanding our accounting policies and the extent to which we use management judgment and estimates in applying these policies is integral to understanding our financial statements. We provide a summary of our significant accounting policies under “Note 1—Summary of Significant Accounting Policies” in our 2021 Form 10-K.
+We have identified the following accounting estimates as critical because they require significant judgments and assumptions about highly complex and inherently uncertain matters and the use of reasonably different estimates and assumptions could have a material impact on our results of operations or financial condition. Our critical accounting policies and estimates are as follows:
+•Loan loss reserves
+•Goodwill
+•Fair value 
+•Customer rewards reserve
+We evaluate our critical accounting estimates and judgments on an ongoing basis and update them as necessary, based on changing conditions. There have been no changes to our critical accounting policies and estimates described in our December 31, 2021 Form 10-K under “MD&A—Critical Accounting Policies and Estimates.”
+26
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+ACCOUNTING CHANGES AND DEVELOPMENTS
+ 
+Accounting Standards Issued but Not Adopted as of March 31, 2022 
+Standard		Guidance		Adoption Timing and Financial Statement Impacts
+Fair Value Hedging
+
+ASU No. 2022-01, Derivatives and Hedging (Topic 815): Fair Value Hedging - Portfolio Layering Method
+
+Issued March 2022
+The amendments in this ASU establish the portfolio-layer method which provides flexibility to achieve fair value hedge accounting for multiple hedged layers within a single closed portfolio of financial assets.		This ASU is effective for fiscal years beginning on or after December 15, 2022 with early adoption permitted, using the retrospective, modified retrospective and prospective methods of adoption.
+
+We do not expect the adoption of this standard to have a material impact on our consolidated financial statements and are currently evaluating the timing of adoption.
+TDR and Vintage Disclosures
+ASU No. 2022-02, Financial Instruments - Credit Losses (Topic 326): Troubled Debt Restructuring and Vintage Disclosures
+Issued March 2022
+
+The amendments in this update eliminate the accounting guidance for Troubled Debt Restructurings, while enhancing disclosure requirements for certain loan refinancings and restructurings for borrowers experiencing financial difficulty. The amendments also require public entities to disclose current-period gross charge offs by year of origination for loans held for investment.
+This ASU is effective for fiscal years beginning on or after December 15, 2022 with early adoption permitted, using the prospective and modified retrospective methods of adoption.
+
+
+We do not expect the adoption of this standard to have a material impact on our consolidated financial statements and are currently evaluating the timing of adoption.
+ 
+CAPITAL MANAGEMENT
+ 
+The level and composition of our capital are determined by multiple factors, including our consolidated regulatory capital requirements as described in more detail below and internal risk-based capital assessments such as internal stress testing and economic capital. The level and composition of our capital may also be influenced by rating agency guidelines, subsidiary capital requirements, business environment, conditions in the financial markets and assessments of potential future losses due to adverse changes in our business and market environments. 
+Capital Standards and Prompt Corrective Action
+The Company and the Banks are subject to the regulatory capital requirements established by the Board of Governors of the Federal Reserve System (“Federal Reserve”) and the Office of the Comptroller of the Currency (“OCC”) respectively (the “Basel III Capital Rules”). The Basel III Capital Rules implement certain capital requirements published by the Basel Committee on Banking Supervision (“Basel Committee”), along with certain provisions of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (“Dodd-Frank Act”) and other capital provisions. 
+As a bank holding company (“BHC”) with total consolidated assets of at least $250 billion but less than $700 billion and not exceeding any of the applicable risk-based thresholds, the Company is a Category III institution.
+The Banks, as subsidiaries of a Category III institution, are Category III banks. Moreover, the Banks, as insured depository institutions, are subject to prompt corrective action (“PCA”)  capital regulations.
+Basel III and United States Capital Rules
+Under the Basel III Capital Rules, we must maintain a minimum common equity Tier 1 (“CET1”) capital ratio of 4.5%, a Tier 1 capital ratio of 6.0% and a total capital ratio of 8.0%, in each case in relation to risk-weighted assets. In addition, we must 
+27
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+maintain a minimum leverage ratio of 4.0% and a minimum supplementary leverage ratio of 3.0%. We are also subject to the capital conservation buffer and countercyclical capital buffer requirements as described below.
+As a Category III institution, we are not subject to the Basel III Advanced Approaches framework and certain associated capital requirements, and we have elected to exclude certain elements of accumulated other comprehensive income (“AOCI”) from our regulatory capital as permitted for a Category III institution. 
+Global systemically important banks (“G-SIBs”) that are based in the U.S. are subject to an additional CET1 capital requirement known as the “G-SIB Surcharge.” We are not a G-SIB based on the most recent available data and thus we are not subject to a G-SIB Surcharge.
+Stress Capital Buffer Rule
+The Basel III Capital Rules require banking institutions to maintain a capital conservation buffer, composed of CET1 capital, above the regulatory minimum ratios. Under the Federal Reserve’s final rule to implement the stress capital buffer requirement (the “Stress Capital Buffer Rule”), the Company’s “standardized approach capital conservation buffer” includes its stress capital buffer requirement (as described below), any G-SIB Surcharge (which is not applicable to us) and the countercyclical capital buffer requirement (which is currently set at 0%). Any determination to increase the countercyclical capital buffer generally would be effective twelve months after the announcement of such an increase, unless the Federal Reserve, OCC and Federal Deposit Insurance Corporation (the “FDIC”), hereafter collectively referred to as the “Federal Banking Agencies”, set an earlier effective date. 
+The Company’s stress capital buffer requirement will be recalibrated every year based on the Company’s supervisory stress test results. In particular, the Company’s stress capital buffer requirement equals, subject to a floor of 2.5%, the sum of (i) the difference between the Company’s starting CET1 capital ratio and its lowest projected CET1 capital ratio under the severely adverse scenario of the Federal Reserve’s supervisory stress test plus (ii) the ratio of the Company’s projected four quarters of common stock dividends (for the fourth to seventh quarters of the planning horizon) to the projected risk-weighted assets for the quarter in which the Company’s projected CET1 capital ratio reaches its minimum under the supervisory stress test.
+Based on the Company’s 2021 supervisory stress testing results, the Company’s stress capital buffer requirement for the period beginning on October 1, 2021 through September 30, 2022 is 2.5%. Therefore, the Company’s minimum capital requirements plus the standardized approach capital conservation buffer for CET1 capital, Tier 1 capital and total capital ratios under the stress capital buffer framework are 7.0%, 8.5% and 10.5%, respectively, for the period from October 1, 2021 through September 30, 2022.
+The Stress Capital Buffer Rule does not apply to the Banks. The capital conservation buffer for the Banks continues to be fixed at 2.5%. Accordingly, each Bank’s minimum capital requirements plus its capital conservation buffer for CET1 capital, Tier 1 capital and total capital ratios are 7.0%, 8.5% and 10.5% respectively.
+If the Company or any of the Banks fails to maintain its capital ratios above the minimum capital requirements plus the applicable capital conservation buffer requirements, it will face increasingly strict automatic limitations on capital distributions and discretionary bonus payments to certain executive officers.
+As of March 31, 2022 and December 31, 2021, respectively, each of the Company and the Banks exceeded the minimum capital requirements and the capital conservation buffer requirements applicable to them, and each of the Company and the Banks were “well-capitalized.” The “well-capitalized” standards applicable to the Company are established in the Federal Reserve’s regulations, and the “well-capitalized” standards applicable to the Banks are established in the OCC’s PCA capital requirements.
+Market Risk Rule
+The “Market Risk Rule” supplements the Basel III Capital Rules by requiring institutions subject to the rule to adjust their risk-based capital ratios to reflect the market risk in their trading book. The Market Risk Rule generally applies to institutions with aggregate trading assets and liabilities equal to 10% or more of total assets or $1 billion or more. As of March 31, 2022, the Company and CONA are subject to the Market Risk Rule. See “MD&A—Market Risk Profile” below for additional information. 
+28
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+CECL Transition Rule
+The Federal Banking Agencies adopted a final rule (the “CECL Transition Rule”) that provides banking institutions an optional five-year transition period to phase in the impact of the current expected credit loss (“CECL”) standard on their regulatory capital (the “CECL Transition Election”). We adopted the CECL standard (for accounting purposes) as of January 1, 2020, and made the CECL Transition Election (for regulatory capital purposes) in the first quarter of 2020. Therefore, the applicable amounts presented in this Report reflect such election.
+Pursuant to the CECL Transition Rule, a banking institution could elect to delay the estimated impact of adopting CECL on its regulatory capital through December 31, 2021 and then phase in the estimated cumulative impact from January 1, 2022 through December 31, 2024. For the “day 2” ongoing impact of CECL during the initial two years, the Federal Banking Agencies used a uniform “scaling factor” of 25% as an approximation of the increase in the allowance under the CECL standard compared to the prior incurred loss methodology. Accordingly, from January 1, 2020 through December 31, 2021, electing banking institutions were permitted to add back to their regulatory capital an amount equal to the sum of the after-tax “day 1” CECL adoption impact and 25% of the increase in the allowance since the adoption of the CECL standard. From January 1, 2022 through December 31, 2024, the after-tax “day 1” CECL adoption impact and the cumulative “day 2” ongoing impact are being phased in to regulatory capital at 25% per year. The following table summarizes the capital impact delay and phase in period on our regulatory capital from years 2020 to 2025.
+Capital Impact Delayed		
+Phase In Period
+2020		2021		2022		2023		2024		2025
+“Day 1” CECL adoption impact		Capital impact delayed to 2022		25% Phased In		50% Phased In		75% Phased In		Fully Phased In
+Cumulative “day 2” ongoing impact		 25% scaling factor as an approximation of the increase in allowance under CECL				
+ 
+As of December 31, 2021, we added back an aggregate amount of $2.4 billion to our regulatory capital pursuant to the CECL Transition Rule. Consistent with the rule, we phased in 25% of this amount, or $599 million, on January 1, 2022, leaving $1.8 billion to be phased in over 2023-2025. As of March 31, 2022, the Company’s CET1 capital ratio, reflecting the CECL Transition Rule, was 12.7% and would have been 12.2% excluding the impact of the CECL Transition Rule (or "on a fully phased-in basis").
+For the description of the regulatory capital rules to which we are subject, see “MD&A—Supervision and Regulation” of this Report as well as “Part I—Item 1. Business—Supervision and Regulation” in our 2021 Form 10-K.
+29
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Table 13 provides a comparison of our regulatory capital ratios under the Basel III Standardized Approach, the regulatory minimum capital adequacy ratios and the applicable well-capitalized standards as of  March 31, 2022 and December 31, 2021.  
+Table 13: Capital Ratios Under Basel III(1)(2)
+ 		March 31, 2022		December 31, 2021
+Ratio		Minimum
+Capital
+Adequacy		Well-
+Capitalized		Ratio		Minimum
+Capital
+Adequacy		Well-
+Capitalized
+Capital One Financial Corp:												
+Common equity Tier 1 capital(3)
+12.7 	%		4.5 	%		N/A		13.1 	%		4.5 	%		N/A
+Tier 1 capital(4)
+14.1		6.0 			6.0 	%		14.5 			6.0 			6.0 	%
+Total capital(5)
+16.4		8.0 			10.0 			16.9 			8.0 			10.0 	
+Tier 1 leverage(6)
+11.3		4.0 			N/A		11.6 			4.0 			N/A
+Supplementary leverage(7)
+9.7		3.0 			N/A		9.9 			3.0 			N/A
+COBNA:												
+Common equity Tier 1 capital(3)
+17.4		4.5 			6.5 			16.5 			4.5 			6.5 	
+Tier 1 capital(4)
+17.4		6.0 			8.0 			16.5 			6.0 			8.0 	
+Total capital(5)
+18.7		8.0 			10.0 			18.0 			8.0 			10.0 	
+Tier 1 leverage(6)
+15.2		4.0 			5.0 			14.9 			4.0 			5.0 	
+Supplementary leverage(7)
+12.3		3.0 			N/A		12.0 			3.0 			N/A
+CONA:												
+Common equity Tier 1 capital(3)
+11.2		4.5 			6.5 			11.1 			4.5 			6.5 	
+Tier 1 capital(4)
+11.2		6.0 			8.0 			11.1 			6.0 			8.0 	
+Total capital(5)
+12.5		8.0 			10.0 			12.2 			8.0 			10.0 	
+Tier 1 leverage(6)
+7.5		4.0 			5.0 			7.4 			4.0 			5.0 	
+Supplementary leverage(7)
+6.7		3.0 			N/A		6.6 			3.0 			N/A
+ __________
+(1)Capital requirements that are not applicable are denoted by “N/A.”
+(2)Ratios as of March 31, 2022 are preliminary and therefore subject to change until we file our March 31, 2022 Form FR Y-9C—Consolidated Financial Statements for Holding Companies and Call Reports.
+(3)Common equity Tier 1 capital ratio is a regulatory capital measure calculated based on common equity Tier 1 capital divided by risk-weighted assets.
+(4)Tier 1 capital ratio is a regulatory capital measure calculated based on Tier 1 capital divided by risk-weighted assets.
+(5)Total capital ratio is a regulatory capital measure calculated based on total capital divided by risk-weighted assets.
+(6)Tier 1 leverage ratio is a regulatory capital measure calculated based on Tier 1 capital divided by adjusted average assets.
+(7)Supplementary leverage ratio is a regulatory capital measure calculated based on Tier 1 capital divided by total leverage exposure. 
+
+30
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Table 14 presents regulatory capital under the Basel III Standardized Approach and regulatory capital metrics as of March 31, 2022 and December 31, 2021. 
+Table 14: Regulatory Risk-Based Capital Components and Regulatory Capital Metrics
+(Dollars in millions)		March 31, 2022		December 31, 2021
+Regulatory Capital Under Basel III Standardized Approach				
+Common equity excluding AOCI		$	57,390 			$	58,206 	
+Adjustments:				
+AOCI, net of tax(1)
+(20)			(23)	
+Goodwill, net of related deferred tax liabilities		(14,559)			(14,562)	
+Other Intangible assets, net of related deferred tax liabilities		(94)			(108)	
+Other(2)
+(16)			(12)	
+Common equity Tier 1 capital		42,701 			43,501 	
+Tier 1 capital instruments		4,846 			4,845 	
+Tier 1 capital		47,547 			48,346 	
+Tier 2 capital instruments		3,243 			3,532 	
+Qualifying allowance for credit losses		4,269 			4,211 	
+Tier 2 capital		7,512 			7,743 	
+Total capital		$	55,059 			$	56,089 	
+Regulatory Capital Metrics				
+Risk-weighted assets		$	336,739 			$	332,673 	
+Adjusted average assets		418,957 			415,141 	
+Total leverage exposure		491,684 			486,405 	
+ __________
+(1)Excludes certain components of AOCI in accordance with rules applicable to Category III institutions.  See “MD&A—Capital Management—Basel III and United States Capital Rules” in this Report.
+(2)Includes deferred tax assets deducted from regulatory capital.
+Capital Planning and Regulatory Stress Testing
+In January 2022, our Board of Directors authorized the repurchase of up to $5 billion of shares of our common stock. We repurchased approximately $2.4 billion of shares of our common stock during the first quarter of 2022. In April 2022, our Board of Directors authorized the repurchase of up to an additional $5 billion of shares of our common stock beginning in the third quarter of 2022. 
+On April 4, 2022, we submitted our capital plan to the Federal Reserve as part of the 2022 Comprehensive Capital Analysis and Review (“CCAR”) cycle. The stress testing results are expected to be released by the Federal Reserve by June 30, 2022. Our 2022 supervisory stress test result will determine the size of our stress capital buffer requirement for the period beginning from October 1, 2022 through September 30, 2023.
+For the description of the regulatory capital planning rules and stress testing requirements to which we are subject, see “MD&A—Supervision and Regulation” in this Report as well as “Part I—Item 1. Business—Supervision and Regulation” in our 2021 Form 10-K.
+31
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Dividend Policy and Stock Purchases 
+In the first three months of 2022, we declared and paid common stock dividends of $253 million, or $0.60 per share, and preferred stock dividends of $57 million. The following table summarizes the dividends paid per share on our various preferred stock series in the first quarter of 2022.
+Table 15: Preferred Stock Dividends Paid Per Share 
+Series		Description		Issuance Date		Per Annum
+Dividend Rate		Dividend Frequency		2022
+Q1
+Series I		5.000%
+Non-Cumulative		September 11, 2019		5.000%		Quarterly		$12.50
+Series J		4.800%
+Non-Cumulative		January 31, 2020		4.800		Quarterly		12.00
+Series K		4.625%
+Non-Cumulative		September 17, 2020		4.625		Quarterly		11.56
+Series L		4.375%
+Non-Cumulative		May 4, 2021		4.375		Quarterly		10.94
+Series M		3.950% Fixed Rate Reset
+Non-Cumulative		June 10, 2021		3.950% through 8/31/2026; resets 9/1/2026 and every subsequent 5 year anniversary at 5-Year Treasury Rate +3.157%		Quarterly		9.88
+Series N		4.250%
+Non-Cumulative		July 29, 2021		4.250		Quarterly		10.63
+     
+The declaration and payment of dividends to our stockholders, as well as the amount thereof, are subject to the discretion of our Board of Directors and depend upon our results of operations, financial condition, capital levels, cash requirements, future prospects, regulatory requirements and other factors deemed relevant by the Board of Directors. As a BHC, our ability to pay dividends is largely dependent upon the receipt of dividends or other payments from our subsidiaries. The Banks are subject to regulatory restrictions that limit their ability to transfer funds to our BHC. As of March 31, 2022, there were $892 million of funds available for dividend payments from COBNA and no funds available for dividend payments from CONA. There can be no assurance that we will declare and pay any dividends to stockholders.  
+In January 2022, our Board of Directors authorized the repurchase of up to $5 billion of shares of our common stock. We repurchased approximately $2.4 billion of shares of our common stock during the first quarter of 2022. In April 2022, our Board of Directors authorized the repurchase of up to an additional $5 billion of shares of our common stock beginning in the third quarter of 2022.  
+The timing and exact amount of any future common stock repurchases will depend on various factors, including regulatory approval, market conditions, opportunities for growth, our capital position and the amount of retained earnings. Our stock repurchase program does not include specific price targets, may be executed through open market purchases, tender offers, or privately negotiated transactions, including utilizing Rule 10b5-1 programs, and may be suspended at any time. For additional information on dividends and stock repurchases, see “MD&A—Capital Management—Capital Planning and Regulatory Stress Testing” and “Part I—Item 1. Business—Supervision and Regulation—Dividends, Stock Repurchases and Transfers of Funds” in our 2021 Form 10-K.
+32
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+RISK MANAGEMENT
+ 
+Risk Management Framework
+Our Risk Management Framework (the “Framework”) sets consistent expectations for risk management across the Company. It also sets expectations for our “Three Lines of Defense” model, which defines the roles, responsibilities and accountabilities for taking and managing risk across the Company. Accountability for overseeing an effective Framework resides with our Board of Directors either directly or through its committees. 
+The “First Line of Defense” consists of any line of business or function that is accountable for risk taking and is responsible for: (i) engaging in activities designed to generate revenue or reduce expenses; (ii) providing operational support or servicing to any business function for the delivery of products or services to customers; or (iii) providing technology services in direct support of first line business areas. Each line of business or first line function must manage the risks associated with their activities, including identifying, assessing, measuring, monitoring, controlling and reporting the risks within its business activities, consistent with the risk framework. The “Second Line of Defense” consists of two types of functions: Independent Risk Management (“IRM”) and Support Functions. IRM oversees risk-taking activities and assesses risks and issues independent from the first line of defense. Support Functions are centers of specialized expertise (e.g., Human Resources, Accounting, Legal) that provide support services to the Company. The “Third Line of Defense” is comprised of the Internal Audit and Credit Review functions. The third line provides independent and objective assurance to senior management and to the Board of Directors that the first and second lines of defense have systems and governance processes which are well-designed and working as intended, and that the Framework is appropriate for our size, complexity and risk profile. 
+Our Framework consists of the following nine elements: 
+
+ Governance and Accountability
+
+
+Strategy and Risk Alignment
+
+
+Risk Identification
+
+Assessment, Measurement
+and Response
+
+
+Monitoring and Testing
+
+
+Aggregation, Reporting and Escalation
+
+
+Capital and Liquidity Management (including Stress Testing)
+
+
+Risk Data and Enabling Technology
+
+
+Culture and Talent Management
+
+ 
+33
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+We provide additional discussion of our risk management principles, roles and responsibilities, framework and risk appetite under “MD&A—Risk Management” in our 2021 Form 10-K.
+Risk Categories
+We apply our Framework to protect the Company from the major categories of risk that we are exposed to through our business activities. We have seven major categories of risk as noted below. We provide a description of these categories and how we manage them under “MD&A—Risk Management” in our 2021 Form 10-K.
+•Compliance risk
+•Credit risk
+•Liquidity risk
+•Market risk
+•Operational risk
+•Reputation risk
+•Strategic risk
+CREDIT RISK PROFILE
+ 
+Our loan portfolio accounts for the substantial majority of our credit risk exposure. Our lending activities are governed under our credit policy and are subject to independent review and approval. Below we provide information about the composition of our loan portfolio, key concentrations and credit performance metrics.
+We also engage in certain non-lending activities that may give rise to ongoing credit and counterparty settlement risk, including purchasing securities for our investment securities portfolio, entering into derivative transactions to manage our market risk exposure and to accommodate customers, extending short-term advances on syndication activity including bridge financing transactions we have underwritten, depositing certain operational cash balances in other financial institutions, executing certain foreign exchange transactions and extending customer overdrafts. We provide additional information related to our investment securities portfolio under “MD&A—Consolidated Balance Sheets Analysis—Investment Securities” and credit risk related to derivative transactions in “Note 8—Derivative Instruments and Hedging Activities.”
+34
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Portfolio and Geographic Composition of Loans Held for Investment
+We provide a variety of lending products. Our primary loan products include credit cards, auto loans and commercial lending products. For information on our lending policies and procedures, including our underwriting criteria for our primary loan products, see “MD&A—Credit Risk Profile” in our 2021 Form 10-K.
+Our loan portfolio consists of loans held for investment, including loans held in our consolidated trusts, and loans held for sale. The information presented in this section excludes loans held for sale, which totaled $1.2 billion and $5.9 billion as of March 31, 2022 and December 31, 2021, respectively.
+Table 16 presents the composition of our portfolio of loans held for investment by portfolio segment as of March 31, 2022 and December 31, 2021. 
+Table 16: Portfolio Composition of Loans Held for Investment 
+March 31, 2022		December 31, 2021
+(Dollars in millions)		Loans		% of Total		Loans		% of Total
+Credit Card:								
+Domestic credit card		$	107,987 			38.5 	%		$	108,723 			39.2 	%
+International card businesses		5,975 			2.1 			6,049 			2.2 	
+Total credit card		113,962 			40.6 			114,772 			41.4 	
+Consumer Banking:								
+Auto		78,604 			28.0 			75,779 			27.3 	
+Retail banking(1)
+1,726 			0.6 			1,867 			0.7 	
+Total consumer banking		80,330 			28.6 			77,646 			28.0 	
+Commercial Banking:(1)
+Commercial and multifamily real estate		34,354 			12.3 			35,262 			12.7 	
+Commercial and industrial		51,820 			18.5 			49,660 			17.9 	
+Total commercial banking		86,174 			30.8 			84,922 			30.6 	
+Total loans held for investment		$	280,466 			100.0 	%		$	277,340 			100.0 	%
+ __________
+(1)Includes Paycheck Protection Program (“PPP”) loans of $112 million and $53 million in our retail and commercial loan portfolios, respectively, as of March 31, 2022 and $232 million and $102 million as of December 31, 2021, respectively.
+35
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Geographic Composition
+We market our credit card products throughout the United States, the United Kingdom and Canada. Our credit card loan portfolio is geographically diversified due to our product and marketing approach. The table below presents the geographic profile of our credit card loan portfolio as of March 31, 2022 and December 31, 2021.
+Table 17: Credit Card Portfolio by Geographic Region 
+March 31, 2022		December 31, 2021
+(Dollars in millions)		Amount		% of Total		Amount		% of Total
+Domestic credit card:								
+California		$	11,159 			9.8 	%		$	11,096 			9.7 	%
+Texas		9,099 			8.0 			9,100 			7.9 	
+Florida		7,760 			6.8 			7,738 			6.7 	
+New York		6,956 			6.1 			6,972 			6.1 	
+Pennsylvania		4,491 			3.9 			4,568 			4.0 	
+Illinois		4,397 			3.9 			4,478 			3.9 	
+Ohio		3,848 			3.4 			3,949 			3.4 	
+New Jersey		3,499 			3.1 			3,520 			3.1 	
+Georgia		3,392 			3.0 			3,397 			3.0 	
+Michigan		3,248 			2.9 			3,306 			2.9 	
+Other		50,138 			43.9 			50,599 			44.0 	
+Total domestic credit card		107,987 			94.8 			108,723 			94.7 	
+International card businesses:								
+United Kingdom		2,994 			2.6 			3,034 			2.7 	
+Canada		2,981 			2.6 			3,015 			2.6 	
+Total international card businesses		5,975 			5.2 			6,049 			5.3 	
+Total credit card		$	113,962 			100.0 	%		$	114,772 			100.0 	%
+ 
+36
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Our auto loan portfolio is geographically diversified in the United States due to our product and marketing approach. Retail banking includes small business loans and other consumer lending products originated through our branch and Café network. The table below presents the geographic profile of our auto loan and retail banking portfolios as of March 31, 2022 and December 31, 2021.
+Table 18: Consumer Banking Portfolio by Geographic Region 
+ 		March 31, 2022		December 31, 2021
+(Dollars in millions)		Amount		% of Total		Amount		% of Total
+Auto:								
+Texas		$	9,631 			12.0 	%		$	9,292 			12.0 	%
+California		9,602 			12.0 			9,127 			11.8 	
+Florida		6,706 			8.3 			6,443 			8.3 	
+Georgia		3,352 			4.2 			3,283 			4.2 	
+Pennsylvania		3,281 			4.1 			3,139 			4.0 	
+Ohio		3,131 			3.9 			3,053 			3.9 	
+Illinois		3,035 			3.8 			2,899 			3.7 	
+New York		2,619 			3.3 			2,536 			3.3 	
+Other		37,247 			46.3 			36,007 			46.4 	
+Total auto		78,604 			97.9 			75,779 			97.6 	
+Retail banking:								
+New York		547 			0.7 			613 			0.8 	
+Texas		363 			0.4 			383 			0.5 	
+Louisiana		326 			0.4 			363 			0.4 	
+New Jersey		143 			0.2 			149 			0.2 	
+Maryland		105 			0.1 			118 			0.2 	
+Virginia		82 			0.1 			93 			0.1 	
+Other		160 			0.2 			148 			0.2 	
+Total retail banking		1,726 			2.1 			1,867 			2.4 	
+Total consumer banking		$	80,330 			100.0 	%		$	77,646 			100.0 	%
+ 
+We originate commercial and multifamily real estate loans in most regions of the United States. The table below presents the geographic profile of our commercial real estate portfolio of March 31, 2022 and December 31, 2021.
+Table 19: Commercial Real Estate Portfolio by Region
+March 31, 2022		December 31, 2021
+(Dollars in millions)		Amount		% of Total		Amount		% of Total
+Geographic concentration:(1)
+Northeast		$	14,739 			42.9 	%		$	16,025 			45.4 	%
+South		5,465 			15.9 			6,210 			17.6 	
+Pacific West		6,333 			18.4 			5,556 			15.8 	
+Mid-Atlantic		3,424 			10.0 			3,105 			8.8 	
+Midwest		2,478 			7.2 			2,863 			8.1 	
+Mountain		1,915 			5.6 			1,503 			4.3 	
+Total		$	34,354 			100.0 	%		$	35,262 			100.0 	%
+ __________
+(1)Geographic concentration is generally determined by the location of the borrower’s business or the location of the collateral associated with the loan. Northeast consists of CT, MA, ME, NH, NJ, NY, PA, RI and VT. South consists of AL, AR, FL, GA, KY, LA, MS, NC, OK, SC, TN and TX. Pacific 
+37
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+West consists of: AK, CA, HI, OR and WA. Mid-Atlantic consists of DC, DE, MD, VA and WV. Midwest consists of: IA, IL, IN, KS, MI, MN, MO, ND, NE, OH, SD and WI. Mountain consists of: AZ, CO, ID, MT, NM, NV, UT and WY.
+Commercial Loans by Industry
+Table 20 summarizes our commercial loans held for investment portfolio by industry classification as of March 31, 2022 and December 31, 2021. Industry classifications below are based on our interpretation of the North American Industry Classification System codes as they pertain to each individual loan. 
+Table 20: Commercial Loans by Industry
+(Percentage of portfolio)		March 31, 2022		December 31, 2021
+Industry Classification:				
+Real estate		34 	%		35 	%
+Finance		25 			25 	
+Healthcare		9 			9 	
+Business services		6 			6 	
+Educational services		4 			4 	
+Public administration		4 			4 	
+Construction and land		3 			3 	
+Retail trade		3 			3 	
+Oil and gas		2 			2 	
+Other		10 			9 	
+Total		100 	%		100 	%
+ 
+38
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Credit Risk Measurement
+We closely monitor economic conditions and loan performance trends to assess and manage our exposure to credit risk. Trends in delinquency rates are the key credit quality indicator for our credit card and retail banking loan portfolios as changes in delinquency rates can provide an early warning of changes in potential future credit losses. The key indicator we monitor when assessing the credit quality and risk of our auto loan portfolio is borrower credit scores as they provide insight into borrower risk profiles, which give indications of potential future credit losses. The key credit quality indicator for our commercial loan portfolios is our internal risk ratings as we generally classify loans that have been delinquent for an extended period of time and other loans with significant risk of loss as nonperforming. In addition to these credit quality indicators, we also manage and monitor other credit quality metrics such as level of nonperforming loans and net charge-off rates. 
+We underwrite most consumer loans using proprietary models, which typically include credit bureau data, such as borrower credit scores, application information and, where applicable, collateral and deal structure data. We continuously adjust our management of credit lines and collection strategies based on customer behavior and risk profile changes. We also use borrower credit scores for subprime classification, for competitive benchmarking and, in some cases, to drive product segmentation decisions. 
+Table 21 provides details on the credit scores of our domestic credit card and auto loan portfolios as of March 31, 2022 and December 31, 2021.
+Table 21: Credit Score Distribution
+(Percentage of portfolio)		March 31, 2022		December 31, 2021
+Domestic credit card—Refreshed FICO scores:(1)
+Greater than 660		70 	%		71 	%
+660 or below		30 			29 	
+Total		100 	%		100 	%
+Auto—At origination FICO scores:(2)
+Greater than 660		51 	%		50 	%
+621 - 660		20 			20 	
+620 or below		29 			30 	
+Total		100 	%		100 	%
+ __________
+(1)Percentages represent period-end loans held for investment in each credit score category. Domestic card credit scores generally represent FICO scores. These scores are obtained from one of the major credit bureaus at origination and are refreshed monthly thereafter. We approximate non-FICO credit scores to comparable FICO scores for consistency purposes. Balances for which no credit score is available or the credit score is invalid are included in the 660 or below category.
+(2)Percentages represent period-end loans held for investment in each credit score category. Auto credit scores generally represent average FICO scores obtained from three credit bureaus at the time of application and are not refreshed thereafter. Balances for which no credit score is available or the credit score is invalid are included in the 620 or below category.
+We present information in the section below on the credit performance of our loan portfolio, including the key metrics we use in tracking changes in the credit quality of our loan portfolio. See “Note 3—Loans” for additional credit quality information and see “Note 1—Summary of Significant Accounting Policies” for information on our accounting policies for delinquent and nonperforming loans, charge-offs and troubled debt restructurings (“TDR”) for each of our loan categories.
+Delinquency Rates
+We consider the entire balance of an account to be delinquent if the minimum required payment is not received by the customer’s due date, measured at each balance sheet date. Our 30+ day delinquency metrics include all loans held for investment that are 30 or more days past due, whereas our 30+ day performing delinquency metrics include all loans held for investment that are 30 or more days past due but are currently classified as performing and accruing interest. The 30+ day delinquency and 30+ day performing delinquency metrics are the same for domestic credit card loans, as we continue to classify these loans as performing until the account is charged off, typically when the account is 180 days past due. See “Note 1—Summary of Significant Accounting Policies” in our 2021 Form 10-K for information on our policies for classifying loans as nonperforming for each of our loan categories. We provide additional information on our credit quality metrics in “MD&A—Business Segment Financial Performance.” 
+39
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Table 22 presents our 30+ day performing delinquency rates and 30+ day delinquency rates of our portfolio of loans held for investment, by portfolio segment, as of March 31, 2022 and December 31, 2021.
+Table 22: 30+ Day Delinquencies 
+ 		March 31, 2022		December 31, 2021
+ 		30+ Day Performing Delinquencies		30+ Day Delinquencies		30+ Day Performing Delinquencies		30+ Day Delinquencies
+(Dollars in millions)		Amount		
+Rate(1)
+Amount		
+Rate(1)
+Amount		
+Rate(1)
+Amount		
+Rate(1)
+Credit Card:																
+Domestic credit card		$	2,503 			2.32 	%		$	2,503 			2.32 	%		$	2,411 			2.22 	%		$	2,411 			2.22 	%
+International card businesses		214 			3.58 			219 			3.67 			207 			3.42 			213 			3.51 	
+Total credit card		2,717 			2.38 			2,722 			2.39 			2,618 			2.28 			2,624 			2.29 	
+Consumer Banking:																
+Auto		3,027 			3.85 			3,285 			4.18 			3,271 			4.32 			3,558 			4.69 	
+Retail banking		13 			0.74 			34 			1.96 			36 			1.92 			60 			3.20 	
+Total consumer banking		3,040 			3.78 			3,319 			4.13 			3,307 			4.26 			3,618 			4.66 	
+Commercial Banking:																
+Commercial and multifamily real estate		51 			0.15 			82 			0.24 			108 			0.31 			162 			0.46 	
+Commercial and industrial		23 			0.05 			74 			0.14 			211 			0.43 			281 			0.57 	
+Total commercial banking		74 			0.09 			156 			0.18 			319 			0.38 			443 			0.52 	
+Total		$	5,831 			2.08 			$	6,197 			2.21 			$	6,244 			2.25 			$	6,685 			2.41 	
+ __________
+(1)Delinquency rates are calculated by dividing delinquency amounts by period-end loans held for investment for each specified loan category.
+Table 23 presents our 30+ day delinquent loans, by aging and geography, as of March 31, 2022 and  December 31, 2021.
+Table 23: Aging and Geography of 30+ Day Delinquent Loans 
+ 		March 31, 2022		December 31, 2021
+(Dollars in millions)		Amount		
+Rate(1)
+Amount		
+Rate(1)
+Delinquency status:								
+30 – 59 days		$	3,152 			1.13 	%		$	3,501 			1.26 	%
+60 – 89 days		1,442 			0.51 			1,656 			0.60 	
+> 90 days
+1,603 			0.57 			1,528 			0.55 	
+Total		$	6,197 			2.21 	%		$	6,685 			2.41 	%
+Geographic region:								
+Domestic		$	5,978 			2.13 	%		$	6,472 			2.33 	%
+International		219 			0.08 			213 			0.08 	
+Total		$	6,197 			2.21 	%		$	6,685 			2.41 	%
+ __________
+(1)Delinquency rates are calculated by dividing delinquency amounts by total period-end loans held for investment.
+40
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Table 24 summarizes loans that were 90+ days delinquent as to interest or principal, and still accruing interest as of March 31, 2022 and December 31, 2021. These loans consist primarily of credit card accounts between 90 days and 179 days past due. As permitted by regulatory guidance issued by the Federal Financial Institutions Examination Council (“FFIEC”), we continue to accrue interest and fees on domestic credit card loans through the date of charge off, which is typically in the period the account becomes 180 days past due.
+Table 24: 90+ Day Delinquent Loans Accruing Interest 
+ 		March 31, 2022		December 31, 2021
+(Dollars in millions)		Amount		
+Rate(1)
+Amount		
+Rate(1)
+Loan category:								
+Credit card		$	1,282 			1.13 	%		$	1,192 			1.04 	%
+Commercial banking		12 			0.01 			3 			— 	
+Total		$	1,294 			0.46 			$	1,195 			0.43 	
+Geographic region:								
+Domestic		$	1,203 			0.44 			$	1,113 			0.41 	
+International		91 			1.53 			82 			1.36 	
+Total		$	1,294 			0.46 			$	1,195 			0.43 	
+ __________
+(1)Delinquency rates are calculated by dividing delinquency amounts by period-end loans held for investment for each specified loan category.
+Nonperforming Loans and Nonperforming Assets
+Nonperforming assets consist of nonperforming loans, repossessed assets and other foreclosed assets. Nonperforming loans include loans that have been placed on nonaccrual status. See “Note 1—Summary of Significant Accounting Policies” in our 2021 Form 10-K for information on our policies for classifying loans as nonperforming for each of our loan categories.
+Table 25 presents our nonperforming loans, by portfolio segment, and other nonperforming assets as of March 31, 2022 and December 31, 2021. We do not classify loans held for sale as nonperforming. We provide additional information on our credit quality metrics in “MD&A—Business Segment Financial Performance.”
+Table 25: Nonperforming Loans and Other Nonperforming Assets(1)
+ 		March 31, 2022		December 31, 2021
+(Dollars in millions)		Amount		Rate		Amount		Rate
+Nonperforming loans held for investment:(2)
+Credit Card:								
+International card businesses		$	8 			0.14 	%		$	10 			0.16 	%
+Total credit card		8 			0.01 			10 			0.01 	
+Consumer Banking:								
+Auto		325 			0.41 			344 			0.45 	
+Retail banking		45 			2.63 			47 			2.51 	
+Total consumer banking		370 			0.46 			391 			0.50 	
+Commercial Banking:								
+Commercial and multifamily real estate		335 			0.98 			383 			1.09 	
+Commercial and industrial		360 			0.69 			316 			0.64 	
+Total commercial banking		695		0.81 			699 			0.82 	
+Total nonperforming loans held for investment(3)
+1,073 			0.38 			1,100 			0.40 	
+Other nonperforming assets(4)
+47 			0.02 			41 			0.01 	
+Total nonperforming assets		$	1,120 			0.40 			$	1,141 			0.41 	
+ __________
+(1)We recognized interest income of $1 million for loans classified as nonperforming in both the first quarters of 2022 and 2021. Interest income foregone related to nonperforming loans was $21 million and $16 million in the first quarters of 2022 and 2021, respectively. Foregone interest income represents 
+41
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+the amount of interest income in excess of recognized interest income that would have been recorded during the period for nonperforming loans as of the end of the period had the loans performed according to their contractual terms.
+(2)Nonperforming loan rates are calculated based on nonperforming loans for each category divided by period-end total loans held for investment for each respective category.
+(3)Excluding the impact of domestic credit card loans, nonperforming loans as a percentage of total loans held for investment was 0.62% and 0.65% as of March 31, 2022 and December 31, 2021, respectively.
+(4)The denominators used in calculating nonperforming asset rates consist of total loans held for investment and other nonperforming assets. 
+Net Charge-Offs
+Net charge-offs consist of the amortized cost basis, excluding accrued interest, of loans held for investment that we determine to be uncollectible, net of recovered amounts. We charge off loans as a reduction to the allowance for credit losses when we determine the loan is uncollectible and record subsequent recoveries of previously charged off amounts as increases to the allowance for credit losses. Uncollectible finance charges and fees are reversed through revenue and certain fraud losses are recorded in other non-interest expense. Generally, costs to recover charged off loans are recorded as collection expenses as incurred and are included in our consolidated statements of income as a component of other non-interest expense. Our charge-off policy for loans varies based on the loan type. See “Note 1—Summary of Significant Accounting Policies” in our 2021 form 10-K for information on our charge-off policy for each of our loan categories.
+Table 26 presents our net charge-off amounts and rates, by portfolio segment, in the first quarters of 2022 and 2021.
+Table 26: Net Charge-Offs
+ 		Three Months Ended March 31,
+ 		2022		2021
+(Dollars in millions)		Amount		
+Rate(1)
+Amount		
+Rate(1)
+Credit Card:								
+Domestic credit card		$	559 			2.12 	%		$	587 			2.54 	%
+International card businesses		48 			3.20 			46 			2.30 	
+Total credit card		607 			2.18 			633 			2.52 	
+Consumer Banking:								
+Auto		127 			0.66 			78 			0.47 	
+Retail banking		19 			4.31 			13 			1.68 	
+Total consumer banking		146 			0.75 			91 			0.52 	
+Commercial Banking:								
+Commercial and multifamily real estate		— 			— 			4 			0.06 	
+Commercial and industrial		14 			0.11 			12 			0.11 	
+Total commercial banking		14 			0.06 			16 			0.09 	
+Total net charge-offs		$	767 			1.11 			$	740 			1.21 	
+Average loans held for investment		$	275,342 					$	243,937 			
+ __________
+(1)Net charge-off rates are calculated by dividing annualized net charge-offs by average loans held for investment for the period for each loan category.
+42
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Troubled Debt Restructurings
+As part of our loss mitigation efforts, we may provide short-term (one to twelve months) or long-term (greater than twelve months) modifications to a borrower experiencing financial difficulty to improve long-term collectability of the loan and to avoid the need for repossession or foreclosure of collateral. 
+We consider the impact of all loan modifications, whether or not that modification is classified as a TDR, when estimating the credit quality of our loan portfolio and establishing allowance levels. For our Commercial Banking customers, loan modifications are also considered in the assignment of an internal risk rating.
+In our Credit Card business, the majority of our credit card loans modified as TDRs involve reducing the interest rate on the account and placing the customer on a fixed payment plan not exceeding 60 months. The effective interest rate on the loan immediately prior to the loan modification is used as the effective interest rate for purposes of measuring impairment using the present value of expected cash flows. If the customer does not comply with the modified payment terms, then the credit card loan agreement may revert to its original payment terms, generally resulting in any loan outstanding reflected in the appropriate delinquency category and charged off in accordance with our standard charge-off policy.
+In our Consumer Banking business, the majority of our loans modified as TDRs receive an extension, an interest rate reduction or principal reduction, or a combination of these modifications. In addition, TDRs also occur in connection with bankruptcy of the borrower. In certain bankruptcy discharges, the loan is written down to the collateral value and the charged off amount is reported as principal reduction. Impairment is determined using the present value of expected cash flows or a collateral evaluation for certain auto loans where the collateral value is lower than the amortized cost.
+In our Commercial Banking business, the majority of loans modified as TDRs receive an extension, with a portion of these loans receiving an interest rate reduction or a gross balance reduction. The impairment on modified commercial loans is generally determined based on the underlying collateral value.
+As part of our response to the COVID-19 pandemic, we offered programs to accommodate customer hardship across our lines of business in the first quarter of 2020. Our COVID-19 programs were designed to be short-term accommodations so that we could provide our customers with prompt relief. Also in response to the COVID-19 pandemic, additional guidance was issued by the Federal Banking Agencies and contained in the Coronavirus Aid, Relief, and Economic Security Act (“CARES Act”) which provided banking organizations with TDR relief for loan modifications to certain qualifying borrowers impacted by the COVID-19 pandemic.
+While the majority of enrollments in our COVID-19 programs were short-term and would generally not have resulted in TDR classification under our existing policies, some of these modification would have been designated as TDRs without the relief provided by the additional guidance issued by the Federal Banking Agencies and contained in the CARES Act. Therefore, the expiry of the guidance in the CARES Act on January 1, 2022, along with our concurrent cessation in applying the additional guidance issued by the Federal Banking Agencies, drove an increase in reported TDRs for the three months ending March 31, 2022 as seen in the table below.
+43
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Table 27 presents our amortized cost of loans modified in TDR as of March 31, 2022 and December 31, 2021, which excludes loan modifications that do not meet the definition of a TDR.
+Table 27: Troubled Debt Restructurings
+ 		March 31, 2022		December 31, 2021
+(Dollars in millions)		Amount		% of Total Modifications		Amount		% of Total Modifications
+Credit Card:								
+Domestic credit card		$	389 			20.8 	%		$	390 			23.8 	%
+International card businesses		174 			9.3		177 			10.8 	
+Total credit card		563 			30.1		567 			34.6 	
+Consumer banking:								
+Auto		740 			39.5 			603 			36.7 	
+Retail banking		13 			0.7 			13 			0.8 	
+Total consumer banking		753 			40.2 			616 			37.5 	
+Commercial banking		557 			29.7 			457 			27.9 	
+Total		$	1,873 			100.0 	%		$	1,640 			100.0 	%
+Status of TDR:								
+Performing		$	1,518 			81.0 	%		$	1,282 			78.2 	%
+Nonperforming		355 			19.0 			358 			21.8 	
+Total		$	1,873 			100.0 	%		$	1,640 			100.0 	%
+ 
+We provide additional information on modified loans accounted for as TDR, including the performance of those loans subsequent to modification, in “Note 3—Loans.” Recently issued accounting standards eliminate the accounting guidance for TDRs effective for fiscal years beginning on or after December 15, 2022, see “MD&A—Accounting Changes and Developments” for additional information on accounting standards issued but not yet adopted.
+Allowance for Credit Losses and Reserve for Unfunded Lending Commitments
+Our allowance for credit losses represents management’s current estimate of expected credit losses over the contractual terms of our loans held for investment as of each balance sheet date. Expected recoveries of amounts previously charged off or expected to be charged off are recognized within the allowance. We also estimate expected credit losses related to unfunded lending commitments that are not unconditionally cancellable. The provision for losses on unfunded lending commitments is included in the provision for credit losses in our consolidated statements of income and the related reserve for unfunded lending commitments is included in other liabilities on our consolidated balance sheets. We provide additional information on the methodologies and key assumptions used in determining our allowance for credit losses in “Note 1—Summary of Significant Accounting Policies” in our 2021 Form 10-K.
+Table 28 presents changes in our allowance for credit losses and reserve for unfunded lending commitments for the first quarters of 2022 and 2021, and details by portfolio segment for the provision for credit losses, charge-offs and recoveries.
+44
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Table 28: Allowance for Credit Losses and Reserve for Unfunded Lending Commitments Activity
+Three Months Ended March 31, 2022
+Credit Card		Consumer Banking				
+(Dollars in millions)		Domestic Card		International Card Businesses		Total Credit Card		Auto		Retail Banking		Total Consumer Banking		Commercial Banking		Total
+Allowance for credit losses:																
+Balance as of December 31, 2021		$	7,968 			$	377 			$	8,345 			$	1,852 			$	66 			$	1,918 			$	1,167 			$	11,430 	
+Charge-offs
+(867)			(88)			(955)			(326)			(23)			(349)			(17)			(1,321)	
+Recoveries(1)
+308 			40 			348 			199 			4 			203 			3 			554 	
+Net charge-offs		(559)			(48)			(607)			(127)			(19)			(146)			(14)			(767)	
+Provision (benefit) for credit losses		559 			(14)			545 			127 			3 			130 			(27)			648 	
+Allowance build (release) for credit losses		— 			(62)			(62)			— 			(16)			(16)			(41)			(119)	
+Other changes(2)
+— 			(3)			(3)			— 			— 			— 			— 			(3)	
+Balance as of March 31, 2022		7,968 			312 			8,280 			1,852 			50 			1,902 			1,126 			11,308 	
+Reserve for unfunded lending commitments:																
+Balance as of December 31, 2021		— 			— 			— 			— 			— 			— 			165 			165 	
+Provision for losses on unfunded lending commitments		— 			— 			— 			— 			— 			— 			35 			35 	
+Balance as of March 31, 2022		— 			— 			— 			— 			— 			— 			200 			200 	
+Combined allowance and reserve as of March 31, 2022		$	7,968 			$	312 			$	8,280 			$	1,852 			$	50 			$	1,902 			$	1,326 			$	11,508 	
+ 
+
+Three Months Ended March 31, 2021
+Credit Card		Consumer Banking				
+(Dollars in millions)		Domestic Card		International Card Businesses		Total Credit Card		Auto		Retail Banking		Total Consumer Banking		Commercial Banking		Total
+Allowance for credit losses:																
+Balance as of December 31, 2020		$	10,650 			$	541 			$	11,191 			$	2,615 			$	100 			$	2,715 			$	1,658 			$	15,564 	
+Charge-offs
+(904)			(89)			(993)			(324)			(18)			(342)			(19)			(1,354)	
+Recoveries(1)
+317 			43 			360 			246 			5 			251 			3 			614 	
+Net charge-offs		(587)			(46)			(633)			(78)			(13)			(91)			(16)			(740)	
+Provision (benefit) for credit losses		(491)			(1)			(492)			(132)			6 			(126)			(195)			(813)	
+Allowance build (release) for credit losses		(1,078)			(47)			(1,125)			(210)			(7)			(217)			(211)			(1,553)	
+Other changes(2)
+— 			6 			6 			— 			— 			— 			— 			6 	
+Balance as of March 31, 2021		9,572 			500 			10,072 			2,405 			93 			2,498 			1,447 			14,017 	
+Reserve for unfunded lending commitments:																
+Balance as of December 31, 2020		— 			— 			— 			— 			— 			— 			195 			195 	
+Provision (benefit) for losses on unfunded lending commitments		— 			— 			— 			— 			— 			— 			(8)			(8)	
+Balance as of March 31, 2021		— 			— 			— 			— 			— 			— 			187 			187 	
+Combined allowance and reserve as of March 31, 2021		$	9,572 			$	500 			$	10,072 			$	2,405 			$	93 			$	2,498 			$	1,634 			$	14,204 	
+ __________
+(1)The amount and timing of recoveries are impacted by our collection strategies, which are based on customer behavior and risk profile and include direct customer communications, repossession of collateral, the periodic sale of charged off loans as well as additional strategies, such as litigation.
+(2)Represents foreign currency translation adjustments.
+45
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Allowance coverage ratios are calculated based on the allowance for credit losses for each specified portfolio segment divided by period-end loans held for investment within the specified loan category, as defined below. Table 29 presents the allowance coverage ratios as of March 31, 2022 and December 31, 2021. 
+Table 29: Allowance Coverage Ratios for Specified Loan Category
+March 31, 2022		December 31, 2021
+(Dollars in millions)		Allowance for Credit Losses		
+Amount(1)
+Allowance Coverage Ratio		Allowance for Credit Losses		
+Amount(1)
+Allowance Coverage Ratio
+Credit Card		$	8,280 			$	2,722 			304.15 	%		$	8,345 			$	2,624 			318.08 	%
+Consumer Banking		1,902 			3,319 			57.30 			1,918 			3,618 			53.01 	
+Commercial Banking		1,126 			695 			161.98 			1,167 			699 			166.93 	
+Total		$	11,308 			280,466 			4.03 			$	11,430 			277,340 			4.12 	
+ __________
+(1)Represents period-end 30+ day delinquent loans for our credit card and consumer banking loan portfolios, nonperforming loans for our commercial banking loan portfolio and total loans held for investment for the total ratio.
+Our allowance for credit losses was substantially flat at $11.3 billion as of March 31, 2022 compared to December 31, 2021 and our allowance coverage ratio decreased by 9 basis points to 4.03% as of March 31, 2022 from December 31, 2021, driven by growth in our auto and commercial loan portfolios. 
+LIQUIDITY RISK PROFILE
+ 
+We have established liquidity practices that are intended to ensure that we have sufficient asset-based liquidity to cover our funding requirements and maintain adequate reserves to withstand the potential impact of deposit attrition or diminished liquidity in the funding markets. In addition to our cash and cash equivalents, we maintain reserves in the form of investment securities and certain loans that are either readily-marketable or pledgeable. 
+Table 30 below presents the composition of our liquidity reserves as of March 31, 2022 and December 31, 2021.
+Table 30: Liquidity Reserves
+(Dollars in millions)		March 31, 2022		December 31, 2021
+Cash and cash equivalents		$	26,804 			$	21,746 	
+Investment securities available for sale, at fair value		89,076 			95,261 	
+FHLB borrowing capacity secured by loans		7,077 			7,109 	
+Outstanding FHLB advances and letters of credit secured by loans		(4,053)			(8)	
+Investment securities encumbered for Public Funds and other uses		(8,359)			(7,874)	
+Total liquidity reserves		$	110,545 			$	116,234 	
+ 
+Our liquidity reserves decreased by $5.7 billion to $110.5 billion as of March 31, 2022 from December 31, 2021 as an increase in cash balances was more than offset by declines in the fair value of our investment securities and an increase in outstanding FHLB advances. See “MD&A—Risk Management” in our 2021 Form 10-K for additional information on our management of liquidity risk.
+46
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Liquidity Coverage Ratio
+We are subject to the liquidity coverage ratio (“LCR”) standard as implemented by the Federal Reserve and OCC (the “LCR Rule”). The LCR Rule requires us to calculate our LCR daily. It also requires the Company to publicly disclose, on a quarterly basis, its LCR, certain related quantitative liquidity metrics, and a qualitative discussion of its LCR. Our average LCR during the first quarter of 2022 was 140%, which exceeded the LCR Rule requirement of 100%. The calculation and the underlying components are based on our interpretations, expectations and assumptions of relevant regulations, as well as interpretations provided by our regulators, and are subject to change based on changes to future regulations and interpretations. See “Part I—Item 1. Business—Supervision and Regulation” in our 2021 Form 10-K for additional information.
+Net Stable Funding Ratio
+In October 2020, the Federal Banking Agencies finalized a rule to implement the net stable funding ratio (“NSFR”) in the United States (the “NSFR Rule”). The NSFR Rule requires the Company and each of the Banks to maintain an amount of available stable funding, which is a weighted measure of a company’s funding sources over a one-year time horizon, calculated by applying standardized weightings to equity and liabilities based on their expected stability, that is no less than a specified percentage of its required stable funding, which is calculated by applying standardized weightings to assets, derivatives exposures and certain other items based on their liquidity characteristics. As a Category III institution, the Company and the Banks are each required to maintain available stable funding in an amount at least equal to 85% of its required stable funding. The NSFR Rule became effective on July 1, 2021 and applies to the Company and each of the Banks. The NSFR Rule includes a semi-annual public disclosure requirement, with the first disclosure due 45 days after the end of the second quarter of 2023. The Company and the Banks exceeded the NSFR Rule requirement as of March 31, 2022.
+Borrowing Capacity
+We maintain a shelf registration with the U.S. Securities and Exchange Commission (“SEC”) so that we may periodically offer and sell an indeterminate aggregate amount of senior or subordinated debt securities, preferred stock, depositary shares, common stock, purchase contracts, warrants and units. There is no limit under this shelf registration to the amount or number of such securities that we may offer and sell, subject to market conditions. In addition, we also maintain a shelf registration that allows us to periodically offer and sell up to $30 billion of securitized debt obligations from our credit card loan securitization trust and, effective as of April 18, 2022, a shelf registration that allows us to periodically offer and sell up to $25 billion of securitized debt obligations from our auto loan securitization trusts, which represents a $5 billion increase from the previous shelf registration. The registered amounts under these shelf registration statements are subject to continuing review and change in the future, including as part of the routine renewal process.
+In addition to our issuance capacity under the shelf registration statements, we also have access to FHLB advances, the Federal Reserve Discount Window and the Fixed Income Clearing Corporation’s general collateral financing repurchase agreement service. The ability to borrow utilizing these sources is based on membership status and the amount is dependent upon the Banks’ ability to post collateral. As of March 31, 2022, we pledged both loans and securities to the FHLB to secure a maximum borrowing capacity of $18.6 billion, of which $4.1 billion was used. Our FHLB membership is supported by our investment in FHLB stock of $180 million and $32 million as of March 31, 2022 and December 31, 2021, respectively, which was determined in part based on our outstanding advances. As of March 31, 2022, we pledged loans to secure a borrowing capacity of $22.9 billion under the Federal Reserve Discount Window. Our membership with the Federal Reserve is supported by our investment in Federal Reserve stock, which totaled $1.3 billion as of both March 31, 2022 and December 31, 2021.
+47
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Deposits
+Table 31 provides a comparison of average balances, interest expense and average deposits interest rates for the three months ended March 31, 2022 and 2021.
+Table 31: Deposits Composition and Average Deposits Interest Rates
+Three Months Ended March 31,
+2022		2021
+(Dollars in millions)		Average
+Balance		Interest
+Expense		Average
+Deposits
+Interest Rate		Average
+Balance		Interest
+Expense		Average
+Deposits
+Interest Rate
+Interest-bearing checking accounts(1)
+$	49,405 			$	20 			0.16 	%		$	42,115 			$	19 			0.18 	%
+Saving deposits(2)
+205,251 			154 			0.31 			201,674 			160 			0.32 	
+Time deposits		17,167 			44 			1.04 			29,569 			90 			1.25 	
+Total interest-bearing deposits		$	271,823 			$	218 			0.32 			$	273,358 			$	269 			0.39 	
+ __________
+(1)Includes negotiable order of withdrawal accounts.
+(2)Includes money market deposit accounts.
+The FDIC limits the acceptance of brokered deposits to well-capitalized insured depository institutions and, with a waiver from the FDIC, to adequately-capitalized institutions. COBNA and CONA were well-capitalized, as defined under the federal banking regulatory guidelines, as of March 31, 2022 and December 31, 2021, respectively. See “Part I—Item 1. Business—Supervision and Regulation” in our 2021 Form 10-K for additional information. We provide additional information on the composition of deposits in “MD&A—Consolidated Balance Sheets Analysis—Funding Sources Composition” and in “Note 7—Deposits and Borrowings.”
+Funding
+Our primary source of funding comes from deposits, as they are a stable and relatively low cost source of funding. In addition to deposits, we raise funding through the issuance of senior and subordinated notes and securitized debt obligations, federal funds purchased, securities loaned or sold under agreements to repurchase and FHLB advances secured by certain portions of our loan and securities portfolios. A key objective in our use of these markets is to maintain access to a diversified mix of wholesale funding sources. See “MD&A—Consolidated Balance Sheets Analysis—Funding Sources Composition” for additional information on our primary sources of funding.
+Short-Term Borrowings and Long-Term Debt
+We access the capital markets to meet our funding needs through the issuance of senior and subordinated notes, securitized debt obligations and federal funds purchased and securities loaned or sold under agreements to repurchase. In addition, we have access to short-term and long-term FHLB advances secured by certain of our investment securities, multifamily real estate loans and commercial real estate loans. 
+Our short-term borrowings include those borrowings with an original contractual maturity of one year or less and do not include the current portion of long-term debt. The short-term borrowings, which consist of federal funds purchased and securities loaned or sold under agreements to repurchase, increased by $3.8 billion to $4.6 billion as of March 31, 2022 from December 31, 2021.
+Our long-term funding, which primarily consists of securitized debt obligations and senior and subordinated notes, decreased by $1.5 billion to $40.8 billion as of March 31, 2022 from December 31, 2021 primarily driven by net maturities in our credit card securitization program. We provide more information on our securitization activity in “Note 5—Variable Interest Entities and Securitizations.”
+48
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+The following table summarizes issuances of securitized debt obligations, senior and subordinated notes and their respective maturities or redemptions for the three months ended March 31, 2022 and 2021.
+Table 32: Long-Term Debt Funding Activities 
+Issuances		Maturities/Redemptions
+Three Months Ended March 31,		Three Months Ended March 31,
+(Dollars in millions)		2022		2021		2022		2021
+Securitized debt obligations		$	2,250 			$	— 			$	3,198 			$	271 	
+Senior and subordinated notes		3,050 			— 			2,357 			1,500 	
+Total		$	5,300 			$	— 			$	5,555 			$	1,771 	
+ 
+Credit Ratings
+Our credit ratings impact our ability to access capital markets and our borrowing costs. Rating agencies assign their ratings based on numerous factors, including liquidity, capital adequacy, asset quality, quality of earnings and the probability of systemic support. Significant changes in these factors could result in different ratings.
+Table 33 provides a summary of the credit ratings for the senior unsecured long-term debt of Capital One Financial Corporation, COBNA and CONA as of March 31, 2022 and December 31, 2021.
+Table 33: Senior Unsecured Long-Term Debt Credit Ratings
+March 31, 2022		December 31, 2021
+Capital One
+Financial
+Corporation		COBNA		CONA		Capital One
+Financial
+Corporation		COBNA		CONA
+Moody’s		Baa1		A3		A3		Baa1		A3		A3
+S&P		BBB		BBB+		BBB+		BBB		BBB+		BBB+
+Fitch		A-		A		A		A-		A		A
+ 
+As of April 22, 2022, Moody’s Investors Service (“Moody’s”), Standard & Poor’s (“S&P”) and Fitch Ratings (“Fitch”) have our credit ratings on a stable outlook.
+Other Commitments
+Our primary involvement with leases is in the capacity as a lessee where we lease premises to support our business. A majority of our leases are operating leases of office space, retail bank branches and Cafés. Our operating leases expire at various dates through 2071 and certain of these leases also have extension or termination options. As of March 31, 2022 and December 31, 2021, we had $1.6 billion and $1.7 billion, respectively, in aggregate operating lease liabilities. We provide more information on our lease activity in “Note 7—Premises, Equipment and Leases” in our 2021 Form 10-K.
+We have purchase obligations that represents substantial agreements to purchase goods or receive services such as data management, media and other software and third-party services that are enforceable and legally binding and specify significant terms. As of March 31, 2022 and December 31, 2021, we had $1.0 billion and $1.5 billion, respectively, in aggregate purchase obligation liabilities.
+As of March 31, 2022 and December 31, 2021, our total unfunded lending commitments was $400.5 billion and $414.5 billion, respectively, primarily consisting of credit card lines, loan commitments to customers of both our Commercial Banking and Consumer Banking businesses, as well as standby and commercial letters of credit. We generally manage the potential risk of unfunded lending commitments by limiting the total amount of arrangements, monitoring the size and maturity structure of these portfolios and applying the same credit standards for all of our credit activities. For additional information refer to “Note 13—Commitments, Contingencies, Guarantees and Others” in this Report.
+49
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+We also enter into various contractual arrangements that may require future cash payments, including short-term obligations such as trade payables, commitments to fund certain equity investments, obligations for pension and post-retirement benefit plans, and representation and warranty reserves, which are discussed in more detail in “Note 5—Variable Interest Entities and Securitizations” and “Note 13—Commitments, Contingencies, Guarantees and Others” in this Report and “Note 14—Employee Benefit Plans” in our 2021 Form 10-K.
+MARKET RISK PROFILE
+ 
+Our primary market risk exposures include interest rate risk, foreign exchange risk and commodity pricing risk. We are exposed to market risk primarily from the following operations and activities:
+•Traditional banking activities of deposit gathering and lending;
+•Asset/liability management activities including the management of investment securities, short-term and long-term borrowings and derivatives;
+•Foreign operations in the U.K. and Canada within our Credit Card business; and
+•Customer accommodation activities within our Commercial Banking business.
+We have enterprise-wide risk management policies and limits, approved by our Board of Directors, which govern our market risk management activities. Our objective is to manage our exposure to market risk in accordance with these policies and limits based on prevailing market conditions and long-term expectations. We provide additional information below about our primary sources of market risk, our market risk management strategies and the measures that we use to evaluate these exposures.
+50
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Interest Rate Risk
+Interest rate risk represents exposure to financial instruments whose values vary with the level or volatility of interest rates. We are exposed to interest rate risk primarily from the differences in the timing between the maturities or re-pricing of assets and liabilities. We manage our interest rate risk primarily by entering into interest rate swaps and other derivative instruments which could include caps, floors, options, futures and forward contracts. 
+We use various industry standard market risk measurement techniques and analyses to measure, assess and manage the impact of changes in interest rates on our net interest income and our economic value of equity and changes in foreign exchange rates on our non-dollar-denominated funding and non-dollar equity investments in foreign operations.
+Net Interest Income Sensitivity
+Our net interest income sensitivity measure estimates the impact on our projected 12-month baseline net interest income resulting from movements in interest rates. In addition to our existing assets and liabilities, we incorporate expected future business growth assumptions, such as loan and deposit growth and pricing, and plans for projected changes in our funding mix in our baseline forecast. In measuring the sensitivity of interest rate movements on our projected net interest income, we assume a hypothetical instantaneous parallel shift in the level of interest rates detailed in Table 34 below. At the current level of interest rates, our net interest income is expected to increase in higher rate scenarios and decrease in lower rate scenarios. Our current sensitivity to upward shocks has decreased as compared to December 31, 2021, mainly due to the increase in market interest rates. 
+Economic Value of Equity
+Our economic value of equity sensitivity measure estimates the impact on the net present value of our assets and liabilities, including derivative exposures, resulting from movements in interest rates. Our economic value of equity sensitivity measure is calculated based on our existing assets and liabilities, including derivatives, and does not incorporate business growth assumptions or projected balance sheet changes. Key assumptions used in the calculation include projecting rate sensitive prepayments for mortgage securities, loans and other assets, term structure modeling of interest rates, discount spreads, and deposit volume and pricing assumptions. In measuring the sensitivity of interest rate movements on our economic value of equity, we assume a hypothetical instantaneous parallel shift in the level of interest rates detailed in Table 34 below. Our current economic value of equity sensitivity profile demonstrates that our economic value of equity decreases in all interest rate scenarios. Our current economic value of equity sensitivity to upward shocks in an extreme interest rate scenario (+200 bps) became more negative as compared to December 31, 2021 mainly due to the increase in long-term interest rates.
+Table 34 shows the estimated percentage impact on our projected baseline net interest income and economic value of equity calculated under the methodology described above as of March 31, 2022 and December 31, 2021. In instances where an interest rate scenario would result in a rate less than 0%, we assume a rate of 0% for that scenario. This assumption applies only to jurisdictions that do not have negative policy rates. In jurisdictions that have negative policy rates, we do not floor interest rates at 0%.
+51
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Table 34: Interest Rate Sensitivity Analysis
+March 31, 2022		December 31, 2021
+Estimated impact on projected baseline net interest income:				
++200 basis points		1.3 	%		3.4 	%
++100 basis points		1.1 			2.5 	
++50 basis points		0.6 			1.5 	
+–50 basis points		(0.7)			(1.8)	
+Estimated impact on economic value of equity:				
++200 basis points		(5.1)			(0.7)	
++100 basis points		(0.8)			1.9 	
++50 basis points		(0.2)			1.4 	
+–50 basis points		(0.5)			(2.6)	
+ 
+In addition to these industry standard measures, we also consider the potential impact of alternative interest rate scenarios, such as stressed rate shocks as well as steepening and flattening yield curve scenarios in our internal interest rate risk management decisions.
+Limitations of Market Risk Measures
+The interest rate risk models that we use in deriving these measures incorporate contractual information, internally-developed assumptions and proprietary modeling methodologies, which project borrower and depositor behavior patterns in certain interest rate environments. Other market inputs, such as interest rates, market prices and interest rate volatility, are also critical components of our interest rate risk measures. We regularly evaluate, update and enhance these assumptions, models and analytical tools as we believe appropriate to reflect our best assessment of the market environment and the expected behavior patterns of our existing assets and liabilities.
+There are inherent limitations in any methodology used to estimate the exposure to changes in market interest rates. The sensitivity analysis described above contemplates only certain movements in interest rates and is performed at a particular point in time based on the existing balance sheet and, in some cases, expected future business growth and funding mix assumptions. The strategic actions that management may take to manage our balance sheet may differ significantly from our projections, which could cause our actual earnings and economic value of equity sensitivities to differ substantially from the above sensitivity analysis.
+For further information on our interest rate exposures, see “Note 8—Derivative Instruments and Hedging Activities.” 
+Foreign Exchange Risk
+Foreign exchange risk represents exposure to changes in the values of current holdings and future cash flows denominated in other currencies. We are exposed to foreign exchange risk primarily from the intercompany funding denominated in pound sterling (“GBP”) and the Canadian dollar (“CAD”) that we provide to our businesses in the U.K. and Canada and net equity investments in those businesses. We are also exposed to foreign exchange risk due to changes in the dollar-denominated value of future earnings and cash flows from our foreign operations and from our Euro (“EUR”)-denominated borrowings.
+Our non-dollar denominated intercompany funding and EUR-denominated borrowings expose our earnings to foreign exchange transaction risk. We manage these transaction risks by using forward foreign currency derivatives and cross-currency swaps to hedge our exposures. We measure our foreign exchange transaction risk exposures by applying a 1% U.S. dollar appreciation shock against the value of the non-dollar denominated intercompany funding and EUR-denominated borrowings and their related hedges, which shows the impact to our earnings from foreign exchange risk. Our intercompany funding outstanding was 545 million GBP and 520 million GBP as of March 31, 2022 and December 31, 2021, respectively, and 3.0 billion CAD and 5.0 billion CAD as of March 31, 2022 and December 31, 2021, respectively. Our EUR-denominated borrowings outstanding were 1.2 billion EUR as of both March 31, 2022 and December 31, 2021.
+52
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+Our non-dollar equity investments in foreign operations expose our balance sheet to translation risk in AOCI and our capital ratios. We manage our AOCI exposure by entering into foreign currency derivatives designated as net investment hedges. We measure these exposures by applying a 30% U.S. dollar appreciation shock, which we believe approximates a significant adverse shock over a one-year time horizon, against the value of the equity invested in our foreign operations net of related net investment hedges where applicable. Our gross equity exposures in our U.K. and Canadian operations were 1.8 billion GBP as of both March 31, 2022 and December 31, 2021, and 2.1 billion CAD and 1.9 billion CAD as of March 31, 2022 and December 31, 2021, respectively.
+As a result of our derivative management activities, we believe our net exposure to foreign exchange risk is minimal.
+Risk related to Customer Accommodation Derivatives 
+We offer interest rate, commodity and foreign currency derivatives as an accommodation to our customers within our Commercial Banking business. We offset the majority of the market risk of these customer accommodation derivatives by entering into offsetting derivatives transactions with other counterparties. We use value-at-risk (“VaR”) as the primary method to measure the market risk in our customer accommodation derivative activities on a daily basis. VaR is a statistical risk measure used to estimate the potential loss from movements observed in the recent market environment. We employ a historical simulation approach using the most recent 500 business days and use a 99 percent confidence level and a holding period of one business day. As a result of offsetting our customer exposures with other counterparties, we believe that our net exposure to market risk in our customer accommodation derivatives is minimal. For further information on our risk related to customer accommodation derivatives, see “Note 8—Derivative Instruments and Hedging Activities.”
+London Interbank Offered Rate (“LIBOR”) Transition
+On July 27, 2017, the U.K. Financial Conduct Authority (“FCA”), the regulator for the administration of LIBOR, announced that LIBOR would be transitioned as an interest rate benchmark and that it will no longer compel panel banks to contribute LIBOR data beyond December 31, 2021. 
+On March 5, 2021, the ICE Benchmark Administration (“IBA”), the administrator of LIBOR, confirmed its intention to cease publication of the 1-week and 2-month USD LIBOR settings immediately following the LIBOR publication on December 31, 2021, and the remaining USD LIBOR tenors (overnight; 1, 3, 6, and 12 months) immediately following the LIBOR publication on June 30, 2023. The continuation of USD LIBOR as a representative rate into mid-2023 will allow many legacy USD LIBOR contracts to mature prior to cessation. Following IBA’s announcement, the FCA formally announced the future permanent cessation and loss of representativeness of LIBOR benchmarks. The Federal Banking Agencies issued further guidance that banking organizations should cease using USD LIBOR as a reference rate in new contracts as soon as practicable and in any event by December 31, 2021. Consistent with the Federal Banking Agencies’ guidance, we ceased entering into new contracts referencing USD LIBOR as a reference rate as of January 1, 2022, subject to certain permissible exceptions.
+
+Our enterprise LIBOR transition program team, which has been working on this effort since 2018 and includes senior management representatives from across the enterprise, provides monthly reporting to senior management and quarterly reporting to our Board of Directors. The information provided to senior management and the Board of Directors includes exposure reporting, updates on progress toward our goals to reduce our LIBOR exposure and relevant regulatory or industry developments. 
+
+Our LIBOR transition effort is focused on proactively transitioning exposures to an alternative rate or incorporating transition language (“fallback language”) to provide a contractual mechanism for transitioning upon the LIBOR cessation. Our fallback language aligns with the language recommended by the Alternative Reference Rates Committee (“ARRC”) in our existing lending contracts and the International Swaps and Derivatives Association (“ISDA”) in our derivative contracts and agreements to the greatest extent possible.
+We continue to focus our LIBOR transition efforts on: 
+•monitoring established controls to prevent the origination of LIBOR indexed instruments
+•working with impacted customers and counterparties to remediate remaining LIBOR contracts 
+•engaging with our clients, industry working groups, and regulators 
+53
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+•assessing the remediation offered by recently enacted federal legislation. The legislation provides clarity on a replacement benchmark rate for certain contracts if a practicable interest rate fallback method has not been established.
+The majority of LIBOR contracts that we have transitioned to alternative rates have employed the Secured Overnight Financing Rate (“SOFR”). In the U.S., SOFR has been selected as the preferred alternative rate by the ARRC for certain U.S. dollar derivative and cash instruments. We have proactively worked with customers and prepared our systems, models, valuation tools and processes to focus originations on SOFR and other non-LIBOR rates and will continue to do so. While the majority of our non-LIBOR transactions have utilized SOFR, we have also employed credit sensitive alternative rates to LIBOR, to a limited extent, in response to customer demand. 
+
+To track transition status, instruments are categorized based on whether they have fallback language (which may or may not adhere to the ISDA and ARRC standards), have no fallback language or have not yet been assessed for fallback language. Instruments with no fallback language or those not yet assessed represent a higher risk for not transitioning from LIBOR by June 30, 2023.  The majority of the instruments maturing after June 30, 2023 are derivatives and commercial loans, which are summarized in the table below. Of these instruments, the majority contain fallback language which adheres to the ISDA and ARRC standards. We will continue to focus on reducing our LIBOR exposures through our transition efforts, normal operations and customer interactions. 
+
+Table 35: LIBOR Exposures on Derivatives and Commercial Loans
+(Dollars in millions)		March 31, 2022
+Exposure Type(1)
+Total LIBOR Commitments		Total LIBOR Commitments Maturing after June 30, 2023		Total LIBOR Commitments Maturing after June 30, 2023 Without Fallback Language
+Commercial loans		$	81,470 			$	61,383 			$	1,841 	
+Derivatives		91,984 			59,433 			14,142 	
+Total		$	173,454 			$	120,816 			$	15,983 	
+ 
+(Dollars in millions)		December 31, 2021
+Exposure Type(1)
+Total LIBOR Commitments		Total LIBOR Commitments Maturing after June 30, 2023		Total LIBOR Commitments Maturing after June 30, 2023 Without Fallback Language
+Commercial loans		$	101,488 			$	71,874 			$	2,047 	
+Derivatives		103,562 			64,605 			14,536 	
+Total		$	205,050 			$	136,479 			$	16,583 	
+ 
+ _________
+(1)Commercial loan balances represent maximum potential exposures and derivatives represent notional exposure.
+These transition efforts have been implemented to remediate our remaining LIBOR contracts by June 30, 2023.
+For a further discussion of the various risks we face in connection with the expected replacement of LIBOR on our operations, see “Part I—Item 1A. Risk Factors—The transition away from LIBOR may adversely affect our business” in our 2021 Form 10-K.
+SUPERVISION AND REGULATION
+ 
+Broker-Dealer and Investment Advisory Activities Update
+Capital One Investing, Inc. (formerly known as United Income, Inc.), a subsidiary of Capital One and an SEC-registered investment adviser (“Capital One Investing”), completed the sale of substantially all of its client relationships to a third-party purchaser. Capital One Investing will resign as investment adviser for the few remaining clients that did not consent to the 
+54
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+transfer of their accounts to the purchaser and will submit a request to the SEC to withdraw its registration as an investment adviser thereafter. 
+We provide additional information on our Supervision and Regulation in our 2021 Form 10-K under “Part I—Item 1. Business—Supervision and Regulation.” 
+FORWARD-LOOKING STATEMENTS
+ 
+From time to time, we have made and will make forward-looking statements, including those that discuss, among other things: strategies, goals, outlook or other non-historical matters; projections, revenues, income, returns, expenses, capital measures, capital allocation plans, accruals for claims in litigation and for other claims against us; earnings per share, efficiency ratio, operating efficiency ratio or other financial measures for us; future financial and operating results; our plans, objectives, expectations and intentions; and the assumptions that underlie these matters.
+To the extent that any such information is forward-looking, it is intended to fit within the safe harbor for forward-looking information provided by the Private Securities Litigation Reform Act of 1995.
+Forward-looking statements often use words such as “will,” “anticipate,” “target,” “expect,” “estimate,” “intend,” “plan,” “goal,” “believe,” “forecast,” “outlook” or other words of similar meaning. Any forward-looking statements made by us or on our behalf speak only as of the date they are made or as of the date indicated, and we do not undertake any obligation to update forward-looking statements as a result of new information, future events or otherwise. For additional information on factors that could materially influence forward-looking statements included in this Report, see the risk factors set forth under “Part I—Item 1A. Risk Factors” in our 2021 Form 10-K. You should carefully consider the factors discussed above, and in our Risk Factors or other disclosure, in evaluating these forward-looking statements.
+Numerous factors could cause our actual results to differ materially from those described in such forward-looking statements, including, among other things:
+•the impact of the COVID-19 pandemic on our business, financial condition and results of operations may persist for an extended period or worsen, including labor shortages and disruption of global supply chains, and could impact our estimates of lifetime expected credit losses in our loan portfolios required in computing our allowance for credit losses;
+•general economic and business conditions in our local markets, including conditions affecting employment levels, interest rates, tariffs, collateral values, consumer income, creditworthiness and confidence, spending and savings that may affect consumer bankruptcies, defaults, charge-offs and deposit activity;
+•an increase or decrease in credit losses, or increased delinquencies, including increases due to a worsening of general economic conditions in the credit environment, and the impact of inaccurate estimates or inadequate reserves;
+•compliance with new and existing laws, regulations and regulatory expectations including the implementation of a regulatory reform agenda;
+•limitations on our ability to receive dividends from our subsidiaries;
+•our ability to manage adequate capital or liquidity levels, which could have a negative impact on our financial results and our ability to return capital to our stockholders;
+•the extensive use, reliability, disruption, and accuracy of the models and data on which we rely;
+•increased costs, reductions in revenue, reputational damage, legal liability and business disruptions that can result from data protection or privacy incidents or a cyber-attack or other similar incidents, including one that results in the theft, loss or misuse of information;
+•developments, changes or actions relating to any litigation, governmental investigation or regulatory enforcement action or matter involving us;
+•the amount and rate of deposit growth and changes in deposit costs;
+•our ability to execute on our strategic and operational plans;
+55
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+•our response to competitive pressures;
+•our business, financial condition and results of operations may be adversely affected by merchants’ increasing focus on the fees charged by credit and debit card networks and by legislation and regulation impacting such fees;
+•our success in integrating acquired businesses and loan portfolios, and our ability to realize anticipated benefits from announced transactions and strategic partnerships;
+•our ability to maintain a compliance, operational, technology and organizational infrastructure suitable for the nature of our business;
+•the success of our marketing efforts in attracting and retaining customers;
+•our risk management strategies;
+•changes in the reputation of, or expectations regarding, the financial services industry or us with respect to practices, products or financial condition;
+•increases or decreases in interest rates and uncertainty with respect to the interest rate environment, including the possibility of a prolonged low-interest rate environment or of negative interest rates;
+•the transition away from the London Interbank Offered Rate;
+•our ability to attract, retain and motivate skilled employees;
+•climate change manifesting as physical or transition risks;
+•our assumptions or estimates in our financial statements;
+•the soundness of other financial institutions and other third parties; and 
+•other risk factors identified from time to time in our public disclosures, including in the reports that we file with the SEC.
+We expect that the effects of the COVID-19 pandemic will heighten the risks associated with many of these factors.
+56
+Capital One Financial Corporation (COF)
+ 
+Table of Contents
+SUPPLEMENTAL TABLES
+ 
+Reconciliation of Non-GAAP Measures
+The following non-GAAP measures consist of TCE, tangible assets and metrics computed using these amounts, which include tangible book value per common share, return on average tangible assets, return on average TCE and TCE ratio. We consider these metrics to be key financial performance measures that management uses in assessing capital adequacy and the level of returns generated. While these non-GAAP measures are widely used by investors, analysts and bank regulatory agencies to assess the capital position of financial services companies, they may not be comparable to similarly-titled measures reported by other companies. The following table presents reconciliations of these non-GAAP measures to the applicable amounts measured in accordance with GAAP.
+Table A—Reconciliation of Non-GAAP Measures
+(Dollars in millions, except as noted)		March 31, 2022		December 31, 2021
+Tangible Common Equity (Period-End):				
+Stockholders’ equity		$	56,345 			$	61,029 	
+Goodwill and other intangible assets(1)
+(14,883)			(14,907)	
+Noncumulative perpetual preferred stock		(4,845)			(4,845)	
+Tangible common equity		$	36,617 			$	41,277 	
+Tangible Common Equity (Quarterly Average):				
+Stockholders’ equity		$	59,437 			$	62,498 	
+Goodwill and other intangible assets(1)
+(14,904)			(14,847)	
+Noncumulative perpetual preferred stock		(4,845)			(5,552)	
+Tangible common equity		$	39,688 			$	42,099 	
+Tangible Assets (Period-End):				
+Total assets		$	434,195 			$	432,381 	
+Goodwill and other intangible assets(1)
+(14,883)			(14,907)	
+Tangible assets		$	419,312 			$	417,474 	
+Tangible Assets (Quarterly Average):				
+Total assets		$	430,372 			$	427,845 	
+Goodwill and other intangible assets(1)
+(14,904)			(14,847)	
+Tangible assets		$	415,468 			$	412,998 	
+Non-GAAP Ratio:				
+Tangible common equity (“TCE”)(2)
+8.7 	%		9.9 	%
