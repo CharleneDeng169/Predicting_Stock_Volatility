@@ -5,7 +5,7 @@ This paper addresses a text regression problem, where the objective is to predic
 
 <br />
 
-<h2>Methodology We Used</h2>
+<h2>Methodology</h2>
 
 - <b>Natural Language Processing</b> 
 - <b>Machine Learning Model</b>
