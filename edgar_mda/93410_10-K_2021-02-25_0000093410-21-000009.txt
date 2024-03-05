@@ -1,0 +1,642 @@
+CIK: 93410
+Company Name: CHEVRON CORP
+Form Type : 10-K
+Filing Date: 2021-02-25
+Accession Number: 0000093410-21-000009
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+Key Financial Results 
+Millions of dollars, except per-share amounts	2020		2019		2018
+Net Income (Loss) Attributable to Chevron Corporation	$	(5,543)			$	2,924 			$	14,824 	
+Per Share Amounts:					
+Net Income (Loss) Attributable to Chevron Corporation					
+– Basic	$	(2.96)			$	1.55 			$	7.81 	
+– Diluted	$	(2.96)			$	1.54 			$	7.74 	
+Dividends	$	5.16 			$	4.76 			$	4.48 	
+Sales and Other Operating Revenues	$	94,471 			$	139,865 			$	158,902 	
+Return on:					
+Capital Employed	(2.8)	%		2.0 	%		8.2 	%
+Stockholders’ Equity	(4.0)	%		2.0 	%		9.8 	%
+Earnings by Major Operating Area
+Millions of dollars	2020		2019		2018
+Upstream					
+United States	$	(1,608)			$	(5,094)			$	3,278 	
+International	(825)			7,670 			10,038 	
+Total Upstream	(2,433)			2,576 			13,316 	
+Downstream					
+United States	(571)			1,559 			2,103 	
+International	618 			922 			1,695 	
+Total Downstream	47 			2,481 			3,798 	
+All Other	(3,157)			(2,133)			(2,290)	
+Net Income (Loss) Attributable to Chevron Corporation1,2
+$	(5,543)			$	2,924 			$	14,824 	
+1 Includes foreign currency effects:
+$	(645)			$	(304)			$	611 	
+2 Income net of tax, also referred to as “earnings” in the discussions that follow.
+ 
+Refer to the “Results of Operations” section beginning on page 37 for a discussion of financial results by major operating area for the three years ended December 31, 2020. 
+Business Environment and Outlook 
+Chevron is a global energy company with substantial business activities in the following countries: Angola, Argentina, Australia, Bangladesh, Brazil, Canada, China, Egypt, Equatorial Guinea, Indonesia, Israel, Kazakhstan, Kurdistan Region of Iraq, Myanmar, Mexico, Nigeria, the Partitioned Zone between Saudi Arabia and Kuwait, the Philippines, Republic of Congo, Singapore, South Korea, Thailand, the United Kingdom, the United States, and Venezuela. 
+The company’s objective is to deliver higher returns, lower carbon and superior shareholder value in any business environment. Earnings of the company depend mostly on the profitability of its upstream business segment. The most significant factor affecting the results of operations for the upstream segment is the price of crude oil, which is determined in global markets outside of the company’s control. In the company’s downstream business, crude oil is the largest cost component of refined products. Periods of sustained lower prices could result in the impairment or write-off of specific assets in future periods and cause the company to adjust operating expenses, including employee reductions, and capital and exploratory expenditures, along with other measures intended to improve financial performance. Similarly, impairments or write-offs have occurred, and may occur in the future, as a result of managerial decisions not to progress certain projects in the company’s portfolio.
+With ongoing global interest in addressing the risks of climate change, support for policies and advancements in lower carbon technologies is expected. In seeking to help advance a lower carbon future, Chevron is focused on lowering its carbon intensity cost efficiently, increasing renewables and offsets in support of its business, and investing in low-carbon technologies to enable commercial solutions. 
+Response to Market Conditions and COVID-19 During most of 2020, travel restrictions and other constraints on economic activity designed to limit the spread of the COVID-19 virus were implemented in many locations around the world. These constraints reduced demand for our products, and commodity prices fell, negatively impacting the company’s 2020 financial and operating results. While demand and commodity prices have shown signs of recovery, demand is not back to pre-pandemic levels, and financial results will likely continue to be challenged in future quarters. Due to the rapidly 
+31
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+changing environment, there continues to be uncertainty and unpredictability around the extent to which the COVID-19 pandemic will impact our future results, which could be material.
+Chevron entered this crisis well positioned with a strong balance sheet, flexible capital program and low cash flow breakeven price. To protect its long-term health and value, the company took swift action, adjusting the items it can control. The company lowered its capital expenditures 35 percent and lowered its operating expense, excluding non-recurring severance costs, by $1.4 billion compared to 2019. The company completed an enterprise-wide transformation that is expected to capture additional cost efficiencies. Additionally, the company suspended its stock repurchase program in March 2020. Taken together, these actions are consistent with our financial priorities: to protect the dividend, to prioritize capital spend that drives long-term value, and to maintain a strong balance sheet. The company expects to continue to have sufficient liquidity and access to both commercial paper and debt capital markets due to its strong balance sheet and investment grade credit ratings. Additionally, the company has access to nearly $10 billion in committed credit facilities.
+The effective tax rate for the company can change substantially during periods of significant earnings volatility. This is due to the mix effects that are impacted both by the absolute level of earnings or losses and whether they arise in higher or lower tax rate jurisdictions. As a result, a decline or increase in the effective income tax rate in one period may not be indicative of expected results in future periods. Note 15 provides the company’s effective income tax rate for the last three years.
+Refer to the “Cautionary Statements Relevant to Forward-Looking Information” on page 2 and to “Risk Factors” in Part I, Item 1A, on pages 18 through 23 for a discussion of some of the inherent risks that could materially impact the company’s results of operations or financial condition. 
+The company continually evaluates opportunities to dispose of assets that are not expected to provide sufficient long-term value or to acquire assets or operations complementary to its asset base to help augment the company’s financial performance and value growth. Asset dispositions and restructurings may result in significant gains or losses in future periods. The company’s asset sale program for 2018 through 2020 targeted before-tax proceeds of $5-10 billion. For the three year period ending December 31, 2020, assets sales proceeds totaled $7.7 billion, in the middle of the guidance range.
+The company closely monitors developments in the financial and credit markets, the level of worldwide economic activity, and the implications for the company of movements in prices for crude oil and natural gas. Management takes these developments into account in the conduct of daily operations and for business planning.
+Comments related to earnings trends for the company’s major business areas are as follows:
+Upstream Earnings for the upstream segment are closely aligned with industry prices for crude oil and natural gas. Crude oil and natural gas prices are subject to external factors over which the company has no control, including product demand connected with global economic conditions, industry production and inventory levels, technology advancements, production quotas or other actions imposed by the Organization of Petroleum Exporting Countries (OPEC) or other producers, actions of regulators, weather-related damage and disruptions, competing fuel prices, natural and human causes beyond the company’s control such as the COVID-19 pandemic, and regional supply interruptions or fears thereof that may be caused by military conflicts, civil unrest or political uncertainty. Any of these factors could also inhibit the company’s production capacity in an affected region. The company closely monitors developments in the countries in which it operates and holds investments, and seeks to manage risks in operating its facilities and businesses. The longer-term trend in earnings for the upstream segment is also a function of other factors, including the company’s ability to find or acquire and efficiently produce crude oil and natural gas, changes in fiscal terms of contracts, and changes in tax and other applicable laws and regulations.
+The company is actively managing its schedule of work, contracting, procurement, and supply chain activities to effectively manage costs and ensure supply chain resiliency and continuity in support of operational goals. Third party costs for capital, exploration, and operating expenses can be subject to external factors beyond the company’s control including, but not limited to: the general level of inflation, tariffs or other taxes imposed on goods or services, and market based prices charged by the industry’s material and service providers. Chevron utilizes contracts with various pricing mechanisms, so there may be a lag before the company’s costs reflect the changes in market trends.
+The spot markets and some of the current cost indexes for many materials and services have stabilized. Crude oil and natural gas prices and demand have rebounded from lows of the early pandemic though demand still has not returned to pre-pandemic levels. Drilling activity in the U.S. has risen slowly but steadily through the end of the year. The timing and 
+32
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+trajectory of any increase in the cost of materials and services going forward will depend on the extent of the oil and gas industry recovery. Correlated with these initial signs of industry recovery and cost stabilization was a noticeable improvement in the risk of default for key suppliers. To date, there have been no material impacts to operations due to supplier defaults. Chevron is actively monitoring and engaging key suppliers to mitigate any potential business impacts.
+Capital and exploratory expenditures and operating expenses could also be affected by damage to production facilities caused by severe weather or civil unrest, delays in construction, or other factors.
+cvx-20201231_g1.jpg
+The chart above shows the trend in benchmark prices for Brent crude oil, West Texas Intermediate (WTI) crude oil and U.S. Henry Hub natural gas. The Brent price averaged $42 per barrel for the full-year 2020, compared to $64 in 2019. As of mid-February 2021, the Brent price was $64 per barrel. The WTI price averaged $39 per barrel for the full-year 2020, compared to $57 in 2019. As of mid-February 2021, the WTI price was $60 per barrel. The majority of the company’s equity crude production is priced based on the Brent benchmark.
+Crude prices sharply declined at the end of the first and into the second quarter 2020 due to surplus supply as demand decreased following government-imposed travel restrictions and other constraints on economic activity. In the second half of 2020, the supply/demand balance slowly improved, primarily due to production cuts and demand growth, allowing prices to somewhat recover. The company’s average realization for U.S. crude oil and natural gas liquids in 2020 was $31 per barrel, down 37 percent from 2019. The company’s average realization for international crude oil and natural gas liquids in 2020 was $36 per barrel, down 38 percent from 2019.
+Prices for natural gas are more closely aligned with seasonal supply-and-demand and infrastructure conditions in local markets. In the United States, prices at Henry Hub averaged $1.98 per thousand cubic feet (MCF) during 2020, compared with $2.53 per MCF during 2019. As of mid-February 2021, the Henry Hub spot price increased to $6.00 per MCF amid freezing temperatures across much of the United States. 
+Outside the United States, prices for natural gas depend on a wide range of supply, demand and regulatory circumstances. The company’s long-term contract prices for liquefied natural gas (LNG) are typically linked to crude oil prices. Most of the equity LNG offtake from the operated Australian LNG projects is committed under binding long-term contracts, with the remainder to be sold in the Asian spot LNG market. International natural gas realizations averaged $4.59 per MCF during 2020, compared with $5.83 per MCF during 2019. (See page 41 for the company’s average natural gas realizations for the U.S. and international regions.)
+The company’s worldwide net oil-equivalent production in 2020 averaged 3.083 million barrels per day. About 14 percent of the company’s net oil-equivalent production in 2020 occurred in the OPEC-member countries of Angola, Equatorial Guinea, Nigeria, the Partitioned Zone between Saudi Arabia and Kuwait, Republic of Congo and Venezuela.
+The company estimates that net oil-equivalent production in 2021 will grow up to 3 percent compared to 2020, assuming a Brent crude oil price of $50 per barrel and excluding the impact of anticipated 2021 asset sales. This estimate is subject to many factors and uncertainties, including quotas or other actions that may be imposed by OPEC+; price effects on entitlement volumes; changes in fiscal terms or restrictions on the scope of company operations; delays in construction; reservoir performance; greater-than-expected declines in production from mature fields; start-up or ramp-up of projects; fluctuations in demand for crude oil and natural gas in various markets; weather conditions that may shut in production; civil unrest; changing geopolitics; delays in completion of maintenance turnarounds; storage constraints or economic 
+33
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+conditions that could lead to shut-in production; or other disruptions to operations. The outlook for future production levels is also affected by the size and number of economic investment opportunities and the time lag between initial exploration and the beginning of production. The company has increased its investment emphasis on short-cycle projects, but these too are under pressure in the current market environment.
+In the Partitioned Zone between Saudi Arabia and Kuwait, production was shut-in beginning in May 2015. In December 2019, the governments of Saudi Arabia and Kuwait signed a memorandum of understanding to allow production to restart in the Partitioned Zone. In mid-February 2020, pre-startup activities commenced, and production resumed in July 2020. The financial effects from the loss of production in 2019 and first half 2020 were not significant. During the fourth quarter 2020, oil equivalent production in the Partitioned Zone averaged 40 thousand barrels per day.
+Chevron has interests in Venezuelan crude oil assets, including those operated by Petropiar, Petroboscan and Petroindependiente. While the operating environment in Venezuela has been deteriorating for some time, Petropiar, Petroboscan, and Petroindependiente have conducted activities consistent with the authorization provided pursuant to general licenses issued by the United States government. During the second quarter 2020, the company completed its evaluation of the carrying value of its Venezuelan investments in line with its accounting policies and concluded that given the current operating environment and overall outlook, which created significant uncertainties regarding the recovery of the company’s investment, an other than temporary loss of value had occurred, which resulted in a full impairment of its investment in the country totaling $2.6 billion and change in accounting treatment from equity method to non-equity method of accounting. As a result, the company also removed approximately 160 million barrels of proved reserves and stopped reporting production in the country effective July 2020. The company remains committed to its people, assets and operations in Venezuela.
+cvx-20201231_g2.jpg
+
+Net proved reserves for consolidated companies and affiliated companies totaled 11.1 billion barrels of oil-equivalent at year-end 2020, a decrease of 3 percent from year-end 2019. The reserve replacement ratio in 2020 was 74 percent. The 5 and 10 year reserve replacement ratios were 99 percent and 106 percent, respectively. Refer to Table V beginning on page 103 for a tabulation of the company’s proved net oil and gas reserves by geographic area, at the beginning of 2018 and each year-end from 2018 through 2020, and an accompanying discussion of major changes to proved reserves by geographic area for the three-year period ending December 31, 2020.
+Response to Market Conditions and COVID-19: Upstream Travel restrictions and other constraints on global economic activity in 2020 in response to COVID-19 caused a significant decrease in demand for oil and gas. This led to lower price realizations across all commodities. While critical asset integrity and reliability activities progressed throughout the year, 
+34
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+locations with high COVID-19 infection rates deferred non-essential work and demobilized non-essential personnel to reduce the COVID-19 exposure risk to our workforce.
+Despite the challenges posed by the pandemic, progress continues on the FGP/WPMP project at Tengiz. In the second quarter the project construction workforce was demobilized to 20 percent of planned levels, which slowed the overall construction pace. In the third quarter, the rate of infections in Kazakhstan slowed, allowing remobilization of the FGP/WPMP construction workforce to begin. In the fourth quarter, staffing levels at FGP/WPMP returned to 95 percent of desired fourth quarter remobilization levels, however a worldwide resurgence of infections prevented the remaining 5 percent of the workforce from returning to work and slowed progress on the project. Extended rotations, COVID testing and isolation protocols are in place to minimize the spread of the virus. Given the uncertain timeline for remobilizing all personnel and safely sustaining activity levels, it is too early to provide meaningful information regarding impacts on project cost and schedule.   
+Facility maintenance turnarounds are being adjusted and, in certain cases, deferred into 2021. In some cases, turnarounds have been extended in duration and/or reduced in scope in response to the pandemic. As a result of the reduction in capital expenditures, new production is expected to be lower in the near term as drilling and completion activities are scaled back, most notably in the Permian Basin, Gulf of Mexico, and Argentina. Exploration activities and projects not yet in execution phase have been deferred, which may impact production in future years. 
+Production levels were curtailed in 2020 largely because of reductions imposed by OPEC+ nations in Kazakhstan, Nigeria and Angola. In the fourth quarter, OPEC+ curtailments eased slightly relative to the third quarter. Production has also been curtailed due to market conditions, most notably in Thailand. Additionally, operators of assets where the company has non-operated interests also curtailed production. Production curtailments of approximately 106 thousand barrels of oil equivalent per day were recorded in 2020. In the first quarter of 2021, we expect curtailments to be approximately 40 thousand barrels of oil equivalent per day, predominately related to OPEC+ restrictions. 
+Decreased capital expenditures, lower activity levels, delays in future development timing, and lower commodity prices have resulted in reductions to Chevron’s proved reserve quantities for 2020. For more information on reserves, refer to Table V beginning on page 103.
+As some countries face a resurgence of the virus, regulatory and in-country conditions could impact logistics and material movement and pose a risk to business continuity. We are taking precautionary measures to reduce the risk of exposure to and spread of the COVID-19 virus through screening, testing and, when appropriate, quarantining workforce and visitors upon arrival to our operated facilities.
+Refer to the “Results of Operations” section on pages 37 and 38 for additional discussion of the company’s upstream business.
+Downstream Earnings for the downstream segment are closely tied to margins on the refining, manufacturing and marketing of products that include gasoline, diesel, jet fuel, lubricants, fuel oil, fuel and lubricant additives, and petrochemicals. Industry margins are sometimes volatile and can be affected by the global and regional supply-and-demand balance for refined products and petrochemicals, and by changes in the price of crude oil, other refinery and petrochemical feedstocks, and natural gas. Industry margins can also be influenced by inventory levels, geopolitical events, costs of materials and services, refinery or chemical plant capacity utilization, maintenance programs, and disruptions at refineries or chemical plants resulting from unplanned outages due to severe weather, fires or other operational events.
+Other factors affecting profitability for downstream operations include the reliability and efficiency of the company’s refining, marketing and petrochemical assets, the effectiveness of its crude oil and product supply functions, and the volatility of tanker-charter rates for the company’s shipping operations, which are driven by the industry’s demand for crude oil and product tankers. Other factors beyond the company’s control include the general level of inflation and energy costs to operate the company’s refining, marketing and petrochemical assets and changes in tax laws and regulations.
+The company’s most significant marketing areas are the West Coast and Gulf Coast of the United States and Asia. Chevron operates or has significant ownership interests in refineries in each of these areas.
+Response to Market Conditions and COVID-19: Downstream Beginning in March 2020 and continuing into the first  quarter 2021, demand for refined products (primarily jet fuel and motor gasoline) has been below prior year levels as a result of travel restrictions and other constraints on economic activity implemented in many countries to combat the spread of the COVID-19 virus. Product prices also fell sharply, and although economic activity has somewhat rebounded from lows experienced in April, refining margins continued to be at or near historic lows due to lower demand and pressure from 
+35
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+a global oil product surplus. Chevron continued to take steps to maximize diesel production, given the decline in jet fuel and motor gasoline demand, to fuel transportation that keeps global supply chains moving. The company is actively monitoring supply and demand dynamics as every region is experiencing different recovery trends. The company is adjusting the schedule for planned maintenance activity across its refining network and idling certain processing units to adjust for lower demand, reduce costs, manage inventories and, most importantly, protect the safety of employees and contractors. 
+As of mid-February 2021, Chevron’s refining crude utilization was approximately 80 to 85 percent and sales were down year-over-year approximately 50 percent for jet fuel, approximately 5 percent for motor gasoline, while diesel sales were relatively flat. It is unclear how long these conditions will persist, but the company will continue to take actions necessary to protect the health and well-being of people, the environment and its operations as conditions evolve. Refer to the “Results of Operations” section on page  38 for additional discussion of the company’s downstream operations.
+All Other consists of worldwide cash management and debt financing activities, corporate administrative functions, insurance operations, real estate activities and technology companies. 
+Operating Developments 
+Key operating developments and other events during 2020 and early 2021 included the following:
+Upstream 
+Azerbaijan Completed the sale of the company's interest in the Azeri-Chirag-Gunashli fields and Baku-Tbilisi-Ceyhan pipeline. 
+Colombia Completed the sale of the company's interest in the offshore Chuchupa and onshore Ballena natural gas fields. 
+Philippines Completed the sale of the company's interest in the Malampaya field in March.
+United States Completed the acquisition of Noble Energy, Inc. 
+United States Completed the sale of the Appalachia natural gas business.
+Downstream 
+Australia Completed the acquisition of Puma Energy (Australia) Holdings Pty Ltd. 
+Other 
+United States Chevron’s joint venture, CalBioGas LLC, successfully achieved first renewable natural gas production from dairy farms in California and marketed it as an alternative fuel for heavy-duty trucks and buses.
+United States Announced the formation of a joint venture with Brightmark LLC to produce and market renewable natural gas.
+United States Announced an investment in Zap Energy Inc., a start-up company developing a next-generation modular nuclear reactor.
+United States Announced an investment in Blue Planet Systems Corporation, a startup that manufactures and develops carbonate aggregates and carbon capture technology intended to reduce the carbon intensity of industrial operations.
+United States Announced an agreement with Algonquin Power & Utilities Corp. seeking to co-develop renewable power projects that will provide electricity to strategic assets across Chevron’s global portfolio. Under the four-year agreement, Chevron plans to generate more than 500 megawatts of its energy demand from renewable sources.
+United States Announced a non-binding offer in February 2021 to acquire the outstanding common units of Noble Midstream Partners LP not already owned by Chevron.
+Common Stock Dividends The 2020 annual dividend was $5.16 per share, making 2020 the 33rd consecutive year that the company increased its annual per share dividend payout. In January 2021, the company’s Board of Directors declared a  quarterly dividend of $1.29 per share.
+Common Stock Repurchase Program The company purchased $1.75 billion of its common stock in 2020 under its stock repurchase programs. The stock repurchase program was suspended in March 2020.
+
+36
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+Results of Operations 
+The following section presents the results of operations and variances on an after-tax basis for the company’s business segments – Upstream and Downstream – as well as for “All Other.” Earnings are also presented for the U.S. and international geographic areas of the Upstream and Downstream business segments. Refer to Note 12, beginning on page 74, for a discussion of the company’s “reportable segments.” This section should also be read in conjunction with the discussion in “Business Environment and Outlook” on pages 31 through 36. Refer to the “Selected Operating Data” table on page 41 for a three-year comparison of production volumes, refined product sales volumes, and refinery inputs. A discussion of variances between 2019 and 2018 can be found in the “Results of Operations” section on pages 33 through 34 of the company’s 2019 Annual Report on Form 10-K filed with the SEC on February 22, 2020. 
+cvx-20201231_g3.jpg
+U.S. Upstream 
+Millions of dollars	2020			2019		2018
+Earnings (Loss)	$	(1,608)				$	(5,094)			$	3,278 	
+ 
+U.S. upstream reported a loss of $1.61 billion in 2020, compared with a loss of $5.09 billion in 2019. The smaller loss was largely due to the absence of fourth quarter 2019 impairment charges of $8.17 billion, primarily associated with Appalachia shale and Big Foot, partially offset by lower crude oil realizations of $3.36 billion and second quarter 2020 impairments and write-offs of $1.20 billion. 
+The company’s average realization for U.S. crude oil and natural gas liquids in 2020 was $30.53 per barrel compared with $48.54 in 2019. The average natural gas realization was $0.98 per thousand cubic feet in 2020, compared with $1.09 in 2019.
+Net oil-equivalent production in 2020 averaged 1.06 million barrels per day, up 14 percent from 2019. Production increases from shale and tight properties in the Permian Basin and 58,000 barrels per day of production from the Noble  acquisition were partially offset by normal field declines. 
+The net liquids component of oil-equivalent production for 2020 averaged 790,000 barrels per day, up 9 percent from 2019. Net natural gas production averaged 1.61 billion cubic feet per day in 2020, up 31 percent from 2019. 
+International Upstream
+Millions of dollars	2020			2019		2018
+Earnings (Loss)*
+$	(825)				$	7,670 			$	10,038 	
+*Includes foreign currency effects:
+$	(285)				$	(323)			$	545 	
+ 
+International upstream reported a loss of $825 million in 2020, compared with earnings of $7.67 billion in 2019. The decrease was primarily due to lower crude oil and natural gas realizations of $4.6 billion and $1.2 billion, respectively, 
+37
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+higher charges of $1.4 billion for impairments and write-offs (charges of $3.6 billion in 2020 compared to $2.2 billion in 2019), and lower crude oil sales volumes of $1.1 billion. Lower gains on asset sales of $730 million also contributed to the decrease and were largely offset by lower operating expenses of $710 million. Foreign currency effects had a favorable impact on earnings of $38 million between periods. 
+The company’s average realization for international crude oil and natural gas liquids in 2020 was $36.07 per barrel compared with $58.14 in 2019. The average natural gas realization was $4.59 per thousand cubic feet in 2020 compared with $5.83 in 2019.
+International net oil-equivalent production was 2.03 million barrels per day in 2020, down 5 percent from 2019. The decrease was due to production curtailments associated with OPEC+ restrictions and market conditions, and asset sale related decreases of 94,000 barrels per day, partially offset by higher production entitlement effects and volumes associated with the Noble acquisition. 
+The net liquids component of international oil-equivalent production was 1.08 million barrels per day in 2020, down 6 percent from 2019. International net natural gas production of 5.68 billion cubic feet per day in 2020 decreased 4 percent from 2019.
+U.S. Downstream 
+Millions of dollars	2020			2019		2018
+Earnings (Loss)	$	(571)				$	1,559 			$	2,103 	
+ 
+U.S. downstream reported a loss of $571 million in 2020, compared with earnings of $1.56 billion in 2019. The decrease was primarily due to lower margins on refined product sales of $1.08 billion and lower sales volumes of $1.00 billion. Lower equity earnings from the 50 percent-owned CPChem of $220 million also contributed to the decrease. These were partially offset by lower operating expenses of $220 million.
+Total refined product sales of 1.00 million barrels per day in 2020 were down 20 percent from 2019, mainly due to lower jet fuel, gasoline, and diesel demand associated with the COVID-19 pandemic. 
+International Downstream 
+Millions of dollars	2020			2019		2018
+Earnings*
+$	618 				$	922 			$	1,695 	
+*Includes foreign currency effects:
+$	(152)				$	17 			$	71 	
+ 
+International downstream earned $618 million in 2020, compared with $922 million in 2019. The decrease in earnings was largely due to lower margins on refined product sales of $160 million, primarily resulting from unfavorable inventory effects. Unfavorable tax items of $110 million also contributed to the decrease. Partially offsetting the decrease in earnings were lower operating expenses of $130 million. Foreign currency effects had an unfavorable impact on earnings of $169 million between periods.
+Total refined product sales of 1.22 million barrels per day in 2020 were down 8 percent from 2019, mainly due to lower jet fuel demand associated with the COVID-19 pandemic. 
+All Other 
+Millions of dollars	2020			2019		2018
+Net charges*
+$	(3,157)				$	(2,133)			$	(2,290)	
+*Includes foreign currency effects:
+$	(208)				$	2 			$	(5)	
+ 
+All Other consists of worldwide cash management and debt financing activities, corporate administrative functions, insurance operations, real estate activities, and technology companies. 
+Net charges in 2020 increased $1.02 billion from 2019. The change between periods was mainly due to the absence of the second quarter 2019 Anadarko merger termination fee, higher pension expenses, severance and Noble acquisition costs, partially offset by the absence of a prior year tax charge and favorable tax items. Foreign currency effects increased net charges by $210 million between periods. 
+38
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+Consolidated Statement of Income 
+Comparative amounts for certain income statement categories are shown below. A discussion of variances between 2019 and 2018 can be found in the “Consolidated Statement of Income” section on pages 34 through 36 of the company’s 2019 Annual Report on Form 10-K.
+Millions of dollars	2020			2019		2018 	
+Sales and other operating revenues	$	94,471 				$	139,865 			$	158,902 	
+ 
+Sales and other operating revenues decreased in 2020 mainly due to lower refined product, crude oil and natural gas prices, and lower refined product volumes.
+Millions of dollars	2020			2019		2018 	
+Income (loss) from equity affiliates	$	(472)				$	3,968 			$	6,327 	
+ 
+Income from equity affiliates decreased in 2020 mainly due to the full impairment of Petropiar and Petroboscan in Venezuela and lower upstream-related earnings from Tengizchevroil in Kazakhstan.
+Refer to Note 13, beginning on page 77, for a discussion of Chevron’s investments in affiliated companies. 
+Millions of dollars	2020			2019		2018 	
+Other income	$	693 				$	2,683 			$	1,110 	
+ 
+Other income decreased in 2020 mainly due to the absence of the receipt of the 2019 Anadarko merger termination fee, lower gains on asset sales and unfavorable swings in foreign currency effects.
+Millions of dollars	2020			2019		2018 	
+Purchased crude oil and products	$	50,488 				$	80,113 			$	94,578 	
+ 
+Crude oil and product purchases decreased $29.6 billion in 2020, primarily due to lower crude oil and refined product prices and lower refined product and crude oil volumes. 
+Millions of dollars	2020			2019		2018 	
+Operating, selling, general and administrative expenses	$	24,536 				$	25,528 			$	24,382 	
+ 
+Operating, selling, general and administrative expenses decreased $1.0 billion in 2020. The decrease is primarily due to lower services and fees, expenses for non-operated upstream properties, materials and supplies expense and lower transportation expense, partially offset by higher severance costs.
+Millions of dollars	2020			2019		2018 	
+Exploration expense	$	1,537 				$	770 			$	1,210 	
+ 
+Exploration expenses in 2020 increased primarily due to higher charges for well write-offs.
+Millions of dollars	2020			2019		2018 	
+Depreciation, depletion and amortization	$	19,508 				$	29,218 			$	19,419 	
+ 
+Depreciation, depletion and amortization expenses decreased in 2020 primarily due to lower impairments.
+Millions of dollars	2020			2019		2018 	
+Taxes other than on income	$	4,499 				$	4,136 			$	4,867 	
+ 
+Taxes other than on income increased in 2020 primarily due to higher regulatory expenses and property taxes, partially offset by lower taxes on production, payroll tax and sales and use tax.
+Millions of dollars	2020			2019		2018 	
+Interest and debt expense	$	697 				$	798 			$	748 	
+ 
+Interest and debt expenses decreased in 2020 mainly due to lower interest rates, partially offset by higher debt balances. 
+Millions of dollars	2020			2019		2018 	
+Other components of net periodic benefit costs	$	880 				$	417 			$	560 	
+ 
+Other components of net periodic benefit costs increased in 2020 primarily due to higher pension settlement costs.
+
+
+
+39
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+Millions of dollars	2020			2019		2018 	
+Income tax expense (benefit)	$	(1,892)				$	2,691 			$	5,715 	
+ 
+The decrease in income tax expense in 2020 of $4.58 billion is due to the decrease in total income before tax for the company of $12.99 billion. The decrease in income before taxes for the company is primarily the result of lower crude oil prices partially offset by lower impairments and project write off charges. 
+
+U.S. income before tax decreased from a loss of $5.48 billion in 2019 to a loss of $5.70 billion in 2020. This decrease in earnings before tax was primarily driven by the effect of lower crude oil prices in the U.S. and the absence of the Anadarko merger fee, partially offset by lower impairment charges and higher production. The U.S. tax benefit increased from $1.17 billion in 2019 to $1.58 billion in 2020 primarily due to the increase in before-tax loss.
+International income before tax decreased from $11.02 billion in 2019 to a loss of $1.75 billion in 2020. This decrease was primarily driven by the effect of lower crude oil and natural gas prices, lower production, higher impairments and other charges. The lower before-tax income primarily drove the $4.17 billion decrease in international income tax expense, from a charge of $3.86 billion in 2019 to a benefit of $308 million in 2020. 
+Refer also to the discussion of the effective income tax rate in Note 15 beginning on page 79.
+40
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+Selected Operating Data1,2 
+2020		2019		2018
+U.S. Upstream					
+Net Crude Oil and Natural Gas Liquids Production (MBPD)	790		724		618
+Net Natural Gas Production (MMCFPD)3
+1,607		1,225		1,034
+Net Oil-Equivalent Production (MBOEPD)	1,058		929		791
+Sales of Natural Gas (MMCFPD)	3,894		4,016		3,481
+Sales of Natural Gas Liquids (MBPD)	208		130		110
+Revenues from Net Production					
+Liquids ($/Bbl)	$	30.53 			$	48.54 			$	58.17 	
+Natural Gas ($/MCF)	$	0.98 			$	1.09 			$	1.86 	
+International Upstream					
+Net Crude Oil and Natural Gas Liquids Production (MBPD)4
+1,078		1,141		1,164
+Net Natural Gas Production (MMCFPD)3
+5,683		5,932		5,855
+Net Oil-Equivalent Production (MBOEPD)4
+2,025		2,129		2,139
+Sales of Natural Gas (MMCFPD)	5,634		5,869		5,604
+Sales of Natural Gas Liquids (MBPD)	46		34		34
+Revenues from Liftings					
+Liquids ($/Bbl)	$	36.07 			$	58.14 			$	64.25 	
+Natural Gas ($/MCF)	$	4.59 			$	5.83 			$	6.29 	
+Worldwide Upstream					
+Net Oil-Equivalent Production (MBOEPD)4
+United States	1,058		929		791
+International	2,025		2,129		2,139
+Total	3,083		3,058		2,930
+U.S. Downstream					
+Gasoline Sales (MBPD)5
+581		667		627
+Other Refined Product Sales (MBPD)	422		583		591
+Total Refined Product Sales (MBPD)	1,003		1,250		1,218
+Sales of Natural Gas Liquids (MBPD)	25		101		74
+Refinery Input (MBPD)6
+793		947		905
+International Downstream					
+Gasoline Sales (MBPD)5
+264		289		336
+Other Refined Product Sales (MBPD)	957		1,038		1,101
+Total Refined Product Sales (MBPD)7
+1,221		1,327		1,437
+Sales of Natural Gas Liquids (MBPD)	74		72		62
+Refinery Input (MBPD)8
+584		617		706
+1 Includes company share of equity affiliates.
+2 MBPD – thousands of barrels per day; MMCFPD – millions of cubic feet per day; MBOEPD – thousands of barrels of oil-equivalents per day; Bbl – barrel; MCF – thousands of cubic feet. Oil-equivalent gas (OEG) conversion ratio is 6,000 cubic feet of natural gas = 1 barrel of crude oil.
+3 Includes natural gas consumed in operations (MMCFPD):
+United States	37 			36 			35 	
+International	566 			602 			584 	
+4 Includes net production of synthetic oil:
+Canada	54 			53 			53 	
+Venezuela affiliate	— 			3 			24 	
+5 Includes branded and unbranded gasoline.
+6 In May 2019, the company acquired the Pasadena Refinery in Pasadena, Texas, which has an operable capacity of 110,000 barrels per day.
+7 Includes sales of affiliates (MBPD):
+348 			379 			373 	
+8 In September 2018, the company sold its interest in the Cape Town Refinery in Cape Town, South Africa, which had an operable capacity of 110,000 barrels per day.
+ 
+
+41
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+Liquidity and Capital Resources 
+Sources and uses of cash 
+The strength of the company’s balance sheet enabled it to fund any timing differences throughout the year between cash inflows and outflows. 
+Cash, Cash Equivalents, Marketable Securities and Time Deposits Total balances were $5.6 billion and $5.7 billion at December 31, 2020 and 2019, respectively. Cash provided by operating activities in 2020 was $10.6 billion, compared to $27.3 billion in 2019, primarily due to lower crude oil prices. Cash provided by operating activities was net of contributions to employee pension plans of approximately $1.2 billion in 2020 and $1.4 billion in 2019. Cash provided by investing activities included proceeds and deposits related to asset sales of $2.9 billion in 2020 and $2.8 billion in 2019. 
+Restricted cash of $1.1 billion and $1.2 billion at December 31, 2020 and 2019, respectively, was held in cash and short-term marketable securities and recorded as “Deferred charges and other assets” and “Prepaid expenses and other current assets” on the Consolidated Balance Sheet. These amounts are generally associated with upstream decommissioning activities, tax payments, funds held in escrow for tax-deferred exchanges and refundable deposits related to pending asset sales. 
+Dividends Dividends paid to common stockholders were $9.7 billion in 2020 and $9.0 billion in 2019. 
+Debt and Finance Lease Liabilities Total debt and finance lease liabilities were $44.3 billion at December 31, 2020, up from $27.0 billion at year-end 2019. 
+The $17.3 billion increase in total debt and finance lease liabilities during 2020 was primarily due to the company's issuance of long-term public bonds of $8.0 billion in May 2020 and $4.0 billion in August 2020, and the assumption of debt with a fair value of $9.4 billion as part of the transaction to acquire Noble in October 2020. In January 2021, Chevron U.S.A. Inc. (CUSA) issued bonds, guaranteed by Chevron Corporation, in exchange for the Noble debt. More information on bond issuances is included in Note 18 on page 84. These amounts were partially offset by repayment of long-term notes that matured in 2020. The company’s debt and finance lease liabilities due within one year, consisting primarily of commercial paper, redeemable long-term obligations and the current portion of long-term debt, totaled $11.4 billion at December 31, 2020, compared with $13.0 billion at year-end 2019. Of these amounts, $9.825 billion and $9.75 billion were reclassified to long-term debt at the end of 2020 and 2019, respectively.
+At year-end 2020, settlement of these obligations was not expected to require the use of working capital in 2021, as the company had the intent and the ability, as evidenced by committed credit facilities, to refinance them on a long-term basis. 
+The company has an automatic shelf registration statement that expires in August 2023 for an unspecified amount of nonconvertible debt securities issued by Chevron Corporation or CUSA.
+cvx-20201231_g4.jpg
+42
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+The major debt rating agencies routinely evaluate the company’s debt, and the company’s cost of borrowing can increase or decrease depending on these debt ratings. The company has outstanding public bonds issued by Chevron Corporation, CUSA, Noble and Texaco Capital Inc. Most of these securities are the obligations of, or guaranteed by, Chevron Corporation and are rated AA- by Standard and Poor’s Corporation and Aa2 by Moody’s Investors Service. The company’s U.S. commercial paper is rated A-1+ by Standard and Poor’s and P-1 by Moody’s. All of these ratings denote high-quality, investment-grade securities. 
+The company’s future debt level is dependent primarily on results of operations, cash that may be generated from asset dispositions, the capital program, lending commitments to affiliates and shareholder distributions. Based on its high-quality debt ratings, the company believes that it has substantial borrowing capacity to meet unanticipated cash requirements. During extended periods of low prices for crude oil and natural gas and narrow margins for refined products and commodity chemicals, the company has the flexibility to modify capital spending plans and discontinue or curtail the stock repurchase program to provide flexibility to continue paying the common stock dividend and also remain committed to retaining the company’s high-quality debt ratings.
+Committed Credit Facilities Information related to committed credit facilities is included in Note 17, Short-Term Debt, on page 83.
+Summarized Financial Information for Guarantee of Securities of Subsidiaries In August 2020, long-term public bonds were issued by CUSA and fully and unconditionally guaranteed on an unsecured basis by Chevron Corporation (together the “Obligor Group”). In March 2020, the U.S. Securities and Exchange Commission (SEC) issued a final rule that amended the disclosure requirements with respect to certain guaranteed securities registered or being registered in Rule 3-10 of Regulation S-X and adopted new Rule 13-01 of Regulation S-X. These amendments were effective January 4, 2021. Accordingly, as disclosed in the tables below, summary financial information is presented for Chevron Corporation, as Guarantor, excluding its consolidated subsidiaries, and CUSA, as the issuer, excluding its consolidated subsidiaries. The summary financial information of the Obligor Group is presented on a combined basis and transactions between the combined entities have been eliminated. Financial information for non-guarantor entities has been excluded. 
+Year Ended
+December 31, 2020		Year Ended
+December 31, 2019
+(Millions of dollars) (unaudited)
+Sales and other operating revenues	$	49,636 			$	82,206 	
+Sales and other operating revenues - related party	17,044 			24,336 	
+Total costs and other deductions	57,575 			87,287 	
+Total costs and other deductions - related party	14,052 			22,632 	
+Net income (loss)	$	(1,610)			$	2,173 	
+ 
+At December 31,
+2020		At December 31,
+2019
+ 	(Millions of dollars) (unaudited)
+Current assets	$	9,196 			$	10,180 	
+Current assets - related party	5,719 			952 	
+Other assets	48,993 			50,595 	
+Current liabilities	20,965 			25,187 	
+Current liabilities - related party	55,273 			46,237 	
+Other liabilities	34,983 			25,622 	
+Total net equity (deficit)	$	(47,313)			$	(35,319)	
+ 
+Common Stock Repurchase Program On February 1, 2019, the company announced that the Board of Directors authorized a new stock repurchase program with a maximum dollar limit of $25 billion and no set term limits. As of December 31, 2020, the company had purchased a total of 48.6 million shares for $5.5 billion, resulting in $19.5 billion remaining under the program authorized in February 2019. On March 24, 2020, the company announced the suspension of the stock repurchase program in response to depressed market conditions following the global outbreak of the COVID-19 pandemic. No shares were purchased under the program after this announcement. 
+Repurchases may be made from time to time in the open market, by block purchases, in privately negotiated transactions or in such other manner as determined by the company. The timing of the repurchases and the actual amount repurchased will depend on a variety of factors, including the market price of the company’s shares, general market and economic 
+43
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+conditions, and other factors. The stock repurchase program does not obligate the company to acquire any particular amount of common stock, and it may be suspended or discontinued at any time.
+Capital and Exploratory Expenditures 
+Capital and exploratory expenditures by business segment for 2020, 2019 and 2018 are as follows:
+2020			2019			2018
+Millions of dollars	U.S.	Int’l.	Total			U.S.	Int’l.	Total			U.S.	Int’l.	Total
+Upstream	$	5,130 		$	5,784 		$	10,914 				$	8,197 		$	9,627 		$	17,824 				$	7,128 		$	10,529 		$	17,657 	
+Downstream	1,021 		1,325 		2,346 				1,868 		920 		2,788 				1,582 		611 		2,193 	
+All Other	226 		13 		239 				365 		17 		382 				243 		13 		256 	
+Total	$	6,377 		$	7,122 		$	13,499 				$	10,430 		$	10,564 		$	20,994 				$	8,953 		$	11,153 		$	20,106 	
+Total, Excluding Equity in Affiliates	$	6,053 		$	3,464 		$	9,517 				$	10,062 		$	4,820 		$	14,882 				$	8,651 		$	5,739 		$	14,390 	
+ 
+Total reported expenditures for 2020 were $13.5 billion, including $4.0 billion for the company’s share of equity-affiliate expenditures, which did not require cash outlays by the company. The acquisition of Noble is not included in the company’s capital and exploratory expenditures. For more information on the Noble acquisition, see page 96 in Note 29. In 2019, expenditures were $21.0 billion, including the company’s share of affiliates’ expenditures of $6.1 billion.
+Of the $13.5 billion of expenditures in 2020, 81 percent, or $10.9 billion, related to upstream activities. Approximately 85 percent was expended for upstream operations in 2019. International upstream accounted for 53 percent of the worldwide upstream investment in 2020 and 54 percent in 2019. 
+The company estimates that 2021 organic capital and exploratory expenditures will be $14 billion, including $4.2 billion of spending by affiliates. This is in line with 2020 expenditures, and reflects a robust portfolio of upstream and downstream investments, highlighted by the FGP/WPMP project at the Tengiz field in Kazakhstan and the company’s Permian Basin position. In the upstream business, approximately $6.5 billion is allocated to currently producing assets, including about $2.0 billion for Permian unconventional development. Approximately $3.5 billion of the upstream program is planned for major capital projects underway, of which about 75 percent is associated with FGP/WPMP at the Tengiz field in Kazakhstan. Additionally, $1.5 billion is allocated to exploration, early stage development projects, and midstream activities. The company monitors crude oil market conditions and is able to adjust future capital outlays should oil price conditions deteriorate.
+Worldwide downstream spending in 2021 is estimated to be $2.1 billion, with $1.2 billion estimated for projects in the United States. 
+Investments in technology businesses and other corporate operations in 2021 are budgeted at $0.4 billion. 
+Noncontrolling Interests The company had noncontrolling interests of $1.0 billion at December 31, 2020 and $1.0 billion at December 31, 2019. Distributions to noncontrolling interests totaled $24 million and $18 million in 2020 and 2019, respectively. Included within noncontrolling interests for 2020 is $120 million of redeemable noncontrolling interest associated with Noble Midstream.
+Pension Obligations Information related to pension plan contributions is included beginning on page 87 in Note 21, Employee Benefit Plans, under the heading “Cash Contributions and Benefit Payments.” 
+44
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+Financial Ratios and Metrics
+The following represent several metrics the company believes are useful measures to monitor the financial health of the company and its performance over time:
+Current Ratio Current assets divided by current liabilities, which indicates the company’s ability to repay its short-term liabilities with short-term assets. The current ratio in all periods was adversely affected by the fact that Chevron’s inventories are valued on a last-in, first-out basis. At year-end 2020, the book value of inventory was lower than replacement costs, based on average acquisition costs during the year, by approximately $2.7 billion. 
+At December 31	
+Millions of dollars	2020				2019			2018	
+Current assets	$	26,078 					$	28,329 				$	34,021 		
+Current liabilities	22,183 					26,530 				27,171 		
+Current Ratio	1.2				1.1			1.3	
+ 
+Interest Coverage Ratio Income before income tax expense, plus interest and debt expense and amortization of capitalized interest, less net income attributable to noncontrolling interests, divided by before-tax interest costs. This ratio indicates the company’s ability to pay interest on outstanding debt. The company’s interest coverage ratio in 2020 was lower than 2019 due to lower income. 
+Year ended December 31	
+Millions of dollars	2020				2019		2018	
+Income (Loss) Before Income Tax Expense	$	(7,453)					$	5,536 			$	20,575 		
+Plus: Interest and debt expense	697 					798 			748 		
+Plus: Before-tax amortization of capitalized interest	205 					240 			280 		
+Less: Net income attributable to noncontrolling interests	(18)					(79)			36 		
+Subtotal for calculation	(6,533)					6,653 			21,567 		
+Total financing interest and debt costs	$	735 					$	817 			$	921 		
+Interest Coverage Ratio	(8.9)					8.1 			23.4 		
+ 
+Free Cash Flow The cash provided by operating activities less cash capital expenditures, which represents the cash available to creditors and investors after investing in the business.
+Year ended December 31	
+Millions of dollars	2020				2019		2018	
+Net cash provided by operating activities	$	10,577 					$	27,314 			$	30,618 		
+Less: Capital expenditures	8,922 					14,116 			13,792 		
+Free Cash Flow	$	1,655 					$	13,198 			$	16,826 		
+ 
+Debt Ratio Total debt as a percentage of total debt plus Chevron Corporation Stockholders’ Equity, which indicates the company’s leverage. The company’s debt ratio was 25.2 percent at year-end 2020, compared with 15.8 percent at year-end 2019.
+At December 31	
+Millions of dollars	2020				2019		2018	
+Short-term debt	$	1,548 					$	3,282 			$	5,726 		
+Long-term debt	42,767 					23,691 			28,733 		
+Total debt	44,315 					26,973 			34,459 		
+Total Chevron Corporation Stockholders’ Equity	131,688 					144,213 			154,554 		
+Total debt plus total Chevron Corporation Stockholders’ Equity	$	176,003 					$	171,186 			$	189,013 		
+Debt Ratio	25.2 		%			15.8 		%	18.2 		%
+ 
+45
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+Net Debt Ratio Total debt less cash and cash equivalents, time deposits, and marketable securities as a percentage of total debt less cash and cash equivalents, time deposits, and marketable securities, plus Chevron Corporation Stockholders’ Equity, which indicates the company’s leverage, net of its cash balances. 
+At December 31	
+Millions of dollars	2020				2019		2018	
+Short-term debt	$	1,548 					$	3,282 			$	5,726 		
+Long-term debt	42,767 					23,691 			28,733 		
+Total Debt
+44,315 					26,973 			34,459 		
+Less: Cash and cash equivalents	5,596 					5,686 			9,342 		
+Less: Time deposits	— 					— 			950 		
+Less: Marketable securities	31 					63 			53 		
+Total adjusted debt	38,688 					21,224 			24,114 		
+Total Chevron Corporation Stockholders’ Equity
+131,688 					144,213 			154,554 		
+Total adjusted debt plus total Chevron Corporation Stockholders’ Equity	$	170,376 					$	165,437 			$	178,668 		
+Net Debt Ratio	22.7 		%			12.8 		%	13.5 		%
+ 
+Capital Employed The sum of Chevron Corporation Stockholders’ Equity, total debt and noncontrolling interests, which represents the net investment in the business. 
+At December 31	
+Millions of dollars	2020				2019		2018	
+Chevron Corporation Stockholders’ Equity	$	131,688 					$	144,213 			$	154,554 		
+Plus: Short-term debt	1,548 					3,282 			5,726 		
+Plus: Long-term debt	42,767 					23,691 			28,733 		
+Plus: Noncontrolling interest	1,038 					995 			1,088 		
+Capital Employed at December 31	$	177,041 					$	172,181 			$	190,101 		
+ 
+Return on Average Capital Employed (ROCE)  Net income attributable to Chevron (adjusted for after-tax interest expense and noncontrolling interest) divided by average capital employed. Average capital employed is computed by averaging the sum of capital employed at the beginning and end of the year. ROCE is a ratio intended to measure annual earnings as a percentage of historical investments in the business. 
+Year ended December 31	
+Millions of dollars	2020				2019		2018	
+Net income attributable to Chevron	$	(5,543)					$	2,924 			$	14,824 		
+Plus: After-tax interest and debt expense	658 					761 			713 		
+Plus: Noncontrolling interest	(18)					(79)			36 		
+Net income after adjustments	(4,903)					3,606 			15,573 		
+Average capital employed	$	174,611 					$	181,141 			$	189,092 		
+Return on Average Capital Employed	(2.8)		%			2.0 		%	8.2 		%
+ 
+Return on Stockholders’ Equity (ROSE) Net income attributable to Chevron divided by average Chevron Corporation Stockholders’ Equity. Average stockholder’s equity is computed by averaging the sum of stockholder’s equity at the beginning and end of the year. ROSE is a ratio intended to measure earnings as a percentage of shareholder investments.
+Year ended December 31	
+Millions of dollars	2020				2019		2018	
+Net income attributable to Chevron	$	(5,543)					$	2,924 			$	14,824 		
+Chevron Corporation Stockholders’ Equity at December 31	131,688 					144,213 			154,554 		
+Average Chevron Corporation Stockholders’ Equity	137,951 					149,384 			151,339 		
+Return on Average Stockholders’ Equity	(4.0)		%			2.0 		%	9.8 		%
+ 
+
+46
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+Off-Balance-Sheet Arrangements, Contractual Obligations, Guarantees and Other Contingencies 
+Long-Term Unconditional Purchase Obligations and Commitments, Including Throughput and Take-or-Pay Agreements Information related to these matters is included on page 92 in Note 22, Other Contingencies and Commitments. 
+The following table summarizes the company’s significant contractual obligations: 
+Payments Due by Period
+Millions of dollars	
+Total1
+2021		2022-2023		2024-2025		After 2025
+On Balance Sheet:2
+Short-Term Debt3, 4
+$	1,362 			$	1,362 			$	— 			$	— 			$	— 	
+Long-Term Debt3, 4
+40,732 			— 			21,848 			5,650 			13,234 	
+Leases
+5,119 			1,580 			1,394 			702 			1,443 	
+Interest4
+9,357 			866 			1,469 			1,105 			5,917 	
+Off Balance Sheet:									
+Throughput and Take-or-Pay Agreements5
+13,186 			817 			2,045 			2,236 			8,088 	
+Other Unconditional Purchase Obligations5
+1,464 			211 			468 			489 			296 	
+ 
+1.Excludes contributions for pensions and other postretirement benefit plans and ARO. Information on employee benefit plans is contained in Note 21 beginning on page 87. Information on ARO's is contained in Note 23 beginning on page 94 
+2.Does not include amounts related to the company’s income tax liabilities associated with uncertain tax positions. The company is unable to make reasonable estimates of the periods in which such liabilities may become payable. The company does not expect settlement of such liabilities to have a material effect on its consolidated financial position or liquidity in any single period.
+3.$9.825 billion of short-term debt that the company expects to refinance is included in long-term debt. The repayment schedule above reflects the projected repayment of the entire amounts in the 2022–2023 period. The amounts represent only the principal balance.
+4.Excludes finance lease liabilities.
+5.Does not include commodity purchase obligations that are not fixed or determinable. These obligations are generally monetized in a relatively short period of time through sales transactions or similar agreements with third parties. Examples include obligations to purchase LNG, regasified natural gas and refinery products at indexed prices.
+Direct Guarantees
+Commitment Expiration by Period
+Millions of dollars	Total		2021		2022-2023		2024-2025		After 2025
+Guarantee of nonconsolidated affiliate or joint-venture obligations
+$	391 			$	176 			$	77 			$	78 			$	60 	
+ 
+Additional information related to guarantees is included on page 92  in Note 22, Other Contingencies and Commitments. 
+Indemnifications Information related to indemnifications is included on page 92  in Note 22, Other Contingencies and Commitments. 
+Financial and Derivative Instrument Market Risk 
+The market risk associated with the company’s portfolio of financial and derivative instruments is discussed below. The estimates of financial exposure to market risk do not represent the company’s projection of future market changes. The actual impact of future market changes could differ materially due to factors discussed elsewhere in this report, including those set forth under the heading “Risk Factors” in Part I, Item 1A. 
+Derivative Commodity Instruments Chevron is exposed to market risks related to the price volatility of crude oil, refined products, natural gas, natural gas liquids, liquefied natural gas and refinery feedstocks. The company uses derivative commodity instruments to manage these exposures on a portion of its activity, including firm commitments and anticipated transactions for the purchase, sale and storage of crude oil, refined products, natural gas, natural gas liquids, liquefied natural gas and feedstock for company refineries. The company also uses derivative commodity instruments for limited trading purposes. The results of these activities were not material to the company’s financial position, results of operations or cash flows in 2020. 
+The company’s market exposure positions are monitored on a daily basis by an internal Risk Control group in accordance with the company’s risk management policies. The company’s risk management practices and its compliance with policies are reviewed by the Audit Committee of the company’s Board of Directors. 
+Derivatives beyond those designated as normal purchase and normal sale contracts are recorded at fair value on the Consolidated Balance Sheet with resulting gains and losses reflected in income. Fair values are derived principally from published market quotes and other independent third-party quotes. The change in fair value of Chevron’s derivative commodity instruments in 2020 was not material to the company’s results of operations. 
+47
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+The company uses the Monte Carlo simulation method as its Value-at-Risk (VaR) model to estimate the maximum potential loss in fair value, at the 95 percent confidence level with a one-day holding period, from the effect of adverse changes in market conditions on derivative commodity instruments held or issued. Based on these inputs, the VaR for the company’s primary risk exposures in the area of derivative commodity instruments at December 31, 2020 and 2019 was not material to the company’s cash flows or results of operations. 
+Foreign Currency The company may enter into foreign currency derivative contracts to manage some of its foreign currency exposures. These exposures include revenue and anticipated purchase transactions, including foreign currency capital expenditures and lease commitments. The foreign currency derivative contracts, if any, are recorded at fair value on the balance sheet with resulting gains and losses reflected in income. There were no material open foreign currency derivative contracts at December 31, 2020.
+Interest Rates The company may enter into interest rate swaps from time to time as part of its overall strategy to manage the interest rate risk on its debt. Interest rate swaps, if any, are recorded at fair value on the balance sheet with resulting gains and losses reflected in income. At year-end 2020, the company had no interest rate swaps. 
+Transactions With Related Parties 
+Chevron enters into a number of business arrangements with related parties, principally its equity affiliates. These arrangements include long-term supply or offtake agreements and long-term purchase agreements. Refer to “Other Information” on page 77, in Note 13, Investments and Advances, for further discussion. Management believes these agreements have been negotiated on terms consistent with those that would have been negotiated with an unrelated party. 
+Litigation and Other Contingencies 
+MTBE Information related to methyl tertiary butyl ether (MTBE) matters is included on page 78 in Note 14 under the heading “MTBE.” 
+Ecuador Information related to Ecuador matters is included in Note 14 under the heading “Ecuador,” beginning on page 78. 
+Environmental The following table displays the annual changes to the company’s before-tax environmental remediation reserves, including those for U.S. federal Superfund sites and analogous sites under state laws. 
+Millions of dollars	2020		2019		2018
+Balance at January 1	$	1,234 			$	1,327 			$	1,429 	
+Net Additions	179 			200 			197 	
+Expenditures	(274)			(293)			(299)	
+Balance at December 31	$	1,139 			$	1,234 			$	1,327 	
+ 
+The company records asset retirement obligations when there is a legal obligation associated with the retirement of long-lived assets and the liability can be reasonably estimated. These asset retirement obligations include costs related to environmental issues. The liability balance of approximately $13.6 billion for asset retirement obligations at year-end 2020 related primarily to upstream properties. 
+For the company’s other ongoing operating assets, such as refineries and chemicals facilities, no provisions are made for exit or cleanup costs that may be required when such assets reach the end of their useful lives unless a decision to sell or otherwise decommission the facility has been made, as the indeterminate settlement dates for the asset retirements prevent estimation of the fair value of the asset retirement obligation. 
+Refer to the discussion below for additional information on environmental matters and their impact on Chevron, and on the company’s 2020 environmental expenditures. Refer to Note 22 on page 93 for additional discussion of environmental remediation provisions and year-end reserves. Refer also to Note 23 on page 94 for additional discussion of the company’s asset retirement obligations.
+Suspended Wells Information related to suspended wells is included in Note 19, Accounting for Suspended Exploratory Wells, beginning on page 85.
+Income Taxes Information related to income tax contingencies is included on pages 79 through 82  in Note 15 and page 92 in Note 22 under the heading “Income Taxes.”
+48
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+Other Contingencies Information related to other contingencies is included on page 93 in Note 22 to the Consolidated Financial Statements under the heading “Other Contingencies.” 
+Environmental Matters 
+The company is subject to various international, federal, state and local environmental, health and safety laws, regulations and market-based programs. These laws, regulations and programs continue to evolve and are expected to increase in both number and complexity over time and govern not only the manner in which the company conducts its operations, but also the products it sells. For example, international agreements and national, regional, and state legislation and regulatory measures that aim to limit or reduce greenhouse gas (GHG) emissions are currently in various stages of implementation. Consideration of GHG issues and the responses to those issues through international agreements and national, regional or state legislation or regulations are integrated into the company’s strategy and planning, capital investment reviews and risk management tools and processes, where applicable. They are also factored into the company’s long-range supply, demand and energy price forecasts. These forecasts reflect long-range effects from renewable fuel penetration, energy efficiency standards, climate-related policy actions, and demand response to oil and natural gas prices. In addition, legislation and regulations intended to address hydraulic fracturing also continue to evolve at the national, state and local levels. Refer to “Risk Factors” in Part I, Item 1A, on pages 18 through 23 for a discussion of some of the inherent risks of increasingly restrictive environmental and other regulation that could materially impact the company’s results of operations or financial condition. 
+Most of the costs of complying with existing laws and regulations pertaining to company operations and products are embedded in the normal costs of doing business. However, it is not possible to predict with certainty the amount of additional investments in new or existing technology or facilities or the amounts of increased operating costs to be incurred in the future to: prevent, control, reduce or eliminate releases of hazardous materials or other pollutants into the environment; remediate and restore areas damaged by prior releases of hazardous materials; or comply with new environmental laws or regulations. Although these costs may be significant to the results of operations in any single period, the company does not presently expect them to have a material adverse effect on the company’s liquidity or financial position.
+Accidental leaks and spills requiring cleanup may occur in the ordinary course of business. The company may incur expenses for corrective actions at various owned and previously owned facilities and at third-party-owned waste disposal sites used by the company. An obligation may arise when operations are closed or sold or at non-Chevron sites where company products have been handled or disposed of. Most of the expenditures to fulfill these obligations relate to facilities and sites where past operations followed practices and procedures that were considered acceptable at the time but now require investigative or remedial work or both to meet current standards. 
+Using definitions and guidelines established by the American Petroleum Institute, Chevron estimated its worldwide environmental spending in 2020 at approximately $2.0 billion for its consolidated companies. Included in these expenditures were approximately $0.5 billion of environmental capital expenditures and $1.5 billion of costs associated with the prevention, control, abatement or elimination of hazardous substances and pollutants from operating, closed or divested sites, and the decommissioning and restoration of sites.
+For 2021, total worldwide environmental capital expenditures are estimated at $0.5 billion. These capital costs are in addition to the ongoing costs of complying with environmental regulations and the costs to remediate previously contaminated sites.
+Critical Accounting Estimates and Assumptions 
+Management makes many estimates and assumptions in the application of accounting principles generally accepted in the United States of America (GAAP) that may have a material impact on the company’s consolidated financial statements and related disclosures and on the comparability of such information over different reporting periods. Such estimates and assumptions affect reported amounts of assets, liabilities, revenues and expenses, as well as disclosures of contingent assets and liabilities. Estimates and assumptions are based on management’s experience and other information available prior to the issuance of the financial statements. Materially different results can occur as circumstances change and additional information becomes known. 
+The discussion in this section of “critical” accounting estimates and assumptions is according to the disclosure guidelines of the Securities and Exchange Commission (SEC), wherein: 
+49
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+1.the nature of the estimates and assumptions is material due to the levels of subjectivity and judgment necessary to account for highly uncertain matters, or the susceptibility of such matters to change; and
+2.the impact of the estimates and assumptions on the company’s financial condition or operating performance is material.
+The development and selection of accounting estimates and assumptions, including those deemed “critical,” and the associated disclosures in this discussion have been discussed by management with the Audit Committee of the Board of Directors. The areas of accounting and the associated “critical” estimates and assumptions made by the company are as follows: 
+Oil and Gas Reserves Crude oil and natural gas reserves are estimates of future production that impact certain asset and expense accounts included in the Consolidated Financial Statements. Proved reserves are the estimated quantities of oil and gas that geoscience and engineering data demonstrate with reasonable certainty to be economically producible in the future under existing economic conditions, operating methods and government regulations. Proved reserves include both developed and undeveloped volumes. Proved developed reserves represent volumes expected to be recovered through existing wells with existing equipment and operating methods. Proved undeveloped reserves are volumes expected to be recovered from new wells on undrilled proved acreage, or from existing wells where a relatively major expenditure is required for recompletion. Variables impacting Chevron’s estimated volumes of crude oil and natural gas reserves include field performance, available technology, commodity prices, and development and production costs. 
+The estimates of crude oil and natural gas reserves are important to the timing of expense recognition for costs incurred and to the valuation of certain oil and gas producing assets. Impacts of oil and gas reserves on Chevron’s Consolidated Financial Statements, using the successful efforts method of accounting, include the following:
+1.Amortization - Capitalized exploratory drilling and development costs are depreciated on a unit-of-production (UOP) basis using proved developed reserves. Acquisition costs of proved properties are amortized on a UOP basis using total proved reserves. During 2020, Chevron’s UOP Depreciation, Depletion and Amortization (DD&A) for oil and gas properties was $13.0 billion, and proved developed reserves at the beginning of 2020 were 6.4 billion barrels for consolidated companies. If the estimates of proved reserves used in the UOP calculations for consolidated operations had been lower by 5 percent across all oil and gas properties, UOP DD&A in 2020 would have increased by approximately $700 million. 
+2.Impairment - Oil and gas reserves are used in assessing oil and gas producing properties for impairment. A significant reduction in the estimated reserves of a property would trigger an impairment review. Proved reserves (and, in some cases, a portion of unproved resources) are used to estimate future production volumes in the cash flow model. For a further discussion of estimates and assumptions used in impairment assessments, see Impairment of Properties, Plant and Equipment and Investments in Affiliates below.
+Refer to Table V, “Reserve Quantity Information,” beginning on page 103, for the changes in proved reserve estimates for the three years ended December 31, 2020, and to Table VII, “Changes in the Standardized Measure of Discounted Future Net Cash Flows From Proved Reserves” on page 111 for estimates of proved reserve values for each of the three years ended December 31, 2020. 
+This Oil and Gas Reserves commentary should be read in conjunction with the Properties, Plant and Equipment section of Note 1, beginning on page 64, which includes a description of the “successful efforts” method of accounting for oil and gas exploration and production activities.
+Impairment of Properties, Plant and Equipment and Investments in Affiliates The company assesses its properties, plant and equipment (PP&E) for possible impairment whenever events or changes in circumstances indicate that the carrying value of the assets may not be recoverable. If the carrying value of an asset exceeds the future undiscounted cash flows expected from the asset, an impairment charge is recorded for the excess of carrying value of the asset over its estimated fair value. 
+Determination as to whether and how much an asset is impaired involves management estimates on highly uncertain matters, such as future commodity prices, operating expenses, production profiles, and the outlook for global or regional market supply-and-demand conditions for crude oil, natural gas, commodity chemicals and refined products. However, the impairment reviews and calculations are based on assumptions that are generally consistent with the company’s business plans and long-term investment decisions. Refer also to the discussion of impairments of properties, plant and equipment in Note 16 on page 82 and to the section on Properties, Plant and Equipment in Note 1, “Summary of Significant Accounting Policies,” beginning on page 64.
+50
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+The company performs impairment assessments when triggering events arise to determine whether any write-down in the carrying value of an asset or asset group is required. For example, when significant downward revisions to crude oil and natural gas reserves are made for any single field or concession, an impairment review is performed to determine if the carrying value of the asset remains recoverable. Similarly, a significant downward revision in the company’s crude oil or natural gas price outlook would trigger impairment reviews for impacted upstream assets. In addition, impairments could occur due to changes in national, state or local environmental regulations or laws, including those designed to stop or impede the development or production of oil and gas. Also, if the expectation of sale of a particular asset or asset group in any period has been deemed more likely than not, an impairment review is performed, and if the estimated net proceeds exceed the carrying value of the asset or asset group, no impairment charge is required. Such calculations are reviewed each period until the asset or asset group is disposed. Assets that are not impaired on a held-and-used basis could possibly become impaired if a decision is made to sell such assets. That is, the assets would be impaired if they are classified as held-for-sale and the estimated proceeds from the sale, less costs to sell, are less than the assets’ associated carrying values.
+Investments in common stock of affiliates that are accounted for under the equity method, as well as investments in other securities of these equity investees, are reviewed for impairment when the fair value of the investment falls below the company’s carrying value. When this occurs, a determination must be made as to whether this loss is other-than-temporary, in which case the investment is impaired. Because of the number of differing assumptions potentially affecting whether an investment is impaired in any period or the amount of the impairment, a sensitivity analysis is not practicable. 
+In 2020, the company recorded impairments and write-offs for certain oil and gas properties primarily due to downward revisions to its oil and gas price outlook. In addition, the company fully impaired its investments in Petropiar and Petroboscan after completing an evaluation of the carrying value of its Venezuelan investments in line with its accounting policies and concluding that given the current operating environment and overall outlook, which create significant uncertainties regarding the recovery of the company’s investment, an other than temporary loss of value had occurred.
+In 2019, the company recorded impairments and write-offs for certain oil and gas properties following the review and approval of its business plan and capital expenditure program.  As a result of the company’s disciplined approach to capital allocation and a downward revision in its longer-term commodity price outlook, the company reduced funding to various natural gas-related upstream opportunities including Appalachia shale, Kitimat LNG and other international projects. In addition, the revised long-term oil price outlook resulted in an impairment of Big Foot.
+A sensitivity analysis of the impact on earnings for these periods if other assumptions had been used in impairment reviews and impairment calculations is not practicable, given the broad range of the company’s PP&E and the number of assumptions involved in the estimates. That is, favorable changes to some assumptions might have avoided the need to impair any assets in these periods, whereas unfavorable changes might have caused an additional unknown number of other assets to become impaired, or resulted in larger impacts on impaired assets.
+Asset Retirement Obligations In the determination of fair value for an asset retirement obligation (ARO), the company uses various assumptions and judgments, including such factors as the existence of a legal obligation, estimated amounts and timing of settlements, discount and inflation rates, and the expected impact of advances in technology and process improvements. A sensitivity analysis of the ARO impact on earnings for 2020 is not practicable, given the broad range of the company’s long-lived assets and the number of assumptions involved in the estimates. That is, favorable changes to some assumptions would have reduced estimated future obligations, thereby lowering accretion expense and amortization costs, whereas unfavorable changes would have the opposite effect. Refer to Note 23 on page 94 for additional discussions on asset retirement obligations.
+Pension and Other Postretirement Benefit Plans Note 21, beginning on page 87, includes information on the funded status of the company’s pension and other postretirement benefit (OPEB) plans reflected on the Consolidated Balance Sheet; the components of pension and OPEB expense reflected on the Consolidated Statement of Income; and the related underlying assumptions.
+The determination of pension plan expense and obligations is based on a number of actuarial assumptions. Two critical assumptions are the expected long-term rate of return on plan assets and the discount rate applied to pension plan obligations. Critical assumptions in determining expense and obligations for OPEB plans, which provide for certain health care and life insurance benefits for qualifying retired employees and which are not funded, are the discount rate and the assumed health care cost-trend rates. Information related to the company’s processes to develop these assumptions is included on page 89 in Note 21 under the relevant headings. Actual rates may vary significantly from estimates because of unanticipated changes beyond the company’s control.
+51
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+For 2020, the company used an expected long-term rate of return of 6.5 percent and a discount rate for service costs of 3.3 percent and a discount rate for interest cost of 2.6 percent for the primary U.S. pension plan. The actual return for 2020 was 9.4 percent. For the 10 years ended December 31, 2020, actual asset returns averaged 7.9 percent for this plan. Additionally, with the exception of three years within this 10-year period, actual asset returns for this plan equaled or exceeded 6.5 percent during each year.
+Total pension expense for 2020 was $1.5 billion. An increase in the expected long-term return on plan assets or the discount rate would reduce pension plan expense, and vice versa. As an indication of the sensitivity of pension expense to the long-term rate of return assumption, a 1 percent increase in this assumption for the company’s primary U.S. pension plan, which accounted for about 67 percent of companywide pension expense, would have reduced total pension plan expense for 2020 by approximately $88 million. A 1 percent increase in the discount rates for this same plan would have reduced pension expense for 2020 by approximately $269 million. 
+The aggregate funded status recognized at December 31, 2020, was a net liability of approximately $6.2 billion. An increase in the discount rate would decrease the pension obligation, thus changing the funded status of a plan. At December 31, 2020, the company used a discount rate of 2.4 percent to measure the obligations for the primary U.S. pension plan. As an indication of the sensitivity of pension liabilities to the discount rate assumption, a 0.25 percent increase in the discount rate applied to the company’s primary U.S. pension plan, which accounted for about 61 percent of the companywide pension obligation, would have reduced the plan obligation by approximately $475 million, and would have decreased the plan’s underfunded status from approximately $3.2 billion to $2.8 billion. 
+For the company’s OPEB plans, expense for 2020 was $57 million, and the total liability, all unfunded at the end of 2020, was $2.7 billion. For the primary U.S. OPEB plan, the company used a discount rate for service cost of 3.4 percent and a discount rate for interest cost of 2.7 percent to measure expense in 2020, and a 2.4 percent discount rate to measure the benefit obligations at December 31, 2020. Discount rate changes, similar to those used in the pension sensitivity analysis, resulted in an immaterial impact on 2020 OPEB expense and OPEB liabilities at the end of 2020.  
+Differences between the various assumptions used to determine expense and the funded status of each plan and actual experience are included in actuarial gain/loss. Refer to page 88 in Note 21 for more information on the $7.4 billion of before-tax actuarial losses recorded by the company as of December 31, 2020,  In addition, information related to company contributions is included on page 91 in Note 21 under the heading “Cash Contributions and Benefit Payments.” 
+Business Combinations – Purchase-Price Allocation Accounting for business combinations requires the allocation of the company’s purchase price to the various assets and liabilities of the acquired business at their respective fair values. The company uses all available information to make these fair value determinations. Determining the fair values of assets acquired generally involves assumptions regarding the amounts and timing of future revenues and expenditures, as well as discount rates. For additional discussion of purchase price allocations, refer to Note 29 beginning on page 96.
+Contingent Losses Management also makes judgments and estimates in recording liabilities for claims, litigation, tax matters and environmental remediation. Actual costs can frequently vary from estimates for a variety of reasons. For example, the costs for settlement of claims and litigation can vary from estimates based on differing interpretations of laws, opinions on culpability and assessments on the amount of damages. Similarly, liabilities for environmental remediation are subject to change because of changes in laws, regulations and their interpretation, the determination of additional information on the extent and nature of site contamination, and improvements in technology. 
+Under the accounting rules, a liability is generally recorded for these types of contingencies if management determines the loss to be both probable and estimable. The company generally reports these losses as “Operating expenses” or “Selling, general and administrative expenses” on the Consolidated Statement of Income. An exception to this handling is for income tax matters, for which benefits are recognized only if management determines the tax position is “more likely than not” (i.e., likelihood greater than 50 percent) to be allowed by the tax jurisdiction. For additional discussion of income tax uncertainties, refer to Note 22 beginning on page 92. Refer also to the business segment discussions elsewhere in this section for the effect on earnings from losses associated with certain litigation, environmental remediation and tax matters for the three years ended December 31, 2020. 
+An estimate as to the sensitivity to earnings for these periods if other assumptions had been used in recording these liabilities is not practicable because of the number of contingencies that must be assessed, the number of underlying assumptions and the wide range of reasonably possible outcomes, both in terms of the probability of loss and the estimates of such loss. For further information, refer to “Changes in management’s estimates and assumptions may have a material 
+52
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+impact on the company’s consolidated financial statements and financial or operational performance in any given period” in “Risk Factors” in Part I, Item 1A, on page 23. 
+New Accounting Standards 
+Refer to Note 4 beginning on page 69 for information regarding new accounting standards.
+53
+
+
+
+
+Quarterly Results 
+Unaudited
+2020	2019
+Millions of dollars, except per-share amounts	4th Q		3rd Q		2nd Q		1st Q		4th Q		3rd Q		2nd Q		1st Q
+Revenues and Other Income															
+Sales and other operating revenues
+$	24,843 			$	23,997 			$	15,926 			$	29,705 			$	34,574 			$	34,779 			$	36,323 			$	34,189 	
+Income from equity affiliates
+568 			510 			(2,515)			965 			538 			1,172 			1,196 			1,062 	
+Other income
+(165)			(56)			83 			831 			1,238 			165 			1,331 			(51)	
+Total Revenues and Other Income	25,246 			24,451 			13,494 			31,501 			36,350 			36,116 			38,850 			35,200 	
+Costs and Other Deductions															
+Purchased crude oil and products
+13,387 			13,448 			8,144 			15,509 			19,693 			19,882 			20,835 			19,703 	
+Operating expenses
+4,898 			4,604 			5,530 			5,291 			5,987 			5,325 			5,187 			4,886 	
+Selling, general and administrative expenses
+1,129 			832 			1,569 			683 			1,129 			954 			1,076 			984 	
+Exploration expenses
+367 			117 			895 			158 			272		168		141		189
+Depreciation, depletion and amortization
+4,486 			4,017 			6,717 			4,288 			16,429 			4,361 			4,334 			4,094 	
+Taxes other than on income
+1,276 			1,091 			965 			1,167 			969 			1,059 			1,047 			1,061 	
+Interest and debt expense
+199 			164 			172 			162 			178 			197 			198 			225 	
+Other components of net periodic benefit costs
+461 			222 			99 			98 			98 			121 			97 			101 	
+Total Costs and Other Deductions	26,203 			24,495 			24,091 			27,356 			44,755 			32,067 			32,915 			31,243 	
+Income (Loss) Before Income Tax Expense	(957)			(44)			(10,597)			4,145 			(8,405)			4,049 			5,935 			3,957 	
+Income Tax Expense (Benefit)	(301)			165 			(2,320)			564 			(1,738)			1,469 			1,645 			1,315 	
+Net Income (Loss)	$	(656)			$	(209)			$	(8,277)			$	3,581 			$	(6,667)			$	2,580 			$	4,290 			$	2,642 	
+Less: Net income attributable to noncontrolling interests
+9 			(2)			(7)			(18)			(57)			— 			(15)			(7)	
+Net Income (Loss) Attributable to Chevron Corporation	$	(665)			$	(207)			$	(8,270)			$	3,599 			$	(6,610)			$	2,580 			$	4,305 			$	2,649 	
+Per Share of Common Stock															
+Net Income (Loss) Attributable to Chevron Corporation
+– Basic
+$	(0.33)			$	(0.12)			$	(4.44)			$	1.93 			$	(3.51)			$	1.38 			$	2.28 			$	1.40 	
+– Diluted
+$	(0.33)			$	(0.12)			$	(4.44)			$	1.93 			$	(3.51)			$	1.36 			$	2.27 			$	1.39 	
+Dividends per share	$	1.29 			$	1.29 			$	1.29 			$	1.29 			$	1.19 			$	1.19 			$	1.19 			$	1.19 	
+ 
+54

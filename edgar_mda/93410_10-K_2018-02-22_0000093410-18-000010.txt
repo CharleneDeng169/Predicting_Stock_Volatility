@@ -1,0 +1,2567 @@
+CIK: 93410
+Company Name: CHEVRON CORP
+Form Type : 10-K
+Filing Date: 2018-02-22
+Accession Number: 0000093410-18-000010
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+Key Financial Results 
+Millions of dollars, except per-share amounts
+2017
+
+ 
+2016
+
+ 
+2015
+
+Net Income (Loss) Attributable to Chevron Corporation
+$
+9,195
+
+ 
+$
+(497
+)
+ 
+$
+4,587
+
+Per Share Amounts:
+
+
+ 
+
+ 
+
+Net Income (Loss) Attributable to Chevron Corporation
+
+
+ 
+
+ 
+
+– Basic
+$
+4.88
+
+ 
+$
+(0.27
+)
+ 
+$
+2.46
+
+– Diluted
+$
+4.85
+
+ 
+$
+(0.27
+)
+ 
+$
+2.45
+
+Dividends
+$
+4.32
+
+ 
+$
+4.29
+
+ 
+$
+4.28
+
+Sales and Other Operating Revenues
+$
+134,674
+
+ 
+$
+110,215
+
+ 
+$
+129,925
+
+Return on:
+
+
+ 
+
+ 
+
+Capital Employed
+5.0
+%
+ 
+(0.1
+)%
+ 
+2.5
+%
+Stockholders’ Equity
+6.3
+%
+ 
+(0.3
+)%
+ 
+3.0
+%
+Earnings by Major Operating Area
+Millions of dollars
+2017
+
+ 
+2016
+
+ 
+2015
+
+Upstream
+ 
+ 
+ 
+ 
+ 
+United States
+$
+3,640
+
+ 
+$
+(2,054
+)
+ 
+$
+(4,055
+)
+International
+4,510
+
+ 
+(483
+)
+ 
+2,094
+
+Total Upstream
+8,150
+
+ 
+(2,537
+)
+ 
+(1,961
+)
+Downstream
+ 
+ 
+ 
+ 
+ 
+United States
+2,938
+
+ 
+1,307
+
+ 
+3,182
+
+International
+2,276
+
+ 
+2,128
+
+ 
+4,419
+
+Total Downstream
+5,214
+
+ 
+3,435
+
+ 
+7,601
+
+All Other
+(4,169
+)
+ 
+(1,395
+)
+ 
+(1,053
+)
+Net Income (Loss) Attributable to Chevron Corporation1,2
+$
+9,195
+
+ 
+$
+(497
+)
+ 
+$
+4,587
+
+1  Includes foreign currency effects:
+$
+(446
+)
+ 
+$
+58
+
+ 
+$
+769
+
+2 Income net of tax, also referred to as “earnings” in the discussions that follow.
+Refer to the “Results of Operations” section beginning on page 34 for a discussion of financial results by major operating area for the three years ended December 31, 2017. 
+Business Environment and Outlook 
+Chevron is a global energy company with substantial business activities in the following countries: Angola, Argentina, Australia, Azerbaijan, Bangladesh, Brazil, Canada, China, Colombia, Democratic Republic of the Congo, Denmark, Indonesia, Kazakhstan, Myanmar, Nigeria, the Partitioned Zone between Saudi Arabia and Kuwait, the Philippines, Republic of Congo, Singapore, South Africa, South Korea, Thailand, the United Kingdom, the United States, and Venezuela. 
+Earnings of the company depend mostly on the profitability of its upstream business segment. The biggest factor affecting the results of operations for the upstream segment is the price of crude oil. The price of crude oil has fallen significantly since mid-year 2014. The downturn in the price of crude oil has impacted the company's results of operations, cash flows, leverage, capital and exploratory investment program and production outlook. A sustained lower price environment could result in the impairment or write-off of specific assets in future periods. The company has responded with reductions in operating expenses, pacing and re-focusing of capital and exploratory expenditures, and increased asset sales. The company anticipates that crude oil prices will increase in the future, as continued growth in demand and a slowing in supply growth should bring global markets into balance; however, the timing of any such increase is unknown. In the company's downstream business, crude oil is the largest cost component of refined products. It is the company's objective to deliver competitive results and shareholder value in any business environment. 
+The effective tax rate for the company can change substantially during periods of significant earnings volatility. This is due to the mix effects that are impacted both by the absolute level of earnings or losses and whether they arise in higher or lower tax rate jurisdictions. As a result, a decline or increase in the effective income tax rate in one period may not be indicative of expected results in future periods. Note 18 provides the company’s effective income tax rate for the last three years.
+Refer to the "Cautionary Statement Relevant to Forward-Looking Information" on page 2 and to "Risk Factors" in Part I, Item 1A, on pages 19 through 22 for a discussion of some of the inherent risks that could materially impact the company's results of operations or financial condition. 
+The company continually evaluates opportunities to dispose of assets that are not expected to provide sufficient long-term value or to acquire assets or operations complementary to its asset base to help augment the company’s financial 
+
+30
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+performance and value growth. The company's asset sale program for 2016 and 2017 targeted before-tax proceeds of $5-10 billion. Proceeds and deposits related to asset sales were $2.8 billion in 2016 and $5.2 billion in 2017. Refer to the “Results of Operations” section beginning on page 34 for discussions of net gains on asset sales during 2017. Asset dispositions and restructurings may also occur in future periods and could result in significant gains or losses.
+The company closely monitors developments in the financial and credit markets, the level of worldwide economic activity, and the implications for the company of movements in prices for crude oil and natural gas. Management takes these developments into account in the conduct of daily operations and for business planning.
+Comments related to earnings trends for the company’s major business areas are as follows:
+Upstream Earnings for the upstream segment are closely aligned with industry prices for crude oil and natural gas. Crude oil and natural gas prices are subject to external factors over which the company has no control, including product demand connected with global economic conditions, industry production and inventory levels, technology advancements, production quotas or other actions imposed by the Organization of Petroleum Exporting Countries (OPEC) or other producers, actions of regulators, weather-related damage and disruptions, competing fuel prices, and regional supply interruptions or fears thereof that may be caused by military conflicts, civil unrest or political uncertainty. Any of these factors could also inhibit the company’s production capacity in an affected region. The company closely monitors developments in the countries in which it operates and holds investments, and seeks to manage risks in operating its facilities and businesses. The longer-term trend in earnings for the upstream segment is also a function of other factors, including the company’s ability to find or acquire and efficiently produce crude oil and natural gas, changes in fiscal terms of contracts, and changes in tax laws and regulations.
+The company continues to actively manage its schedule of work, contracting, procurement and supply-chain activities to effectively manage costs. However, price levels for capital and exploratory costs and operating expenses associated with the production of crude oil and natural gas can be subject to external factors beyond the company’s control including, among other things, the general level of inflation, commodity prices and prices charged by the industry’s material and service providers, which can be affected by the volatility of the industry’s own supply-and-demand conditions for such materials and services. Industry cost inflation in most onshore segments, including North America unconventionals, started to modestly rise in 2017 with increases in commodity prices and higher levels of activity and investment. Offshore costs continue to decline driven by lower offshore activity levels and increased competition among suppliers. Capital and exploratory expenditures and operating expenses could also be affected by damage to production facilities caused by severe weather or civil unrest, delays in construction, or other factors.
+beo2017pricegraph.jpg
+The chart above shows the trend in benchmark prices for Brent crude oil, West Texas Intermediate (WTI) crude oil and U.S. Henry Hub natural gas. The Brent price averaged $54 per barrel for the full-year 2017, compared to $44 in 2016. As of mid-February 2018, the Brent price was $62 per barrel. The majority of the company’s equity crude production is priced based on the Brent benchmark. Crude oil prices were better supported in 2017 amid firming demand, rising geopolitical tensions, and ongoing output reductions by OPEC and certain non-OPEC producers. However, upside was limited as rebounding U.S. and other non-OPEC production resulted in ongoing oversupplied conditions. Prices weakened gradually over the first half of 2017 due to concerns that OPEC cuts would be allowed to expire in June 2017, but firmed over the 
+
+31
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+second half of 2017 after OPEC’s decision on May 25, 2017, to extend cuts through the first quarter of 2018. Price support was reinforced on November 30, 2017, when OPEC and their non-OPEC partners agreed to further extend output cuts through December 2018.
+The WTI price averaged $51 per barrel for the full-year 2017, compared to $43 in 2016. As of mid-February 2018, the WTI price was $59 per barrel. WTI traded at a discount to Brent throughout 2017. After starting 2017 at a $2 discount to Brent, the WTI discount expanded to about $6 by year-end due to rising U.S. crude production, rebounding inventories, and growing concerns that pipeline infrastructure constraints would again restrict flows to export outlets on the Gulf Coast.
+A differential in crude oil prices exists between high-gravity, low-sulfur crudes and low-gravity, high-sulfur crudes. The amount of the differential in any period is associated with the relative supply/demand balances for each crude type. In second-half 2017, the differential held generally steady in North America as robust refinery demand supported heavy crude values, while light sweet crude prices in the U.S. were supported by rising exports of domestic production. Outside of North America, differentials were steady to modestly wider amid well-supplied light sweet crude markets in the Atlantic Basin, while rising U.S. exports to Asia increased competitive pressure on Middle East exports to the region. Chevron has producing interests in heavy crude oil in California, Indonesia, the Partitioned Zone between Saudi Arabia and Kuwait, Venezuela and in certain fields in Angola, China and the United Kingdom sector of the North Sea. (See page 39 for the company’s average U.S. and international crude oil realizations.)
+In contrast to price movements in the global market for crude oil, price changes for natural gas in many regional markets are more closely aligned with supply-and-demand conditions in those markets. Fluctuations in the price of natural gas in the United States are closely associated with customer demand relative to the volumes produced and stored in North America. In the United States, prices at Henry Hub averaged $2.97 per thousand cubic feet (MCF) during 2017, compared with $2.46 during 2016. As of mid-February 2018, the Henry Hub spot price was $2.57 per MCF. 
+Outside the United States, price changes for natural gas depend on a wide range of supply, demand and regulatory circumstances. Chevron sells natural gas into the domestic pipeline market in most locations. In some locations, Chevron has invested in long-term projects to produce and liquefy natural gas for transport by tanker to other markets. The company's long-term contract prices for liquefied natural gas (LNG) are typically linked to crude oil prices. Most of the equity LNG offtake from the operated Australian LNG projects is committed under binding long-term contracts, with the remainder to be sold in the Asian spot LNG market.  The Asian spot market reflects the supply and demand for LNG in the Pacific Basin and is not directly linked to crude oil prices. International natural gas realizations averaged $4.62 per MCF during 2017, compared with $4.02 per MCF during 2016. (See page 39 for the company’s average natural gas realizations for the U.S. and international regions.)
+The company’s worldwide net oil-equivalent production in 2017 averaged 2.728 million barrels per day. About one-sixth of the company’s net oil-equivalent production in 2017 occurred in the OPEC-member countries of Angola, Nigeria and Venezuela. OPEC quotas had no effect on the company’s net crude oil production in 2017 or 2016. 
+The company estimates that net oil-equivalent production in 2018 will grow 4 to 7 percent compared to 2017, assuming a Brent crude oil price of $60 per barrel and excluding the impact of anticipated 2018 asset sales. This estimate is subject to many factors and uncertainties, including quotas or other actions that may be imposed by OPEC; price effects on entitlement volumes; changes in fiscal terms or restrictions on the scope of company operations; delays in construction, start-up or ramp-up of projects; fluctuations in demand for natural gas in various markets; weather conditions that may shut in production; civil unrest; changing geopolitics; delays in completion of maintenance turnarounds; greater-than-expected declines in production from mature fields; or other disruptions to operations. The outlook for future production levels is also affected by the size and number of economic investment opportunities and, for new, large-scale projects, the time lag between initial exploration and the beginning of production. Investments in upstream projects generally begin well in advance of the start of the associated crude oil and natural gas production.
+
+
+32
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+fs04rgb.jpg
+In the Partitioned Zone between Saudi Arabia and Kuwait, production was shut-in beginning in May 2015 as a result of difficulties in securing work and equipment permits. Net oil-equivalent production in the Partitioned Zone in 2014 was 81,000 barrels per day. During 2015, net oil-equivalent production averaged 28,000 barrels per day. As of early 2018, production remains shut in and the exact timing of a production restart is uncertain and dependent on dispute resolution between Saudi Arabia and Kuwait. The financial effects from the loss of production in 2017 were not significant and are not expected to be significant in 2018.
+Net proved reserves for consolidated companies and affiliated companies totaled 11.7 billion barrels of oil-equivalent at year-end 2017, an increase of 5 percent from year-end 2016. The reserve replacement ratio in 2017 was 155 percent. Refer to Table V beginning on page 95 for a tabulation of the company’s proved net oil and gas reserves by geographic area, at the beginning of 2015 and each year-end from 2015 through 2017, and an accompanying discussion of major changes to proved reserves by geographic area for the three-year period ending December 31, 2017.
+Refer to the “Results of Operations” section on pages 34 through 37 for additional discussion of the company’s upstream business.
+Downstream Earnings for the downstream segment are closely tied to margins on the refining, manufacturing and marketing of products that include gasoline, diesel, jet fuel, lubricants, fuel oil, fuel and lubricant additives, and petrochemicals. Industry margins are sometimes volatile and can be affected by the global and regional supply-and-demand balance for refined products and petrochemicals, and by changes in the price of crude oil, other refinery and petrochemical feedstocks, and natural gas. Industry margins can also be influenced by inventory levels, geopolitical events, costs of materials and services, refinery or chemical plant capacity utilization, maintenance programs, and disruptions at refineries or chemical plants resulting from unplanned outages due to severe weather, fires or other operational events.
+Other factors affecting profitability for downstream operations include the reliability and efficiency of the company’s refining, marketing and petrochemical assets, the effectiveness of its crude oil and product supply functions, and the volatility of tanker-charter rates for the company’s shipping operations, which are driven by the industry’s demand for crude oil and product tankers. Other factors beyond the company’s control include the general level of inflation and energy costs to operate the company’s refining, marketing and petrochemical assets.
+The company’s most significant marketing areas are the West Coast and Gulf Coast of the United States, Asia and southern Africa. Chevron operates or has significant ownership interests in refineries in each of these areas.
+Refer to the “Results of Operations” section on pages 34 through 37 for additional discussion of the company’s downstream operations.
+All Other consists of worldwide cash management and debt financing activities, corporate administrative functions, insurance operations, real estate activities and technology companies. 
+
+33
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+Operating Developments 
+Key operating developments and other events during 2017 and early 2018 included the following:
+Upstream 
+Angola Commenced production from the main production facility of the Mafumeira Sul Project. 
+Australia Achieved start-up of Train 3 at the Gorgon LNG Project and Train 1 at the Wheatstone LNG Project. 
+Canada Achieved start-up of the Hebron Project.
+Indonesia Completed the sale of the geothermal business.
+United States Announced significant crude oil discoveries at the Whale and Ballymore prospects in the Gulf of Mexico.
+Downstream 
+Canada Completed the sale of refining and marketing assets in British Columbia and Alberta.
+United States The company’s 50 percent-owned affiliate, Chevron Phillips Chemical Company LLC achieved start-up of two polyethylene units and reached mechanical completion of a new ethane cracker at its U.S. Gulf Coast Petrochemicals Project in Texas.
+Other 
+Common Stock Dividends The 2017 annual dividend was $4.32 per share, making 2017 the 30th consecutive year that the company increased its annual dividend payout. In January 2018, the company's Board of Directors approved a $0.04 per share increase in the quarterly dividend to $1.12 per share, payable in March 2018.
+Results of Operations 
+The following section presents the results of operations and variances on an after-tax basis for the company’s business segments – Upstream and Downstream – as well as for “All Other.” Earnings are also presented for the U.S. and international geographic areas of the Upstream and Downstream business segments. Refer to Note 15, beginning on page 67, for a discussion of the company’s “reportable segments.” This section should also be read in conjunction with the discussion in “Business Environment and Outlook” on pages 30 through 33.
+a10kcharts34.jpg
+U.S. Upstream 
+Millions of dollars
+2017
+
+ 
+ 
+2016
+
+ 
+2015
+
+Earnings
+$
+3,640
+
+ 
+ 
+$
+(2,054
+)
+ 
+$
+(4,055
+)
+U.S. upstream earnings were $3.64 billion in 2017, compared with a loss of $2.05 billion in 2016. The improvement in earnings reflected a benefit of $3.33 billion from U.S. tax reform, higher crude oil and natural gas realizations of $1.3 billion 
+
+34
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+and lower depreciation expenses of $650 million, primarily reflecting a decrease in impairments and other asset write-offs. Lower operating expenses of $140 million also contributed to the improvement.
+U.S. upstream operations incurred a loss of $2.05 billion in 2016, compared with a loss of $4.06 billion from 2015. The improvement was due to lower depreciation expense of $1.2 billion and lower exploration expense of $780 million primarily reflecting a decrease in impairments and project cancellations. Also contributing to the improvement were lower operating expenses of $600 million and lower tax items of $190 million. Partially offsetting these effects were lower crude oil and natural gas realizations of $920 million.
+The company’s average realization for U.S. crude oil and natural gas liquids in 2017 was $44.53 per barrel, compared with $35.00 in 2016 and $42.70 in 2015. The average natural gas realization was $2.10 per thousand cubic feet in 2017, compared with $1.59 in 2016 and $1.92 in 2015.
+Net oil-equivalent production in 2017 averaged 681,000 barrels per day, down 1 percent from 2016 and down 5 percent from 2015. Between 2017 and 2016, production increases from shale and tight properties in the Permian Basin in Texas and New Mexico and base business in the Gulf of Mexico were more than offset by the effect of asset sales of 59,000 barrels per day and normal field declines. Between 2016 and 2015, production increases from shale and tight properties in the Permian Basin in Texas and New Mexico, and base business were more than offset by the effect of asset sales and normal field declines.
+The net liquids component of oil-equivalent production for 2017 averaged 519,000 barrels per day, up 3 percent from 2016 and 4 percent from 2015. Net natural gas production averaged about 970 million cubic feet per day in 2017, down 13 percent from 2016 and 26 percent from 2015, primarily as a result of asset sales. Refer to the “Selected Operating Data” table on page 39 for a three-year comparison of production volumes in the United States. 
+
+International Upstream
+Millions of dollars
+2017
+
+ 
+ 
+2016
+
+ 
+2015
+
+Earnings*
+$
+4,510
+
+ 
+ 
+$
+(483
+)
+ 
+$
+2,094
+
+*Includes foreign currency effects:
+$
+(456
+)
+ 
+ 
+$
+122
+
+ 
+$
+725
+
+International upstream earnings were $4.51 billion in 2017, compared with a loss of $483 million in 2016. The increase in earnings was primarily due to higher crude oil realizations of $2.59 billion, higher natural gas sales volumes of $1.22 billion, higher gains on asset sales of $750 million, and lower operating expenses of $410 million. Foreign currency effects had an unfavorable impact on earnings of $578 million between periods. 
+International upstream incurred a loss of $483 million in 2016, compared with earnings of $2.09 billion in 2015. The decrease in earnings was primarily due to lower crude oil realizations of $1.89 billion, lower natural gas realizations of $600 million, lower gains on asset sales of $450 million and higher tax items of $330 million. Partially offsetting the decrease were lower exploration and operating expenses of $640 million and $520 million, respectively, and higher natural gas sales volumes of $330 million. Foreign currency effects had an unfavorable impact on earnings of $603 million between periods. 
+The company’s average realization for international crude oil and natural gas liquids in 2017 was $49.46 per barrel, compared with $38.61 in 2016 and $46.52 in 2015. The average natural gas realization was $4.62 per thousand cubic feet in 2017, compared with $4.02 and $4.53 in 2016 and 2015, respectively.
+International net oil-equivalent production was 2.05 million barrels per day in 2017, up 8 percent from 2016 and 2015. Between 2017 and 2016, production increases from major capital projects and lower planned maintenance-related downtime were partially offset by production entitlement effects in several locations and normal field declines. Between 2016 and 2015, production increases from major capital projects, base business, and shale and tight properties were largely offset by normal field declines, the Partitioned Zone shut-in, the impact of civil unrest in Nigeria and planned turnaround activity.
+The net liquids component of international oil-equivalent production was 1.20 million barrels per day in 2017, down 1 percent from 2016 and down 3 percent from 2015. International net natural gas production of 5.1 billion cubic feet per day in 2017 was up 23 percent from 2016 and 28 percent from 2015.
+Refer to the “Selected Operating Data” table, on page 39, for a three-year comparison of international production volumes. 
+
+35
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+U.S. Downstream 
+Millions of dollars
+2017
+
+ 
+ 
+2016
+
+ 
+2015
+
+Earnings
+$
+2,938
+
+ 
+ 
+$
+1,307
+
+ 
+$
+3,182
+
+U.S. downstream operations earned $2.94 billion in 2017, compared with $1.31 billion in 2016. The increase was primarily due to a $1.16 billion benefit from U.S. tax reform, higher margins on refined product sales of $380 million, lower operating expenses of $160 million, and the absence of an asset impairment of $110 million. Partially offsetting this increase were lower gains on asset sales of $90 million and lower earnings from the 50 percent-owned Chevron Phillips Chemicals Company LLC of $70 million, primarily reflecting the impacts from Hurricane Harvey.
+U.S. downstream operations earned $1.31 billion in 2016, compared with $3.18 billion in 2015. The decrease was due to lower margins on refined product sales of $1.45 billion, lower earnings from the 50 percent-owned Chevron Phillips Chemicals Company LLC of $400 million and an asset impairment of $110 million. Partially offsetting this decrease were lower operating expenses of $80 million and higher gains on asset sales of $110 million.
+Refined product sales of 1.20 million barrels per day in 2017 were down 1 percent, primarily due to divestment of Hawaii refining and marketing assets in fourth quarter 2016. Sales volumes of refined products were 1.21 million barrels per day in 2016, a decrease of 1 percent from 2015, mainly reflecting lower sales of diesel. U.S. branded gasoline sales of 528,000 barrels per day in 2017 decreased 1 percent from 2016 and increased 1 percent from 2015. 
+Refer to the “Selected Operating Data” table on page 39 for a three-year comparison of sales volumes of gasoline and other refined products and refinery input volumes.
+
+International Downstream 
+Millions of dollars
+2017
+
+ 
+ 
+2016
+
+ 
+2015
+
+Earnings*
+$
+2,276
+
+ 
+ 
+$
+2,128
+
+ 
+$
+4,419
+
+*Includes foreign currency effects:
+$
+(90
+)
+ 
+ 
+$
+(25
+)
+ 
+$
+47
+
+International downstream earned $2.28 billion in 2017, compared with $2.13 billion in 2016. The increase in earnings was primarily due to higher gains on asset sales of $360 million, partially offset by higher operating expenses of $140 million. Foreign currency effects had an unfavorable impact on earnings of $65 million between periods.
+International downstream earned $2.13 billion in 2016, compared with $4.42 billion in 2015. The decrease in earnings was primarily due to the absence of a $1.6 billion gain from the sale of the company's interest in Caltex Australia Limited in 2015, partially offset by 2016 asset sales gains of $420 million. Lower margins on refined product sales of $1.14 billion also contributed to the decline. Partially offsetting these decreases were lower operating expenses of $240 million. Foreign currency effects had an unfavorable impact on earnings of $72 million between periods.
+Total refined product sales of 1.49 million barrels per day in 2017 were up 2 percent from 2016, primarily due to higher diesel and jet fuel sales. Sales of 1.46 million barrels per day in 2016 were down 3 percent from 2015. Excluding the effects of the Caltex Australia Limited divestment, refined product sales were down 1 percent, primarily reflecting lower fuel oil sales. 
+Refer to the “Selected Operating Data” table, on page 39, for a three-year comparison of sales volumes of gasoline and other refined products and refinery input volumes. 
+
+All Other 
+Millions of dollars
+2017
+
+ 
+ 
+2016
+
+ 
+2015
+
+Net charges*
+$
+(4,169
+)
+ 
+ 
+$
+(1,395
+)
+ 
+$
+(1,053
+)
+*Includes foreign currency effects:
+$
+100
+
+ 
+ 
+$
+(39
+)
+ 
+$
+(3
+)
+All Other consists of worldwide cash management and debt financing activities, corporate administrative functions, insurance operations, real estate activities, and technology companies. 
+Net charges in 2017 increased $2.77 billion from 2016, mainly due to higher tax items, primarily reflecting a $2.47 billion expense from U.S. tax reform, higher interest expense and a reclamation related charge for a former mining asset, partially offset by lower employee expense. Foreign currency effects decreased net charges by $139 million between periods. Net 
+
+36
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+charges in 2016 increased $342 million from 2015, mainly due to higher corporate charges, interest expense and corporate tax items, partially offset by lower environmental reserve additions and lower charges related to reductions in corporate staffs.
+Consolidated Statement of Income 
+Comparative amounts for certain income statement categories are shown below:
+Millions of dollars
+2017
+
+ 
+ 
+2016
+
+ 
+2015
+
+Sales and other operating revenues
+$
+134,674
+
+ 
+ 
+$
+110,215
+
+ 
+$
+129,925
+
+Sales and other operating revenues increased in 2017 mainly due to higher refined product and crude oil prices, higher crude oil volumes, and higher natural gas volumes. The decrease between 2016 and 2015 was primarily due to lower refined product and crude oil prices, partially offset by higher crude oil volumes.
+Millions of dollars
+2017
+
+ 
+ 
+2016
+
+ 
+2015
+
+Income from equity affiliates
+$
+4,438
+
+ 
+ 
+$
+2,661
+
+ 
+$
+4,684
+
+Income from equity affiliates increased in 2017 from 2016 mainly due to higher upstream-related earnings from Tengizchevroil in Kazakhstan and Angola LNG. 
+Income from equity affiliates decreased in 2016 from 2015 primarily due to lower upstream-related earnings from Tengizchevroil in Kazakhstan and Petroboscan in Venezuela, and lower downstream-related earnings from CPChem and GS Caltex in South Korea.
+Refer to Note 16, beginning on page 70, for a discussion of Chevron’s investments in affiliated companies. 
+Millions of dollars
+2017
+
+ 
+ 
+2016
+
+ 
+2015
+
+Other income
+$
+2,610
+
+ 
+ 
+$
+1,596
+
+ 
+$
+3,868
+
+Other income of $2.6 billion in 2017 included net gains from asset sales of $2.2 billion before-tax. Other income in 2016 and 2015 included net gains from asset sales of $1.1 billion and $3.2 billion before-tax, respectively. Interest income was approximately $107 million in 2017, $145 million in 2016 and $119 million in 2015. Foreign currency effects decreased other income by $131 million in 2017, and $186 million in 2016 and increased other income $82 million in 2015. 
+Millions of dollars
+2017
+
+ 
+ 
+2016
+
+ 
+2015
+
+Purchased crude oil and products
+$
+75,765
+
+ 
+ 
+$
+59,321
+
+ 
+$
+69,751
+
+Crude oil and product purchases increased $16.4 billion in 2017 primarily due to higher crude oil and refined product prices, and higher refined product and crude oil volumes. The decrease between 2016 and 2015 of $10.4 billion was primarily due to lower crude oil and refined product prices, partially offset by an increase in crude oil volumes. 
+Millions of dollars
+2017
+
+ 
+ 
+2016
+
+ 
+2015
+
+Operating, selling, general and administrative expenses
+$
+23,885
+
+ 
+ 
+$
+24,952
+
+ 
+$
+27,477
+
+Operating, selling, general and administrative expenses decreased $1.1 billion between 2017 and 2016. The decrease included lower employee expenses of $690 million and non-operated joint venture expenses of $380 million. 
+Operating, selling, general and administrative expenses decreased $2.5 billion between 2016 and 2015. The decrease included lower employee expenses of $800 million, transportation expenses of $680 million, contract labor expenses of $370 million, materials and supplies expenses of $310 million, and fuel expenses of $310 million.
+Millions of dollars
+2017
+
+ 
+ 
+2016
+
+ 
+2015
+
+Exploration expense
+$
+864
+
+ 
+ 
+$
+1,033
+
+ 
+$
+3,340
+
+Exploration expenses in 2017 decreased from 2016 primarily due to lower charges for well write-offs. 
+Exploration expenses in 2016 decreased from 2015 primarily due to significantly higher 2015 charges for well write-offs largely related to project cancellations, and lower 2016 geological and geophysical expenses.
+
+
+37
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+Millions of dollars
+2017
+
+ 
+ 
+2016
+
+ 
+2015
+
+Depreciation, depletion and amortization
+$
+19,349
+
+ 
+ 
+$
+19,457
+
+ 
+$
+21,037
+
+Depreciation, depletion and amortization expenses decreased in 2017 from 2016 mainly due to lower impairments and lower depreciation rates for certain oil and gas producing properties, and the absence of a 2016 impairment of a downstream asset. Partially offsetting the decrease were higher production levels, accretion and write-offs for certain oil and gas producing fields, and a reclamation related charge for a former mining asset. 
+The decrease in 2016 from 2015 was primarily due to lower impairments of certain oil and gas producing fields of about $3.0 billion in 2016 compared with about $3.5 billion in 2015. Also contributing to the decrease were lower production levels and accretion expenses for certain oil and gas producing fields.
+Millions of dollars
+2017
+
+ 
+ 
+2016
+
+ 
+2015
+
+Taxes other than on income
+$
+12,331
+
+ 
+ 
+$
+11,668
+
+ 
+$
+12,030
+
+Taxes other than on income increased in 2017 from 2016 primarily due to higher duties, higher crude oil, refined product and natural gas sales, and higher production. Taxes other than on income decreased in 2016 from 2015 primarily due to lower refined product and crude oil prices, and the divestment of the Pakistan fuels business at the end of June 2015. 
+Millions of dollars
+2017
+
+ 
+ 
+2016
+
+ 
+2015
+
+Income tax (benefit) expense
+$
+(48
+)
+ 
+ 
+$
+(1,729
+)
+ 
+$
+132
+
+ 
+The decline in income tax benefit in 2017 of $1.68 billion is due to the increase in total income before tax for the company of $11.38 billion and the remeasurement impacts of U.S. tax reform. U.S. losses before tax decreased from a loss of $4.32 billion in 2016 to a loss of $441 million in 2017. This decrease in losses before tax was primarily driven by the effect of higher crude oil prices. The U.S. tax benefit increased by $650 million between year-over-year periods from $2.32 billion in 2016 to $2.97 billion in 2017. The U.S. tax benefit for 2017 included a $2.02 billion benefit from U.S. tax reform, which primarily reflected the remeasurement of U.S. deferred tax assets and liabilities, and a reduction of $1.37 billion as result of the impact of a decrease in losses before tax of $3.88 billion. International income before tax increased from $2.16 billion in 2016 to $9.66 billion in 2017. This $7.50 billion increase was primarily driven by the effect of higher crude oil prices and gains on asset sales primarily in Indonesia and Canada. The higher crude prices primarily drove the $2.34 billion increase in international income tax expense between year-over-year periods, from $588 million in 2016 to $2.93 billion in 2017. Refer also to the discussion of the effective income tax rate in Note 18 on page 75. 
+The decline in income tax expense in 2016 of $1.86 billion is consistent with the decline in total income before tax for the company of $7.00 billion. U.S. losses before tax increased from a loss of $2.88 billion in 2015 to a loss of $4.32 billion in 2016. This $1.44 billion increase in losses was primarily driven by the effect of lower crude oil prices. The increase in losses had a direct impact on the company’s U.S. income tax benefit, resulting in an increase of $624 million between year-over-year periods, from a tax benefit of $1.69 billion in 2015 to a tax benefit of $2.32 billion in 2016. International income before tax was reduced between calendar years from $7.72 billion in 2015 to $2.16 billion in 2016. This $5.56 billion decline was also primarily driven by the effect of lower crude oil prices. This effect drove the $1.24 billion reduction in international income tax expense between year-over-year periods, from $1.83 billion in 2015 to $588 million in 2016. Refer also to the discussion of the effective income tax rate in Note 18 on page 75.
+
+38
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+Selected Operating Data1,2 
+ 
+2017
+
+ 
+2016
+
+ 
+2015
+
+U.S. Upstream
+ 
+ 
+ 
+ 
+ 
+Net Crude Oil and Natural Gas Liquids Production (MBPD)
+519
+
+ 
+504
+
+ 
+501
+
+Net Natural Gas Production (MMCFPD)3
+970
+
+ 
+1,120
+
+ 
+1,310
+
+Net Oil-Equivalent Production (MBOEPD)
+681
+
+ 
+691
+
+ 
+720
+
+Sales of Natural Gas (MMCFPD)
+3,331
+
+ 
+3,317
+
+ 
+3,913
+
+Sales of Natural Gas Liquids (MBPD)
+30
+
+ 
+30
+
+ 
+26
+
+Revenues from Net Production
+ 
+ 
+ 
+ 
+
+Liquids ($/Bbl)
+$
+44.53
+
+ 
+$
+35.00
+
+ 
+$
+42.70
+
+Natural Gas ($/MCF)
+$
+2.10
+
+ 
+$
+1.59
+
+ 
+$
+1.92
+
+International Upstream
+ 
+ 
+ 
+ 
+ 
+Net Crude Oil and Natural Gas Liquids Production (MBPD)4
+1,204
+
+ 
+1,215
+
+ 
+1,243
+
+Net Natural Gas Production (MMCFPD)3
+5,062
+
+ 
+4,132
+
+ 
+3,959
+
+Net Oil-Equivalent Production (MBOEPD)4
+2,047
+
+ 
+1,903
+
+ 
+1,902
+
+Sales of Natural Gas (MMCFPD)
+5,081
+
+ 
+4,491
+
+ 
+4,299
+
+Sales of Natural Gas Liquids (MBPD)
+29
+
+ 
+24
+
+ 
+24
+
+Revenues from Liftings
+ 
+ 
+ 
+ 
+ 
+Liquids ($/Bbl)
+$
+49.46
+
+ 
+$
+38.61
+
+ 
+$
+46.52
+
+Natural Gas ($/MCF)
+$
+4.62
+
+ 
+$
+4.02
+
+ 
+$
+4.53
+
+Worldwide Upstream
+ 
+ 
+ 
+ 
+ 
+Net Oil-Equivalent Production (MBOEPD)4
+ 
+ 
+ 
+ 
+ 
+United States
+681
+
+ 
+691
+
+ 
+720
+
+International
+2,047
+
+ 
+1,903
+
+ 
+1,902
+
+Total
+2,728
+
+ 
+2,594
+
+ 
+2,622
+
+U.S. Downstream
+ 
+ 
+ 
+ 
+ 
+Gasoline Sales (MBPD)5
+625
+
+ 
+631
+
+ 
+621
+
+Other Refined Product Sales (MBPD)
+572
+
+ 
+582
+
+ 
+607
+
+Total Refined Product Sales (MBPD)
+1,197
+
+ 
+1,213
+
+ 
+1,228
+
+Sales of Natural Gas Liquids (MBPD)
+109
+
+ 
+115
+
+ 
+127
+
+Refinery Input (MBPD)6
+901
+
+ 
+900
+
+ 
+924
+
+International Downstream
+ 
+ 
+ 
+ 
+ 
+Gasoline Sales (MBPD)5
+365
+
+ 
+382
+
+ 
+389
+
+Other Refined Product Sales (MBPD)
+1,128
+
+ 
+1,080
+
+ 
+1,118
+
+Total Refined Product Sales (MBPD)7
+1,493
+
+ 
+1,462
+
+ 
+1,507
+
+Sales of Natural Gas Liquids (MBPD)
+64
+
+ 
+61
+
+ 
+65
+
+Refinery Input (MBPD)8
+760
+
+ 
+788
+
+ 
+778
+
+ 
+ 
+ 
+ 
+ 
+ 
+1 Includes company share of equity affiliates.
+2 MBPD – thousands of barrels per day; MMCFPD – millions of cubic feet per day; MBOEPD – thousands of barrels of oil-equivalents per day; Bbl – barrel; MCF - thousands of cubic feet. Oil-equivalent gas (OEG) conversion ratio is 6,000 cubic feet of natural gas = 1 barrel of crude oil.
+3    Includes natural gas consumed in operations (MMCFPD):
+      United States
+37
+
+ 
+54
+
+ 
+66
+
+      International
+528
+
+ 
+432
+
+ 
+430
+
+4    Includes net production of synthetic oil:
+ 
+ 
+ 
+ 
+ 
+Canada
+51
+
+ 
+50
+
+ 
+47
+
+Venezuela affiliate
+28
+
+ 
+28
+
+ 
+29
+
+5    Includes branded and unbranded gasoline.
+ 
+ 
+ 
+ 
+ 
+6    In November 2016, the company sold its interests in the Hawaii Refinery which included operable capacity of 54,000 barrels per day.
+7    Includes sales of affiliates (MBPD):
+366
+
+ 
+377
+
+ 
+420
+
+8    In 2017, the company sold the Burnaby Refinery in British Columbia, Canada, which had operable capacity of 55,000 barrels per day. In 2015, the company sold its interests in affiliates in Australia and New Zealand, which included operable refinery capacities of 55,000 and 12,000 barrels per day, respectively.
+
+
+
+39
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+Liquidity and Capital Resources 
+Sources and uses of cash 
+a10k40sourcesusesofcash2017r.jpg
+ Cash flow from operations increased $7.7 billion in 2017 primarily due to higher crude oil prices. The company also continued to reduce cash outlays and increase asset sales. Progress on these actions during 2017 included:
+•
+Reducing cash capital expenditures to $13.4 billion, a 26 percent decrease compared to 2016,
+•
+Reducing operating and administrative expenses by $1.1 billion, a 4 percent decrease compared to 2016, and
+•
+Realizing net proceeds from asset sales of $5.2 billion during 2017.
+The strength of the company’s balance sheet enabled it to fund any timing differences throughout the year between cash inflows and outflows. 
+Cash, Cash Equivalents and Marketable Securities Total balances were $4.8 billion and $7.0 billion at December 31, 2017 and 2016, respectively. Cash provided by operating activities in 2017 was $20.5 billion, compared with $12.8 billion in 2016 and $19.5 billion in 2015, reflecting higher crude oil prices. Cash provided by operating activities was net of contributions to employee pension plans of approximately $1.0 billion in 2017 and $0.9 billion in both 2016 and 2015. Cash provided by investing activities included proceeds and deposits related to asset sales of $5.2 billion in 2017, $2.8 billion in 2016, and $5.7 billion in 2015.
+Restricted cash of $1.1 billion and $1.4 billion at December 31, 2017 and 2016, respectively, was held in cash and short-term marketable securities and recorded as “Deferred charges and other assets” on the Consolidated Balance Sheet. These amounts are generally associated with upstream abandonment activities, tax payments, funds held in escrow for tax-deferred exchanges and refundable deposits related to pending asset sales. 
+Dividends Dividends paid to common stockholders were $8.1 billion in 2017, $8.0 billion in 2016 and $8.0 billion in 2015. 
+Debt and Capital Lease Obligations Total debt and capital lease obligations were $38.8 billion at December 31, 2017, down from $46.1 billion at year-end 2016. 
+The $7.3 billion decrease in total debt and capital lease obligations during 2017 was primarily due to a decrease in short-term obligations reflecting higher crude oil prices. The company completed a bond issuance of $4.0 billion in first quarter 2017 and repaid long-term notes totaling $6.2 billion that matured in February, November and December 2017. The company’s debt and capital lease obligations due within one year, consisting primarily of commercial paper, redeemable long-term obligations and the current portion of long-term debt, totaled $15.2 billion at December 31, 2017, compared with $19.8 billion at year-end 2016. Of these amounts, $10.0 billion and $9.0 billion were reclassified to long-term debt at the end of 2017 and 2016, respectively.
+
+
+40
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+ At year-end 2017, settlement of these obligations was not expected to require the use of working capital in 2018, as the company had the intent and the ability, as evidenced by committed credit facilities, to refinance them on a long-term basis. 
+Chevron has an automatic shelf registration statement that expires in August 2018 for an unspecified amount of nonconvertible debt securities issued or guaranteed by the company.
+fs12rgb.jpg
+The major debt rating agencies routinely evaluate the company’s debt, and the company’s cost of borrowing can increase or decrease depending on these debt ratings. The company has outstanding public bonds issued by Chevron Corporation and Texaco Capital Inc. All of these securities are the obligations of, or guaranteed by, Chevron Corporation and are rated AA- by Standard and Poor’s Corporation and Aa2 by Moody’s Investors Service. The company’s U.S. commercial paper is rated A-1+ by Standard and Poor’s and P-1 by Moody’s. All of these ratings denote high-quality, investment-grade securities.
+The company’s future debt level is dependent primarily on results of operations, the capital program and cash that may be generated from asset dispositions. Based on its high-quality debt ratings, the company believes that it has substantial borrowing capacity to meet unanticipated cash requirements. During extended periods of low prices for crude oil and natural gas and narrow margins for refined products and commodity chemicals, the company can also modify capital spending plans to provide flexibility to continue paying the common stock dividend and also remain committed to retaining the company’s high-quality debt ratings.
+Committed Credit Facilities Information related to committed credit facilities is included in Note 19, Short-Term Debt, on page 78.
+Common Stock Repurchase Program In July 2010, the Board of Directors approved an ongoing share repurchase program with no set term or monetary limits. The company did not acquire any shares under the program in 2017 or 2016. From the inception of the program through 2014, the company had purchased 180.9 million shares for $20.0 billion.
+Capital and Exploratory Expenditures 
+Capital and exploratory expenditures by business segment for 2017, 2016 and 2015 are as follows:
+ 
+2017
+ 
+ 
+ 
+2016
+ 
+ 
+ 
+2015
+ 
+Millions of dollars
+U.S.
+
+Int’l.
+
+Total
+
+ 
+ 
+U.S.
+
+Int’l.
+
+Total
+
+ 
+ 
+U.S.
+
+Int’l.
+
+Total
+
+Upstream
+$
+5,145
+
+$
+11,243
+
+$
+16,388
+
+ 
+ 
+$
+4,713
+
+$
+15,403
+
+$
+20,116
+
+ 
+ 
+$
+7,582
+
+$
+23,535
+
+$
+31,117
+
+Downstream
+1,656
+
+534
+
+2,190
+
+ 
+ 
+1,545
+
+527
+
+2,072
+
+ 
+ 
+1,923
+
+513
+
+2,436
+
+All Other
+239
+
+4
+
+243
+
+ 
+ 
+235
+
+5
+
+240
+
+ 
+ 
+418
+
+8
+
+426
+
+Total
+$
+7,040
+
+$
+11,781
+
+$
+18,821
+
+ 
+ 
+$
+6,493
+
+$
+15,935
+
+$
+22,428
+
+ 
+ 
+$
+9,923
+
+$
+24,056
+
+$
+33,979
+
+Total, Excluding Equity in Affiliates
+$
+6,295
+
+$
+7,783
+
+$
+14,078
+
+ 
+ 
+$
+5,456
+
+$
+13,202
+
+$
+18,658
+
+ 
+ 
+$
+8,579
+
+$
+22,003
+
+$
+30,582
+
+
+41
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+Total expenditures for 2017 were $18.8 billion, including $4.7 billion for the company’s share of equity-affiliate expenditures, which did not require cash outlays by the company. In 2016 and 2015, expenditures were $22.4 billion and $34.0 billion, respectively, including the company’s share of affiliates’ expenditures of $3.8 billion and $3.4 billion, respectively. 
+Of the $18.8 billion of expenditures in 2017, 87 percent, or $16.4 billion, related to upstream activities. Approximately 90 percent was expended for upstream operations in 2016 and 92 percent in 2015. International upstream accounted for 69 percent of the worldwide upstream investment in 2017, 77 percent in 2016 and 76 percent in 2015. 
+The company estimates that 2018 capital and exploratory expenditures will be $18.3 billion, including $5.5 billion of spending by affiliates. This planned reduction, compared to 2017 expenditures, reflects project completions, improved efficiencies, and investment high-grading, including the full funding of the company's advantaged Permian Basin position. Approximately 86 percent of the total, or $15.8 billion, is budgeted for exploration and production activities. Approximately $8.7 billion of planned upstream capital spending relates to base producing assets, including $3.3 billion for the Permian and $1.0 billion for other shale and tight rock investments. Approximately $5.5 billion of the upstream program is planned for major capital projects underway, including $3.7 billion associated with the Future Growth and Wellhead Pressure Management Project at the Tengiz field in Kazakhstan. Global exploration funding is expected to be about $1.1 billion. Remaining upstream spend is budgeted for early stage projects supporting potential future developments. The company will continue to monitor crude oil market conditions and expects to further restrict capital outlays should oil price conditions deteriorate.
+Worldwide downstream spending in 2018 is estimated to be $2.2 billion, with $1.4 billion estimated for projects in the United States. 
+Investments in technology companies and other corporate businesses in 2018 are budgeted at $0.3 billion. 
+Noncontrolling Interests The company had noncontrolling interests of $1.2 billion at December 31, 2017 and December 31, 2016. Distributions to noncontrolling interests totaled $78 million and $63 million in 2017 and 2016, respectively. 
+Pension Obligations Information related to pension plan contributions is included on page 82 in Note 23, Employee Benefit Plans, under the heading “Cash Contributions and Benefit Payments.” 
+Financial Ratios 
+ 
+At December 31
+ 
+ 
+2017
+
+ 
+ 
+ 
+2016
+
+ 
+ 
+2015
+ 
+Current Ratio
+1.0
+
+ 
+ 
+ 
+0.9
+
+ 
+ 
+1.3
+ 
+Interest Coverage Ratio
+10.7
+
+ 
+ 
+ 
+(2.6
+)
+ 
+ 
+9.9
+ 
+Debt Ratio
+20.7
+
+%
+ 
+ 
+24.1
+
+%
+ 
+20.2
+%
+Current Ratio Current assets divided by current liabilities, which indicates the company’s ability to repay its short-term liabilities with short-term assets. The current ratio in all periods was adversely affected by the fact that Chevron’s inventories are valued on a last-in, first-out basis. At year-end 2017, the book value of inventory was lower than replacement costs, based on average acquisition costs during the year, by approximately $3.9 billion. 
+Interest Coverage Ratio Income before income tax expense, plus interest and debt expense and amortization of capitalized interest, less net income attributable to noncontrolling interests, divided by before-tax interest costs. This ratio indicates the company’s ability to pay interest on outstanding debt. The company’s interest coverage ratio in 2017 was higher than 2016 and 2015 due to higher income. 
+Debt Ratio Total debt as a percentage of total debt plus Chevron Corporation Stockholders' Equity, which indicates the company’s leverage. The company's debt ratio was 20.7 percent at year-end 2017, compared with 24.1 percent and 20.2 percent at year-end 2016 and 2015, respectively.
+Off-Balance-Sheet Arrangements, Contractual Obligations, Guarantees and Other Contingencies 
+Long-Term Unconditional Purchase Obligations and Commitments, Including Throughput and Take-or-Pay Agreements The company and its subsidiaries have certain contingent liabilities with respect to long-term unconditional purchase obligations and commitments, including throughput and take-or-pay agreements, some of which relate to suppliers’ financing arrangements. The agreements typically provide goods and services, such as pipeline and storage capacity, drilling rigs, utilities, and petroleum products, to be used or sold in the ordinary course of the company’s business. The aggregate approximate amounts of required payments under these various commitments are: 2018 – $1.4 billion; 2019 – $1.4 billion; 
+
+42
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+2020 – $1.0 billion; 2021 – $0.9 billion; 2022 – $0.5 billion; 2023 and after – $2.6 billion. A portion of these commitments may ultimately be shared with project partners. Total payments under the agreements were approximately $1.3 billion in 2017, $1.3 billion in 2016 and $1.9 billion in 2015. 
+The following table summarizes the company’s significant contractual obligations: 
+ 
+Payments Due by Period
+ 
+Millions of dollars
+Total1
+
+ 
+2018
+
+ 
+2019-2020
+
+ 
+2021-2022
+
+ 
+After 2022
+
+On Balance Sheet:2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Short-Term Debt3
+$
+5,194
+
+ 
+$
+5,194
+
+ 
+$
+—
+
+ 
+$
+—
+
+ 
+$
+—
+
+Long-Term Debt3
+33,512
+
+ 
+—
+
+ 
+20,054
+
+ 
+6,104
+
+ 
+7,354
+
+Noncancelable Capital Lease Obligations
+226
+
+ 
+26
+
+ 
+35
+
+ 
+23
+
+ 
+142
+
+Interest
+4,078
+
+ 
+786
+
+ 
+1,173
+
+ 
+850
+
+ 
+1,269
+
+Off Balance Sheet:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Noncancelable Operating Lease Obligations
+2,895
+
+ 
+693
+
+ 
+1,102
+
+ 
+562
+
+ 
+538
+
+Throughput and Take-or-Pay Agreements4
+5,277
+
+ 
+655
+
+ 
+1,285
+
+ 
+866
+
+ 
+2,471
+
+Other Unconditional Purchase Obligations4
+2,560
+
+ 
+747
+
+ 
+1,109
+
+ 
+609
+
+ 
+95
+
+1 
+Excludes contributions for pensions and other postretirement benefit plans. Information on employee benefit plans is contained in Note 23 beginning on page 82.
+2 
+Does not include amounts related to the company’s income tax liabilities associated with uncertain tax positions. The company is unable to make reasonable estimates of the periods in which such liabilities may become payable. The company does not expect settlement of such liabilities to have a material effect on its consolidated financial position or liquidity in any single period.
+3 
+$10.0 billion of short-term debt that the company expects to refinance is included in long-term debt. The repayment schedule above reflects the projected repayment of the entire amounts in the 2019–2020 period. The amounts represent only the principal balance.
+4 
+Does not include commodity purchase obligations that are not fixed or determinable. These obligations are generally monetized in a relatively short period of time through sales transactions or similar agreements with third parties. Examples include obligations to purchase LNG, regasified natural gas and refinery products at indexed prices.
+
+Direct Guarantees
+ 
+Commitment Expiration by Period
+ 
+Millions of dollars
+Total
+
+ 
+2018
+
+ 
+2019-2020
+
+ 
+2021-2022
+
+ 
+After 2022
+
+Guarantee of nonconsolidated affiliate or joint-venture obligations
+$
+1,082
+
+ 
+$
+114
+
+ 
+$
+577
+
+ 
+$
+214
+
+ 
+$
+177
+
+The company has two guarantees of equity affiliates totaling $1.08 billion. Of this amount, $712 million is associated with a financing arrangement with an equity affiliate. Over the approximate 4-year remaining term of this guarantee, the maximum amount will be reduced as payments are made by the affiliate. The remaining amount of $370 million is associated with certain payments under a terminal use agreement entered into by an equity affiliate. Over the approximate 10-year remaining term of this guarantee, the maximum guarantee amount will be reduced as certain fees are paid by the affiliate. There are numerous cross-indemnity agreements with the affiliate and the other partners to permit recovery of amounts paid under the guarantee. Chevron has recorded no liability for either guarantee. 
+Indemnifications Information related to indemnifications is included on page 88 in Note 25, Other Contingencies and Commitments, under the heading “Indemnifications.” 
+Financial and Derivative Instrument Market Risk 
+The market risk associated with the company’s portfolio of financial and derivative instruments is discussed below. The estimates of financial exposure to market risk do not represent the company’s projection of future market changes. The actual impact of future market changes could differ materially due to factors discussed elsewhere in this report, including those set forth under the heading “Risk Factors” in Part I, Item 1A, of the company’s 2017 Annual Report on Form 10-K. 
+Derivative Commodity Instruments Chevron is exposed to market risks related to the price volatility of crude oil, refined products, natural gas, natural gas liquids, liquefied natural gas and refinery feedstocks. The company uses derivative commodity instruments to manage these exposures on a portion of its activity, including firm commitments and anticipated transactions for the purchase, sale and storage of crude oil, refined products, natural gas, natural gas liquids and feedstock for company refineries. The company also uses derivative commodity instruments for limited trading purposes. The results of these activities were not material to the company’s financial position, results of operations or cash flows in 2017. 
+The company’s market exposure positions are monitored on a daily basis by an internal Risk Control group in accordance with the company’s risk management policies. The company's risk management practices and its compliance with policies are reviewed by the Audit Committee of the company’s Board of Directors. 
+
+43
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+Derivatives beyond those designated as normal purchase and normal sale contracts are recorded at fair value on the Consolidated Balance Sheet with resulting gains and losses reflected in income. Fair values are derived principally from published market quotes and other independent third-party quotes. The change in fair value of Chevron’s derivative commodity instruments in 2017 was not material to the company's results of operations. 
+The company uses the Monte Carlo simulation method as its Value-at-Risk (VaR) model to estimate the maximum potential loss in fair value, at the 95% confidence level with a one-day holding period, from the effect of adverse changes in market conditions on derivative commodity instruments held or issued. Based on these inputs, the VaR for the company's primary risk exposures in the area of derivative commodity instruments at December 31, 2017 and 2016 was not material to the company's cash flows or results of operations. 
+Foreign Currency The company may enter into foreign currency derivative contracts to manage some of its foreign currency exposures. These exposures include revenue and anticipated purchase transactions, including foreign currency capital expenditures and lease commitments. The foreign currency derivative contracts, if any, are recorded at fair value on the balance sheet with resulting gains and losses reflected in income. There were no open foreign currency derivative contracts at December 31, 2017.
+Interest Rates The company may enter into interest rate swaps from time to time as part of its overall strategy to manage the interest rate risk on its debt. Interest rate swaps, if any, are recorded at fair value on the balance sheet with resulting gains and losses reflected in income. At year-end 2017, the company had no interest rate swaps. 
+Transactions With Related Parties 
+Chevron enters into a number of business arrangements with related parties, principally its equity affiliates. These arrangements include long-term supply or offtake agreements and long-term purchase agreements. Refer to “Other Information” on page 71, in Note 16, Investments and Advances, for further discussion. Management believes these agreements have been negotiated on terms consistent with those that would have been negotiated with an unrelated party. 
+Litigation and Other Contingencies 
+MTBE Information related to methyl tertiary butyl ether (MTBE) matters is included on page 71 in Note 17 under the heading “MTBE.” 
+Ecuador Information related to Ecuador matters is included in Note 17 under the heading “Ecuador,” beginning on page 71. 
+Environmental The following table displays the annual changes to the company’s before-tax environmental remediation reserves, including those for federal Superfund sites and analogous sites under state laws. 
+Millions of dollars
+2017
+
+ 
+2016
+
+ 
+2015
+
+Balance at January 1
+$
+1,467
+
+ 
+$
+1,578
+
+ 
+$
+1,683
+
+Net Additions
+323
+
+ 
+260
+
+ 
+365
+
+Expenditures
+(361
+)
+ 
+(371
+)
+ 
+(470
+)
+Balance at December 31
+$
+1,429
+
+ 
+$
+1,467
+
+ 
+$
+1,578
+
+The company records asset retirement obligations when there is a legal obligation associated with the retirement of long-lived assets and the liability can be reasonably estimated. These asset retirement obligations include costs related to environmental issues. The liability balance of approximately $14.2 billion for asset retirement obligations at year-end 2017 related primarily to upstream properties. 
+For the company’s other ongoing operating assets, such as refineries and chemicals facilities, no provisions are made for exit or cleanup costs that may be required when such assets reach the end of their useful lives unless a decision to sell or otherwise abandon the facility has been made, as the indeterminate settlement dates for the asset retirements prevent estimation of the fair value of the asset retirement obligation. 
+Refer to the discussion below for additional information on environmental matters and their impact on Chevron, and on the company's 2017 environmental expenditures. Refer to Note 25 on page 88 for additional discussion of environmental remediation provisions and year-end reserves. Refer also to Note 26 on page 89 for additional discussion of the company's asset retirement obligations.
+
+44
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+Suspended Wells Information related to suspended wells is included in Note 21, Accounting for Suspended Exploratory Wells, beginning on page 80.
+Income Taxes Information related to income tax contingencies is included on pages 75 through 78 in Note 18 and page 87 in Note 25 under the heading “Income Taxes.”
+Other Contingencies Information related to other contingencies is included on page 89 in Note 25 to the Consolidated Financial Statements under the heading “Other Contingencies.” 
+Environmental Matters 
+The company is subject to various international, federal, state and local environmental, health and safety laws, regulations and market-based programs. These laws, regulations and programs continue to evolve and are expected to increase in both number and complexity over time and govern not only the manner in which the company conducts its operations, but also the products it sells. For example, international agreements and national, regional, and state legislation (e.g., California AB32, SB32 and AB398) and regulatory measures that aim to limit or reduce greenhouse gas (GHG) emissions are currently in various stages of implementation. Consideration of GHG issues and the responses to those issues through international agreements and national, regional or state legislation or regulations are integrated into the company’s strategy and planning, capital investment reviews and risk management tools and processes, where applicable. They are also factored into the company’s long-range supply, demand and energy price forecasts. These forecasts reflect long-range effects from renewable fuel penetration, energy efficiency standards, climate-related policy actions, and demand response to oil and natural gas prices. In addition, legislation and regulations intended to address hydraulic fracturing also continue to evolve at the national, state and local levels. Refer to “Risk Factors” in Part I, Item 1A, on pages 19 through 22 for a discussion of some of the inherent risks of increasingly restrictive environmental and other regulation that could materially impact the company’s results of operations or financial condition. 
+Most of the costs of complying with existing laws and regulations pertaining to company operations and products are embedded in the normal costs of doing business. However, it is not possible to predict with certainty the amount of additional investments in new or existing technology or facilities or the amounts of increased operating costs to be incurred in the future to: prevent, control, reduce or eliminate releases of hazardous materials or other pollutants into the environment; remediate and restore areas damaged by prior releases of hazardous materials; or comply with new environmental laws or regulations. Although these costs may be significant to the results of operations in any single period, the company does not presently expect them to have a material adverse effect on the company's liquidity or financial position.
+Accidental leaks and spills requiring cleanup may occur in the ordinary course of business. The company may incur expenses for corrective actions at various owned and previously owned facilities and at third-party-owned waste disposal sites used by the company. An obligation may arise when operations are closed or sold or at non-Chevron sites where company products have been handled or disposed of. Most of the expenditures to fulfill these obligations relate to facilities and sites where past operations followed practices and procedures that were considered acceptable at the time but now require investigative or remedial work or both to meet current standards. 
+Using definitions and guidelines established by the American Petroleum Institute, Chevron estimated its worldwide environmental spending in 2017 at approximately $2.0 billion for its consolidated companies. Included in these expenditures were approximately $0.5 billion of environmental capital expenditures and $1.5 billion of costs associated with the prevention, control, abatement or elimination of hazardous substances and pollutants from operating, closed or divested sites, and the abandonment and restoration of sites.
+For 2018, total worldwide environmental capital expenditures are estimated at $0.5 billion. These capital costs are in addition to the ongoing costs of complying with environmental regulations and the costs to remediate previously contaminated sites.
+Critical Accounting Estimates and Assumptions 
+Management makes many estimates and assumptions in the application of generally accepted accounting principles (GAAP) that may have a material impact on the company’s consolidated financial statements and related disclosures and on the comparability of such information over different reporting periods. Such estimates and assumptions affect reported amounts of assets, liabilities, revenues and expenses, as well as disclosures of contingent assets and liabilities. Estimates and assumptions are based on management’s experience and other information available prior to the issuance of the financial statements. Materially different results can occur as circumstances change and additional information becomes known. 
+The discussion in this section of “critical” accounting estimates and assumptions is according to the disclosure guidelines of the Securities and Exchange Commission (SEC), wherein: 
+
+45
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+1.
+the nature of the estimates and assumptions is material due to the levels of subjectivity and judgment necessary to account for highly uncertain matters, or the susceptibility of such matters to change; and
+2.
+the impact of the estimates and assumptions on the company’s financial condition or operating performance is material.
+The development and selection of accounting estimates and assumptions, including those deemed “critical,” and the associated disclosures in this discussion have been discussed by management with the Audit Committee of the Board of Directors. The areas of accounting and the associated “critical” estimates and assumptions made by the company are as follows: 
+Oil and Gas Reserves Crude oil and natural gas reserves are estimates of future production that impact certain asset and expense accounts included in the Consolidated Financial Statements. Proved reserves are the estimated quantities of oil and gas that geoscience and engineering data demonstrate with reasonable certainty to be economically producible in the future under existing economic conditions, operating methods and government regulations. Proved reserves include both developed and undeveloped volumes. Proved developed reserves represent volumes expected to be recovered through existing wells with existing equipment and operating methods. Proved undeveloped reserves are volumes expected to be recovered from new wells on undrilled proved acreage, or from existing wells where a relatively major expenditure is required for recompletion. Variables impacting Chevron's estimated volumes of crude oil and natural gas reserves include field performance, available technology, commodity prices, and development and production costs. 
+The estimates of crude oil and natural gas reserves are important to the timing of expense recognition for costs incurred and to the valuation of certain oil and gas producing assets. Impacts of oil and gas reserves on Chevron's Consolidated Financial Statements, using the successful efforts method of accounting, include the following:
+1.
+Amortization - Capitalized exploratory drilling and development costs are depreciated on a unit-of-production (UOP) basis using proved developed reserves. Acquisition costs of proved properties are amortized on a UOP basis using total proved reserves. During 2017, Chevron's UOP Depreciation, Depletion and Amortization (DD&A) for oil and gas properties was $14.8 billion, and proved developed reserves at the beginning of 2017 were 6.2 billion barrels for consolidated companies. If the estimates of proved reserves used in the UOP calculations for consolidated operations had been lower by 5 percent across all oil and gas properties, UOP DD&A in 2017 would have increased by approximately $800 million.
+2.
+Impairment - Oil and gas reserves are used in assessing oil and gas producing properties for impairment. A significant reduction in the estimated reserves of a property would trigger an impairment review. Proved reserves (and, in some cases, a portion of unproved resources) are used to estimate future production volumes in the cash flow model. For a further discussion of estimates and assumptions used in impairment assessments, see Impairment of Properties, Plant and Equipment and Investments in Affiliates below.
+Refer to Table V, “Reserve Quantity Information,” beginning on page 95, for the changes in proved reserve estimates for the three years ended December 31, 2017, and to Table VII, “Changes in the Standardized Measure of Discounted Future Net Cash Flows From Proved Reserves” on page 101 for estimates of proved reserve values for each of the three years ended December 31, 2017. 
+This Oil and Gas Reserves commentary should be read in conjunction with the Properties, Plant and Equipment section of Note 1, beginning on page 57, which includes a description of the “successful efforts” method of accounting for oil and gas exploration and production activities.
+Impairment of Properties, Plant and Equipment and Investments in Affiliates The company assesses its properties, plant and equipment (PP&E) for possible impairment whenever events or changes in circumstances indicate that the carrying value of the assets may not be recoverable. If the carrying value of an asset exceeds the future undiscounted cash flows expected from the asset, an impairment charge is recorded for the excess of carrying value of the asset over its estimated fair value. 
+Determination as to whether and how much an asset is impaired involves management estimates on highly uncertain matters, such as future commodity prices, the effects of inflation and technology improvements on operating expenses, production profiles, and the outlook for global or regional market supply-and-demand conditions for crude oil, natural gas, commodity chemicals and refined products. However, the impairment reviews and calculations are based on assumptions that are generally consistent with the company’s business plans and long-term investment decisions. Refer also to the discussion of impairments of properties, plant and equipment in Note 24 on page 87 and to the section on Properties, Plant and Equipment in Note 1, "Summary of Significant Accounting Policies," beginning on page 57.
+The company routinely performs impairment reviews when triggering events arise to determine whether any write-down in the carrying value of an asset or asset group is required. For example, when significant downward revisions to crude oil and natural 
+
+46
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+gas reserves are made for any single field or concession, an impairment review is performed to determine if the carrying value of the asset remains recoverable. Similarly, a significant downward revision in the company's crude oil or natural gas price outlook would trigger impairment reviews for impacted upstream assets. In addition, impairments could occur due to changes in national, state or local environmental regulations or laws, including those designed to stop or impede the development or production of oil and gas. Also, if the expectation of sale of a particular asset or asset group in any period has been deemed more likely than not, an impairment review is performed, and if the estimated net proceeds exceed the carrying value of the asset or asset group, no impairment charge is required. Such calculations are reviewed each period until the asset or asset group is disposed of. Assets that are not impaired on a held-and-used basis could possibly become impaired if a decision is made to sell such assets. That is, the assets would be impaired if they are classified as held-for-sale and the estimated proceeds from the sale, less costs to sell, are less than the assets’ associated carrying values.
+Investments in common stock of affiliates that are accounted for under the equity method, as well as investments in other securities of these equity investees, are reviewed for impairment when the fair value of the investment falls below the company’s carrying value. When this occurs, a determination must be made as to whether this loss is other-than-temporary, in which case the investment is impaired. Because of the number of differing assumptions potentially affecting whether an investment is impaired in any period or the amount of the impairment, a sensitivity analysis is not practicable. 
+No individually material impairments of PP&E or Investments were recorded for the year 2017. The company reported impairments for certain oil and gas properties during 2016 due to reservoir performance and lower crude oil prices. The company reported impairments for certain oil and gas properties during 2015 primarily as a result of downward revisions in the company's longer-term crude oil price outlook. The impairments for the years 2016 and 2015 were primarily in Brazil and the United States. A sensitivity analysis of the impact on earnings for these periods if other assumptions had been used in impairment reviews and impairment calculations is not practicable, given the broad range of the company’s PP&E and the number of assumptions involved in the estimates. That is, favorable changes to some assumptions might have avoided the need to impair any assets in these periods, whereas unfavorable changes might have caused an additional unknown number of other assets to become impaired, or resulted in larger impacts on impaired assets. 
+Asset Retirement Obligations In the determination of fair value for an asset retirement obligation (ARO), the company uses various assumptions and judgments, including such factors as the existence of a legal obligation, estimated amounts and timing of settlements, discount and inflation rates, and the expected impact of advances in technology and process improvements. A sensitivity analysis of the ARO impact on earnings for 2017 is not practicable, given the broad range of the company's long-lived assets and the number of assumptions involved in the estimates. That is, favorable changes to some assumptions would have reduced estimated future obligations, thereby lowering accretion expense and amortization costs, whereas unfavorable changes would have the opposite effect. Refer to Note 26 on page 89 for additional discussions on asset retirement obligations.
+Pension and Other Postretirement Benefit Plans Note 23, beginning on page 82, includes information on the funded status of the company’s pension and other postretirement benefit (OPEB) plans reflected on the Consolidated Balance Sheet; the components of pension and OPEB expense reflected on the Consolidated Statement of Income; and the related underlying assumptions.
+The determination of pension plan expense and obligations is based on a number of actuarial assumptions. Two critical assumptions are the expected long-term rate of return on plan assets and the discount rate applied to pension plan obligations. Critical assumptions in determining expense and obligations for OPEB plans, which provide for certain health care and life insurance benefits for qualifying retired employees and which are not funded, are the discount rate and the assumed health care cost-trend rates. Information related to the company’s processes to develop these assumptions is included on page 84 in Note 23 under the relevant headings. Actual rates may vary significantly from estimates because of unanticipated changes in the world's financial markets.
+For 2017, the company used an expected long-term rate of return of 6.75 percent and a discount rate for service costs of 4.2 percent and a discount rate for interest cost of 3.0 percent for U.S. pension plans. The actual return for 2017 was 15.7 percent. For the 10 years ending December 31, 2017, actual asset returns averaged 5.2 percent for the plan. Additionally, with the exception of three years within this 10-year period, actual asset returns for this plan equaled or exceeded 6.75 percent during each year.
+Total pension expense for 2017 was $1.2 billion. An increase in the expected long-term return on plan assets or the discount rate would reduce pension plan expense, and vice versa. As an indication of the sensitivity of pension expense to the long-term rate of return assumption, a 1 percent increase in this assumption for the company’s primary U.S. pension plan, which accounted for about 61 percent of companywide pension expense, would have reduced total pension plan expense for 2017 
+
+47
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+by approximately $79 million. A 1 percent increase in the discount rates for this same plan would have reduced pension expense for 2017 by approximately $305 million. 
+The aggregate funded status recognized at December 31, 2017, was a net liability of approximately $4.4 billion. An increase in the discount rate would decrease the pension obligation, thus changing the funded status of a plan. At December 31, 2017, the company used a discount rate of 3.5 percent to measure the obligations for the U.S. pension plans. As an indication of the sensitivity of pension liabilities to the discount rate assumption, a 0.25 percent increase in the discount rate applied to the company’s primary U.S. pension plan, which accounted for about 62 percent of the companywide pension obligation, would have reduced the plan obligation by approximately $478 million, and would have decreased the plan’s underfunded status from approximately $2.0 billion to $1.5 billion. 
+For the company’s OPEB plans, expense for 2017 was $94 million, and the total liability, all unfunded at the end of 2017, was $2.8 billion. For the main U.S. OPEB plan, the company used a discount rate for service cost of 4.6 percent and a discount rate for interest cost of 3.4 percent to measure expense in 2017, and a 3.6 percent discount rate to measure the benefit obligations at December 31, 2017. Discount rate changes, similar to those used in the pension sensitivity analysis, resulted in an immaterial impact on 2017 OPEB expense and OPEB liabilities at the end of 2017. For information on the sensitivity of the health care cost-trend rate, refer to page 84 in Note 23 under the heading “Other Benefit Assumptions.” 
+Differences between the various assumptions used to determine expense and the funded status of each plan and actual experience are included in actuarial gain/loss. Refer to page 84 in Note 23 for a description of the method used to amortize the $5.5 billion of before-tax actuarial losses recorded by the company as of December 31, 2017, and an estimate of the costs to be recognized in expense during 2018. In addition, information related to company contributions is included on page 86 in Note 23 under the heading “Cash Contributions and Benefit Payments.” 
+Contingent Losses Management also makes judgments and estimates in recording liabilities for claims, litigation, tax matters and environmental remediation. Actual costs can frequently vary from estimates for a variety of reasons. For example, the costs for settlement of claims and litigation can vary from estimates based on differing interpretations of laws, opinions on culpability and assessments on the amount of damages. Similarly, liabilities for environmental remediation are subject to change because of changes in laws, regulations and their interpretation, the determination of additional information on the extent and nature of site contamination, and improvements in technology. 
+Under the accounting rules, a liability is generally recorded for these types of contingencies if management determines the loss to be both probable and estimable. The company generally reports these losses as “Operating expenses” or “Selling, general and administrative expenses” on the Consolidated Statement of Income. An exception to this handling is for income tax matters, for which benefits are recognized only if management determines the tax position is “more likely than not” (i.e., likelihood greater than 50 percent) to be allowed by the tax jurisdiction. For additional discussion of income tax uncertainties, refer to Note 25 beginning on page 87. Refer also to the business segment discussions elsewhere in this section for the effect on earnings from losses associated with certain litigation, environmental remediation and tax matters for the three years ended December 31, 2017. 
+An estimate as to the sensitivity to earnings for these periods if other assumptions had been used in recording these liabilities is not practicable because of the number of contingencies that must be assessed, the number of underlying assumptions and the wide range of reasonably possible outcomes, both in terms of the probability of loss and the estimates of such loss. 
+New Accounting Standards 
+Refer to Note 5 beginning on page 61 for information regarding new accounting standards.
+
+48
+
+
+
+
+
+
+Quarterly Results and Stock Market Data 
+Unaudited
+ 
+ 
+2017
+ 
+2016
+ 
+ 
+ 
+Millions of dollars, except per-share amounts
+4th Q
+
+ 
+3rd Q
+
+ 
+2nd Q
+
+ 
+1st Q
+
+ 
+4th Q
+
+ 
+3rd Q
+
+ 
+2nd Q
+
+ 
+1st Q
+
+ 
+ 
+Revenues and Other Income
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Sales and other operating revenues1
+$
+36,381
+
+ 
+$
+33,892
+
+ 
+$
+32,877
+
+ 
+$
+31,524
+
+ 
+$
+30,142
+
+ 
+$
+29,159
+
+ 
+$
+27,844
+
+ 
+$
+23,070
+
+ 
+ 
+   Income from equity affiliates
+936
+
+ 
+1,036
+
+ 
+1,316
+
+ 
+1,150
+
+ 
+778
+
+ 
+555
+
+ 
+752
+
+ 
+576
+
+ 
+ 
+   Other income
+299
+
+ 
+1,277
+
+ 
+287
+
+ 
+747
+
+ 
+577
+
+ 
+426
+
+ 
+686
+
+ 
+(93
+)
+ 
+ 
+Total Revenues and Other Income
+37,616
+
+ 
+36,205
+
+ 
+34,480
+
+ 
+33,421
+
+ 
+31,497
+
+ 
+30,140
+
+ 
+29,282
+
+ 
+23,553
+
+ 
+ 
+Costs and Other Deductions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Purchased crude oil and products
+21,158
+
+ 
+18,776
+
+ 
+18,325
+
+ 
+17,506
+
+ 
+16,976
+
+ 
+15,842
+
+ 
+15,278
+
+ 
+11,225
+
+ 
+ 
+   Operating expenses
+5,182
+
+ 
+4,937
+
+ 
+4,662
+
+ 
+4,656
+
+ 
+5,144
+
+ 
+4,666
+
+ 
+5,054
+
+ 
+5,404
+
+ 
+ 
+   Selling, general and administrative expenses
+1,349
+
+ 
+1,238
+
+ 
+991
+
+ 
+870
+
+ 
+1,544
+
+ 
+1,109
+
+ 
+1,033
+
+ 
+998
+
+ 
+ 
+   Exploration expenses
+356
+
+ 
+239
+
+ 
+125
+
+ 
+144
+
+ 
+191
+
+ 
+258
+
+ 
+214
+
+ 
+370
+
+ 
+ 
+   Depreciation, depletion and amortization
+4,735
+
+ 
+5,109
+
+ 
+5,311
+
+ 
+4,194
+
+ 
+4,203
+
+ 
+4,130
+
+ 
+6,721
+
+ 
+4,403
+
+ 
+ 
+   Taxes other than on income1
+3,182
+
+ 
+3,213
+
+ 
+3,065
+
+ 
+2,871
+
+ 
+2,869
+
+ 
+2,962
+
+ 
+2,973
+
+ 
+2,864
+
+ 
+ 
+   Interest and debt expense
+173
+
+ 
+35
+
+ 
+48
+
+ 
+51
+
+ 
+58
+
+ 
+64
+
+ 
+79
+
+ 
+—
+
+ 
+ 
+Total Costs and Other Deductions
+36,135
+
+ 
+33,547
+
+ 
+32,527
+
+ 
+30,292
+
+ 
+30,985
+
+ 
+29,031
+
+ 
+31,352
+
+ 
+25,264
+
+ 
+ 
+Income (Loss) Before Income Tax Expense
+1,481
+
+ 
+2,658
+
+ 
+1,953
+
+ 
+3,129
+
+ 
+512
+
+ 
+1,109
+
+ 
+(2,070
+)
+ 
+(1,711
+)
+ 
+ 
+Income Tax Expense (Benefit)
+(1,637
+)
+ 
+672
+
+ 
+487
+
+ 
+430
+
+ 
+74
+
+ 
+(192
+)
+ 
+(607
+)
+ 
+(1,004
+)
+ 
+ 
+Net Income (Loss)
+$
+3,118
+
+ 
+$
+1,986
+
+ 
+$
+1,466
+
+ 
+$
+2,699
+
+ 
+$
+438
+
+ 
+$
+1,301
+
+ 
+$
+(1,463
+)
+ 
+$
+(707
+)
+ 
+ 
+Less: Net income attributable to
+noncontrolling interests
+7
+
+ 
+34
+
+ 
+16
+
+ 
+17
+
+ 
+23
+
+ 
+18
+
+ 
+7
+
+ 
+18
+
+ 
+ 
+Net Income (Loss) Attributable to Chevron Corporation
+$
+3,111
+
+ 
+$
+1,952
+
+ 
+$
+1,450
+
+ 
+$
+2,682
+
+ 
+$
+415
+
+ 
+$
+1,283
+
+ 
+$
+(1,470
+)
+ 
+$
+(725
+)
+ 
+ 
+Per Share of Common Stock
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Net Income (Loss) Attributable to Chevron Corporation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+– Basic
+$
+1.65
+
+ 
+$
+1.03
+
+ 
+$
+0.77
+
+ 
+$
+1.43
+
+ 
+$
+0.22
+
+ 
+$
+0.68
+
+ 
+$
+(0.78
+)
+ 
+$
+(0.39
+)
+ 
+ 
+– Diluted
+$
+1.64
+
+ 
+$
+1.03
+
+ 
+$
+0.77
+
+ 
+$
+1.41
+
+ 
+$
+0.22
+
+ 
+$
+0.68
+
+ 
+$
+(0.78
+)
+ 
+$
+(0.39
+)
+ 
+ 
+Dividends
+$
+1.08
+
+ 
+$
+1.08
+
+ 
+$
+1.08
+
+ 
+$
+1.08
+
+ 
+$
+1.08
+
+ 
+$
+1.07
+
+ 
+$
+1.07
+
+ 
+$
+1.07
+
+ 
+ 
+Common Stock Price Range – High2
+$
+126.20
+
+ 
+$118.33
+ 
+$
+110.67
+
+ 
+$
+119.00
+
+ 
+$
+119.00
+
+ 
+$
+107.58
+
+ 
+$
+105.00
+
+ 
+$
+97.91
+
+ 
+ 
+ – Low2
+$
+112.57
+
+ 
+$102.55
+ 
+$
+102.55
+
+ 
+$
+105.85
+
+ 
+$
+99.61
+
+ 
+$
+97.53
+
+ 
+$
+92.43
+
+ 
+$
+75.33
+
+ 
+ 
+1 Includes excise, value-added and similar taxes:
+$
+1,874
+
+ 
+$
+1,867
+
+ 
+$
+1,771
+
+ 
+$
+1,677
+
+ 
+$
+1,697
+
+ 
+$
+1,772
+
+ 
+$
+1,784
+
+ 
+$
+1,652
+
+ 
+ 
+2 Intraday price.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The company’s common stock is listed on the New York Stock Exchange (trading symbol: CVX). As of February 12, 2018, stockholders of record numbered approximately 131,000. There are no restrictions on the company’s ability to pay dividends.
+ 
+ 
+ 
+ 
+
+49
